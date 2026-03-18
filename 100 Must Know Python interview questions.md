@@ -1,4 +1,23 @@
 
+1. Maintain an array cols[j] to store cumulative column sums from row 0 to row i.
+2. Iterate row by row:
+Update column sums: cols[j] += grid[i][j]
+3. For the current row:
+Compute running prefix sum across columns (row_sum).
+Each prefix represents a submatrix:
+Top-left = (0,0)
+Bottom-right = (i,j)
+4. If row_sum <= k, count it.
+5. Return total count.
+This effectively counts submatrices that:
+Start at row 0
+Start at column 0
+End at row i
+End at column j￼
+
+
+
+
 ## 4. How is memory allocation and garbage collection handled in _Python_?
 ### Memory Allocation and Garbage Collection in Python
 ### Overview
