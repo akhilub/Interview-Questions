@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
-    "collapsed": true
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e0e657d4edaa9b8",
+  "active": "62cca65b1fc8362e",
   "lastOpenFiles": [
     "100 Must Know Python interview questions.md"
   ]
