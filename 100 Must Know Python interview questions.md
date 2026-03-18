@@ -1,8 +1,4 @@
-Hello World 
-
-How are you doing 
-
-I am calling from Akhil’s IPhone
+Got it, sync i
 ## 4. How is memory allocation and garbage collection handled in _Python_?
 ### Memory Allocation and Garbage Collection in Python
 ### Overview
