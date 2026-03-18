@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Python"
             }
+          },
+          {
+            "id": "1f7dcb0496a44665",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
-    "collapsed": true
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
