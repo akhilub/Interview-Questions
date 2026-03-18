@@ -1,4 +1,4 @@
-Got it, sync is woking
+
 ## 4. How is memory allocation and garbage collection handled in _Python_?
 ### Memory Allocation and Garbage Collection in Python
 ### Overview
