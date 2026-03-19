@@ -54,7 +54,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ### When to use 
 
-| useMemo                                                                    | useCallback                                                                           |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| when you have an expensive computation that depends on some props or state | when you have a function that's passed as a prop to a child component                 |
-| when you want to memoize a value that's used in your component             | when you want to prevent unnecessary re-renders of a child component when the parent  |
+| useMemo                                                                    | useCallback                                                                                          |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| when you have an expensive computation that depends on some props or state | when you have a function that's passed as a prop to a child component                                |
+| when you want to memoize a value that's used in your component             | when you want to prevent unnecessary re-renders of a child component when the parent component chanh |
