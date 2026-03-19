@@ -11,11 +11,13 @@
             "id": "d2b7abbe41014a16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "React Interview Questions.md"
+                "file": "React Interview Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "React Interview Questions"
             }
           }
