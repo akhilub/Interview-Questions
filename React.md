@@ -28,4 +28,4 @@ function Example() {
 
 In the above example, `doubleCount` is memoized and only recalculated when the `count` changes.
 
-****
+**useCallback**
