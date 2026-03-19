@@ -2,7 +2,7 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-excalidraw-
+excalidraw-open-md: true
 ---
 ## What is the difference between `useMemo` and `useCallback` ?
 
