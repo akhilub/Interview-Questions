@@ -52,3 +52,6 @@ function Example() {
 
 In this example, `handleClick` is memoized and only recreated when the dependencies change (in this case, none)
 
+### When to use
+
+|||
