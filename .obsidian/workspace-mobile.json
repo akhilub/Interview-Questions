@@ -176,12 +176,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "React Interview Questions.md",
+    "/React Interview Questions.md",
     "/100 Must Know Python interview questions.md"
   ]
 }
