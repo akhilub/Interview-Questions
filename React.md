@@ -26,4 +26,4 @@ function Example() {
 }
 ```
 
-In the above example, `doubleCount` is memoiz
+In the above example, `doubleCount` is memoized and only recalc
