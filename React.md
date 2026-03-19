@@ -6,4 +6,4 @@ In React, `useMemo` and `useCallback` are two popular hooks that help optimize p
 
 **useMemo**
 
-useMemo is a hook that memoizes a value, which means it caches the result of a 
+useMemo is a hook that memoizes a value, which means it caches the result of a function 
