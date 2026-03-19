@@ -35,4 +35,4 @@ In the above example, `doubleCount` is memoized and only recalculated when the `
 1. A function to be memoized
 2. An array of dependecies.
 
-The 
+The function s
