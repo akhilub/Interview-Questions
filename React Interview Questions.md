@@ -81,7 +81,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ## Virtual DOM
 
-[[React Interview Questions.md#^A0lI-P-UvFKNQUy6PyNwP|v-dom]]
+
 
 %%
 # Excalidraw Data
