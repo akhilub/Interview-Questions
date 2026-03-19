@@ -1,3 +1,8 @@
+---
+excalidraw-plugin: parsed
+tags:
+  - excalidraw
+---
 ## 4. How is memory allocation and garbage collection handled in _Python_?
 ### Memory Allocation and Garbage Collection in Python
 ### Overview
@@ -305,3 +310,12 @@ if __name__ == "__main__":
 ```
 
 By understanding the GIL and its implications, you can write more efficient and scalable concurrent code in Python.
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFFgBGULIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
+%%
