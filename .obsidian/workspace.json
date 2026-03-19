@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -211,6 +212,7 @@
   },
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
+    "React Interview Questions.svg",
     "React Interview Questions.md",
     "100 Must Know Python interview questions.md"
   ]
