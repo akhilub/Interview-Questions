@@ -6,4 +6,4 @@ In React, `useMemo` and `useCallback` are two popular hooks that help optimize p
 
 **useMemo**
 
-use
+useMemo is a hook
