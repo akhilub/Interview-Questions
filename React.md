@@ -54,6 +54,6 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ### When to use
 
-| useMemo | useCallback |     |
-| ------- | ----------- | --- |
-|         |             |     |
+| useMemo | useCallback |
+| ------- | ----------- |
+|         |             |
