@@ -26,14 +26,15 @@
               "type": "markdown",
               "state": {
                 "file": "React Interview Questions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "React Interview Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +210,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e0e657d4edaa9b8",
+  "active": "032181ec9b91e1a1",
   "lastOpenFiles": [
     "React Interview Questions.md",
-    "100 Must Know Python interview questions.md",
-    "React Interview Questions.svg"
+    "React Interview Questions.svg",
+    "100 Must Know Python interview questions.md"
   ]
 }
