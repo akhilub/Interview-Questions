@@ -82,6 +82,8 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 ## Virtual DOM
 
 
+
+
 %%
 # Excalidraw Data
 
