@@ -76,6 +76,8 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 ## Binary Search
 
 ![[React Interview Questions.svg]]
+
+
 %%
 # Excalidraw Data
 
