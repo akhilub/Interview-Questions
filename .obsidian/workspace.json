@@ -15,7 +15,7 @@
               "state": {
                 "file": "React Interview Questions.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "React Interview Questions"
