@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "React Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "React Interview Questions"
             }
           }
         ],
@@ -214,6 +214,6 @@
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
     "100 Must Know Python interview questions.md",
-    "React.md"
+    "React Interview Questions.md"
   ]
 }
