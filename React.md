@@ -36,3 +36,7 @@ In the above example, `doubleCount` is memoized and only recalculated when the `
 2. An array of dependecies.
 
 The function is only recreated when the dependencies change, and the memoized function is returned. If the dependencies don't change, the cached function is returned
+
+```js
+
+```
