@@ -66,3 +66,5 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 `useMemo` memoizes a value, optimizing expensive computations.
 
 `useCallback` memoizes a function, preventin unnecessary re-renders of component that rely on a function prop.
+
+
