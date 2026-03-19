@@ -33,4 +33,6 @@ In the above example, `doubleCount` is memoized and only recalculated when the `
 `useCallback` is a hook that memoizes a function, which means it caches a function so that it's not recreated on every render. The hook takes two arguments:
 
 1. A function to be memoized
-2. An array of depende
+2. An array of dependecies.
+
+The 
