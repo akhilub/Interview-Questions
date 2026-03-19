@@ -38,5 +38,16 @@ In the above example, `doubleCount` is memoized and only recalculated when the `
 The function is only recreated when the dependencies change, and the memoized function is returned. If the dependencies don't change, the cached function is returned
 
 ```js
+import { useCallback } from 'react';
+
+function Example() {
+  const handleClick = useCallback(() => {
+    console.log('Button clicked!');
+  }, []);
+
+  return <button onClick={handleClick}>Click me!</button>;
+}
 
 ```
+
+In this example, `handleClick` is memoized and only recreated when the depe
