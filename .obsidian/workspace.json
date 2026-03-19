@@ -25,13 +25,11 @@
             "id": "d2b7abbe41014a16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "React Interview Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "React Interview Questions.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "React Interview Questions"
             }
           }
@@ -213,7 +211,7 @@
   },
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
-    "100 Must Know Python interview questions.md",
-    "React Interview Questions.md"
+    "React Interview Questions.md",
+    "100 Must Know Python interview questions.md"
   ]
 }
