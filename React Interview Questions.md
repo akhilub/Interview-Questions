@@ -85,10 +85,6 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 ## Video
 
 
-![[React Interview Questions.md#^area=C1tYR86x|video6]]
-
-
-
 %%
 # Excalidraw Data
 
