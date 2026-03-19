@@ -25,3 +25,4 @@ function Example() {
   return <div>Double count: {doubleCount}</div>;
 }
 ```
+
