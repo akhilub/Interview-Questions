@@ -30,4 +30,4 @@ In the above example, `doubleCount` is memoized and only recalculated when the `
 
 **useCallback**
 
-`useCallback` is a hook that mem
+`useCallback` is a hook that memozies 
