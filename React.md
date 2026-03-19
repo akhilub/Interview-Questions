@@ -11,4 +11,4 @@ useMemo is a hook that memoizes a value, which means it caches the result of a f
 1. A function that returns a value to be memoized
 2. An array of dependencies.
 
-The function is only executed when the dependencies change
+The function is only executed when the dependencies change, and the memoize
