@@ -100,7 +100,7 @@
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
-  "fadeOutExcalidrawMarkup": false,
+  "fadeOutExcalidrawMarkup": true,
   "loadPropertySuggestions": false,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
