@@ -16,5 +16,12 @@ The function is only executed when the dependencies change, and the memoized val
 Example :
 
 ```js
-impor
+import { useMemo } from 'react';
+
+function Example() {
+  const count = 5;
+  const doubleCount = useMemo(() => count * 2, [count]);
+
+  return <div>Double count: {doubleCount}</div>;
+}
 ```
