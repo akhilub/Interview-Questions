@@ -11,11 +11,13 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "100 Must Know Python interview questions.md"
+                "file": "100 Must Know Python interview questions.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "100 Must Know Python interview questions"
             }
           }
