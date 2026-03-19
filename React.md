@@ -15,5 +15,6 @@ The function is only executed when the dependencies change, and the memoized val
 
 Example :
 
-```
+```js
+impor
 ```
