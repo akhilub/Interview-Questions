@@ -26,4 +26,4 @@ function Example() {
 }
 ```
 
-In the above example, ``
+In the above example, `doubleCount` is memoiz
