@@ -54,7 +54,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ### When to use 
 
-| useMemo                                                                    | useCallback  |
-| -------------------------------------------------------------------------- | ------------ |
-| when you have an expensive computation that depends on some props or state | when you hav |
-| when you want to memoize a value that's used in your component             |              |
+| useMemo                                                                    | useCallback    |
+| -------------------------------------------------------------------------- | -------------- |
+| when you have an expensive computation that depends on some props or state | when you have  |
+| when you want to memoize a value that's used in your component             |                |
