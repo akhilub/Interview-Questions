@@ -84,7 +84,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ## Video
 
-[[React Interview Questions.md#^C1tYR86x|video1]]
+![[React Interview Questions.md#^C1tYR86x|video1]]
 
 
 %%
