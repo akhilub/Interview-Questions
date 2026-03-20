@@ -177,10 +177,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Drawing 2026-02-17 17.06.58.excalidraw.md"
+                "file": "JavaScript.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2026-02-17 17.06.58.excalidraw"
+              "title": "File properties for JavaScript"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "62cca65b1fc8362e",
   "lastOpenFiles": [
-    "JavaScript.md",
     "Drawing 2026-02-17 17.06.58.excalidraw.md",
+    "JavaScript.md",
     "React Interview Questions.md",
     "100 Must Know Python interview questions.md",
     "React Interview Questions.svg"
