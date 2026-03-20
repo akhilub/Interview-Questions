@@ -83,7 +83,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ![[bs.svg]]
 
-
+Excalidraw Group Image Example
 ![[React Interview Questions.md#^group=rWpbynSweN_c9dLqGbwsZ|bs|800x100]]
 
 
