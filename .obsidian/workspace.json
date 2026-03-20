@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "React Interview Questions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -205,11 +205,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "jotbird:Publish note": false
     }
   },
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
+    "Drawing 2026-02-17 17.06.58.excalidraw.md",
     "React Interview Questions.md",
     "JavaScript.md",
     "100 Must Know Python interview questions.md",
