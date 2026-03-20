@@ -74,11 +74,6 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 `useCallback` memoizes a function, preventing unnecessary re-renders of component that rely on a function prop.
 
-
-
-
-
-
 ## Binary Search
 
 SVG Export from Excalidraw to Vault and then embedded to markdown in Obsidian and published online via jotbird
