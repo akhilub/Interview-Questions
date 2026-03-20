@@ -6,7 +6,8 @@ excalidraw-open-md: true
 jotbird_link: https://share.jotbird.com/gentle-playful-sunrise
 jotbird_expires: 2026-04-19
 ---
-## What is the difference between `useMemo` and `useCallback` ?
+## What is the difference between `useMemo`
+and `useCallback` ?
 
 In React, `useMemo` and `useCallback` are two popular hooks that help optimize performance by memoize values and functions.
 
