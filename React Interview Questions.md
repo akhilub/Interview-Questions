@@ -81,7 +81,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ## Binary Search
 
-SVG Export from Excalidraw to Vault and embedd
+SVG Export from Excalidraw to Vault and then embedded 
 
 ![[bs.svg]]
 
