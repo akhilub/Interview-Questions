@@ -81,7 +81,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ## DOM
 
-![[React Interview Questions.md#^group=A0lI-P-UvFKNQUy6PyNwP|dom|800x200]]
+![[React Interview Questions.md#^group=A0lI-P-UvFKNQUy6PyNwP|dom|800x100]]
 
 
 
