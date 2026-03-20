@@ -89,7 +89,7 @@
   "exportPaddingSVG": 10,
   "exportEmbedScene": false,
   "keepInSync": true,
-  "autoexportSVG": false,
+  "autoexportSVG": true,
   "autoexportPNG": false,
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
