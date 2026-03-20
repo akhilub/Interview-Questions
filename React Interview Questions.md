@@ -82,7 +82,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 ## Binary Search
 
 
-![[React Interview Questions.md#^group=rWpbynSweN_c9dLqGbwsZ|bs|800x100]]
+![[React Interview Questions.svg#^group=rWpbynSweN_c9dLqGbwsZ|bs|800x100]]
 
 
 ## DOM
