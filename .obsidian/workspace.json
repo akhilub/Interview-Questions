@@ -11,13 +11,11 @@
             "id": "d2b7abbe41014a16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "React Interview Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "React Interview Questions.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "React Interview Questions"
             }
           }
@@ -212,10 +210,10 @@
   },
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
+    "React Interview Questions.svg",
     "React Interview Questions.md",
     "100 Must Know Python interview questions.md",
     "JavaScript.md",
-    "Drawing 2026-02-17 17.06.58.excalidraw.md",
-    "React Interview Questions.svg"
+    "Drawing 2026-02-17 17.06.58.excalidraw.md"
   ]
 }
