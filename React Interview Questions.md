@@ -81,6 +81,8 @@ SVG Export from Excalidraw to Vault and then embedded to markdown in Obsidian an
 ![[bs.svg]]
 
 Excalidraw Group Image Example
+
+
 ![[React Interview Questions.md#^group=rWpbynSweN_c9dLqGbwsZ|bs|800x100]]
 
 
