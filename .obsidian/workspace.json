@@ -11,12 +11,10 @@
             "id": "d2b7abbe41014a16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2026-02-17 17.06.58.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-17 17.06.58.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -190,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 451.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +206,7 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "d2b7abbe41014a16",
+  "active": "62cca65b1fc8362e",
   "lastOpenFiles": [
     "JavaScript.md",
     "Drawing 2026-02-17 17.06.58.excalidraw.md",
