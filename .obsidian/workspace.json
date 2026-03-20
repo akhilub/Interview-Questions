@@ -14,9 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "React Interview Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "React Interview Questions"
@@ -79,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -212,9 +210,9 @@
   },
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
+    "React Interview Questions.md",
     "JavaScript.md",
     "100 Must Know Python interview questions.md",
-    "React Interview Questions.md",
     "React Interview Questions.svg"
   ]
 }
