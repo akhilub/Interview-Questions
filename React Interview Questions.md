@@ -81,7 +81,7 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ## Binary Search
 
-Export from 
+SVG Export from Excali
 
 ![[bs.svg]]
 
