@@ -88,7 +88,7 @@ Excalidraw Group Image Example
 
 ## DOM
 
-![[dom.svg|600x100]]
+![[dom.svg|600]]
 
 
 
