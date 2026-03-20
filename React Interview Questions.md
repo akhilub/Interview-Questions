@@ -81,6 +81,8 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 
 ## Binary Search
 
+
+
 ![[bs.svg]]
 
 Excalidraw Group Image Example
