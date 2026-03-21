@@ -16,10 +16,8 @@ Memcached
 Redis
 
 - An in memory data structure store
-
-- Supports lists sets hashes and sorted sets Can be used for queues rate limiting leaderboards and pub sub messaging
-
-Supports persistence so data can survive restarts
+- Supports lists, sets, hashes and sorted sets Can be used for queues rate limiting leaderboards and pub sub messaging
+- Supports persistence so data can survive restarts
 
 The core idea is simple.
 
