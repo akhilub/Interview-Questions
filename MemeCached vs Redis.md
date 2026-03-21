@@ -19,8 +19,8 @@ So what's the difference?
 - Supports lists, sets, hashes and sorted sets Can be used for queues rate limiting leaderboards and pub sub messaging
 - Supports persistence so data can survive restarts
 
-The core idea is simple.
+ _The core idea is simple._
 
-Memcached is a pure cache.
+_Memcached is a pure cache.
 
 Redis is a cache that can also act like a lightweight data store.
