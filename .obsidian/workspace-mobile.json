@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MemeCached vs.md",
+                "file": "MemeCached vs Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MemeCached vs"
+              "title": "MemeCached vs Redis"
             }
           },
           {
@@ -182,7 +182,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "MemeCached vs.md"
+            "file": "MemeCached vs Redis.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -208,8 +208,8 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "MemeCached vs Redis.md",
     "MemeCached vs.md",
+    "MemeCached vs Redis.md",
     "MemeCached vs Redis.svg",
     "dom.svg",
     "MemeCached.md",
