@@ -24,11 +24,6 @@ So what's the difference?
 
 ![[MemeCached vs Redis.svg]]
 
-
-
-
-
-
 **Redis**
 
 - An in memory data structure store
