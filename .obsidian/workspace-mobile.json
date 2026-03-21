@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Interview Questions.md",
+                "file": "MemeCached vs Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Interview Questions"
+              "title": "MemeCached vs Redis"
             }
           },
           {
@@ -182,7 +182,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "React Interview Questions.md"
+            "file": "MemeCached vs Redis.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
