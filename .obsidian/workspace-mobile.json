@@ -11,12 +11,14 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "bs.svg"
+                "file": "React Interview Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "bs"
+              "icon": "lucide-file",
+              "title": "React Interview Questions"
             }
           }
         ]
@@ -194,11 +196,11 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "bs.svg",
+    "dom.svg",
     "100 Must Know Python interview questions.md",
     "React Interview Questions.md",
     "/React Interview Questions.md",
-    "dom.svg",
-    "bs.svg",
     "/dom.svg",
     "/bs.svg",
     "JavaScript.md",
