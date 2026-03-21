@@ -14,8 +14,7 @@ So what's the difference?
 ![[MemeCached vs Redis.svg]]
 
 
-![[MemeCached vs Redis.md#^area=OweDSrU3|MemeCached-vs-Redis]]
-
+![[MemeCached vs Redis.md#^area=OweDSrU3|MemeCached-vs-Redis
 
 **Memcached**
 
