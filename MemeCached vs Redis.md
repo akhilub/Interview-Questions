@@ -46,7 +46,6 @@ _Redis is a cache that can also act like a lightweight data store._
 
 
 %%
-
 # Excalidraw Data
 
 ## Text Elements
