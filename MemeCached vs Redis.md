@@ -1,4 +1,3 @@
-
 Redis and Memcached are both used to make applications faster.
 
 They work as a cache layer between your app and the database.
