@@ -41,7 +41,7 @@ _Memcached is a pure cache._
 
 _Redis is a cache that can also act like a lightweight data store._
 
-
+![](<MemeCached vs Redis.svg>)
 
 
 
