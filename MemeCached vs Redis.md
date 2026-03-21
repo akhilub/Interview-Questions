@@ -12,7 +12,7 @@ Instead of hitting the database every time, your app can fetch frequently used d
 So what's the difference?
 
 
-![](<images/>)
+![](<MemeCached vs Redis.svg>)
 
 
 ![[MemeCached vs Redis.svg]]
