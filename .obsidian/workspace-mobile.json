@@ -11,11 +11,13 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MemeCached vs Redis.md"
+                "file": "MemeCached vs Redis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "MemeCached vs Redis"
             }
           },
@@ -204,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "785f6f2d06750b86",
+  "active": "6151d51b00814c14",
   "lastOpenFiles": [
     "MemeCached vs Redis.md",
     "MemeCached.md",
