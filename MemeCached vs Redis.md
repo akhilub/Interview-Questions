@@ -33,7 +33,6 @@ So what's the difference?
 ![[MemeCached vs Redis.md#^group=OweDSrU3|MemeCached-vs-Redis]]
 
 
-
  _The core idea is simple._
 
 _Memcached is a pure cache._
