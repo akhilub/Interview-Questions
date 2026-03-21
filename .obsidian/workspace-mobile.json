@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "React Interview Questions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "100 Must Know Python interview questions.md",
+            "file": "React Interview Questions.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,7 +170,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "100 Must Know Python interview questions.md"
+            "file": "React Interview Questions.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6151d51b00814c14",
+  "active": "785f6f2d06750b86",
   "lastOpenFiles": [
     "bs.svg",
     "dom.svg",
