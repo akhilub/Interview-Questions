@@ -22,12 +22,7 @@ So what's the difference?
 
 
 
-**Memcached**
 
-- A simple distributed key value cache
-- Stores data in memory
-- Great for fast and lightweight caching
-- No persistence so data disappears if the server restarts
 
 **Redis**
 
