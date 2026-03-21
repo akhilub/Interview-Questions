@@ -6,14 +6,14 @@ Instead of hitting the database every time, your app can fetch frequently used d
 
 So what's the difference?
 
-Memcached
+**Memcached**
 
 - A simple distributed key value cache
 - Stores data in memory
 - Great for fast and lightweight caching
 - No persistence so data disappears if the server restarts
 
-Redis
+**Redis**
 
 - An in memory data structure store
 - Supports lists, sets, hashes and sorted sets Can be used for queues rate limiting leaderboards and pub sub messaging
