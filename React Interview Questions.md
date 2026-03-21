@@ -98,7 +98,6 @@ Excalidraw Group Image Example
 
 
 
-%%
 # Excalidraw Data
 
 ## Text Elements
