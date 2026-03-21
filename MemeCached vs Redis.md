@@ -23,4 +23,4 @@ So what's the difference?
 
 _Memcached is a pure cache._
 
-Redis is a cache that can also act like a lightweight data store.
+_Redis is a cache that can also act like a lightweight data store._
