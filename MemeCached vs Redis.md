@@ -12,6 +12,8 @@ Instead of hitting the database every time, your app can fetch frequently used d
 So what's the difference?
 
 
+```
+![](<images/table 1-1.png>)
 
 
 ![[MemeCached vs Redis.svg]]
