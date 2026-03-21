@@ -35,6 +35,10 @@ So what's the difference?
 - Supports lists, sets, hashes and sorted sets Can be used for queues rate limiting leaderboards and pub sub messaging
 - Supports persistence so data can survive restarts
 
+![[MemeCached vs Redis.md#^group=OweDSrU3|MemeCached-vs-Redis]]
+
+
+
  _The core idea is simple._
 
 _Memcached is a pure cache._
