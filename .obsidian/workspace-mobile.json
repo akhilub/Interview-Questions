@@ -25,18 +25,15 @@
             "id": "bee7ce7e24c336db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MemeCached vs Redis.md",
-                "mode": "source",
-                "source": false
+                "file": "MemeCached vs Redis.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "MemeCached vs Redis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bee7ce7e24c336db",
+  "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "React Interview Questions.md",
     "MemeCached vs Redis.md",
+    "React Interview Questions.md",
     "100 Must Know Python interview questions.md",
     "bs.svg",
     "dom.svg",
