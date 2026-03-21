@@ -2,6 +2,7 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
+excalidraw-open-md: true
 ---
 Redis and Memcached are both used to make applications faster.
 
