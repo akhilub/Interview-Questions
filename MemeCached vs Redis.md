@@ -75,7 +75,6 @@ Database -SQL/PSQL/Mongo ^ll6Z7Con
 
 Cache Hit ^ItAkv9YH
 
-
 ## Drawing
 
 ```compressed-json
