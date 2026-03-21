@@ -15,7 +15,12 @@ So what's the difference?
 ![](<MemeCached vs Redis.svg>)
 
 
+**Memcached**
 
+- A simple distributed key value cache
+- Stores data in memory
+- Great for fast and lightweight caching
+- No persistence so data disappears if the server restarts
 
 ![[MemeCached vs Redis.svg]]
 
