@@ -29,7 +29,7 @@ So what's the difference?
 
 - An in memory data structure store
 - Supports lists, sets, hashes and sorted sets 
-- Can be used for queues rate limiting leaderboards and pub sub messaging
+- Can be used for queuesrate limiting leaderboards and pub sub messaging
 - Supports persistence so data can survive restarts
 
 ![[MemeCached vs Redis.md#^group=OweDSrU3|MemeCached-vs-Redis]]
