@@ -11,12 +11,14 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "React Interview Questions.md"
+                "file": "100 Must Know Python interview questions.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "React Interview Questions"
+              "icon": "lucide-file",
+              "title": "100 Must Know Python interview questions"
             }
           }
         ]
@@ -168,7 +170,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "React Interview Questions.md"
+            "file": "100 Must Know Python interview questions.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -192,14 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6151d51b00814c14",
+  "active": "785f6f2d06750b86",
   "lastOpenFiles": [
     "React Interview Questions.md",
+    "/React Interview Questions.md",
     "dom.svg",
     "bs.svg",
     "/dom.svg",
     "/bs.svg",
-    "/React Interview Questions.md",
     "JavaScript.md",
     "100 Must Know Python interview questions.md",
     "React Interview Questions.svg",
