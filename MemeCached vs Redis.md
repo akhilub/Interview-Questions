@@ -14,6 +14,7 @@ So what's the difference?
 
 ![[MemeCached vs Redis.md#^area=OweDSrU3|MemeCached-vs-Redis]]
 
+
 **Memcached**
 
 - A simple distributed key value cache
