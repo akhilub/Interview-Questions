@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MemeCached vs Redis.md",
+                "file": "MemeCached.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MemeCached vs Redis"
+              "title": "MemeCached"
             }
           },
           {
@@ -182,7 +182,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "MemeCached vs Redis.md"
+            "file": "MemeCached.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -208,8 +208,9 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "MemeCached vs Redis.svg",
     "MemeCached vs Redis.md",
+    "MemeCached.md",
+    "MemeCached vs Redis.svg",
     "React Interview Questions.md",
     "100 Must Know Python interview questions.md",
     "bs.svg",
