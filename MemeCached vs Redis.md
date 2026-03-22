@@ -43,7 +43,9 @@ _Redis is a cache that can also act like a lightweight data store._
 
 ![](<MemeCached vs Redis.svg>)
 
-Valkey = 
+Valkey = Redis
+
+Valkey
 
 
 %%
