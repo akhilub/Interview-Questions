@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js Popular Interview Questions.md",
+                "file": "React Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node.js Popular Interview Questions"
+              "title": "React Interview Questions"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js Popular Interview Questions.md",
+                "file": "React Interview Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Node.js Popular Interview Questions"
+              "title": "Outline of React Interview Questions"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Node.js Popular Interview Questions.md"
+                "file": "React Interview Questions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Node.js Popular Interview Questions"
+              "title": "File properties for React Interview Questions"
             }
           }
         ],
@@ -227,8 +227,8 @@
   },
   "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
-    "React Interview Questions.md",
     "Node.js Popular Interview Questions.md",
+    "React Interview Questions.md",
     "Drawing 2026-03-22 08.49.26.md",
     "MemeCached vs Redis.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
