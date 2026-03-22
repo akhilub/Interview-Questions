@@ -15,7 +15,8 @@ A callback is a function passed as an argument to another function, which is exe
 Example
 
 ```js
-fs.readFile('file.txt', (err, data) => )
+fs.readFile('file.txt', (err, data) => {
+})
 ```
 
 
