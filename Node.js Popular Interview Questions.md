@@ -3,7 +3,7 @@
 
 ## 2. What is the difference between Promise and Callbacks?
 
-Callbacks and Promisese are two popular approaches to handling asynchronous operations in programming. While they share some similarities they have distinct differences in their design, usage and benfits
+Callbacks and Promisese are two popular approaches to handling asynchronous operations in programming. While they share some similarities they have distinct differences in their design, usage and benefits
 
 **Callbacks**
 
@@ -25,6 +25,8 @@ fs.readFile('file.txt', (err, data) => {
 ```
 
 **Promises**
+
+A promise is an object that represents a value that may not
 
 
 
