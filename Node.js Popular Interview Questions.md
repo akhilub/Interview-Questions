@@ -53,10 +53,10 @@ fs.readFile('file.txt')
 
 **Comparison**
 
-| Features | Callbacks | Promises |
-| -------- | --------- | -------- |
-| Design   |           |          |
-|          |           |          |
+| Features     | Callbacks | Promises |
+| ------------ | --------- | -------- |
+| Design       |           |          |
+| Error Handli |           |          |
 
 
 
