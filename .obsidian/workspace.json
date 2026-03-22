@@ -25,26 +25,10 @@
             "id": "35f1fb9379f6a603",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Interview Questions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "React Interview Questions"
-            }
-          },
-          {
-            "id": "6376cea109aa4195",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2026-03-22 08.49.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-22 08.49.26"
+              "title": "New tab"
             }
           }
         ],
@@ -105,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -184,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Interview Questions.md",
+                "file": "Drawing 2026-03-22 08.49.26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of React Interview Questions"
+              "title": "Outline of Drawing 2026-03-22 08.49.26"
             }
           },
           {
@@ -209,10 +192,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "React Interview Questions.md"
+                "file": "Drawing 2026-03-22 08.49.26.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for React Interview Questions"
+              "title": "File properties for Drawing 2026-03-22 08.49.26"
             }
           }
         ],
@@ -238,11 +221,11 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "35f1fb9379f6a603",
+  "active": "62cca65b1fc8362e",
   "lastOpenFiles": [
-    "MemeCached vs Redis.md",
-    "Drawing 2026-03-22 08.49.26.md",
     "React Interview Questions.md",
+    "Drawing 2026-03-22 08.49.26.md",
+    "MemeCached vs Redis.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
     "Excalidraw",
     "Node.js Popular Interview Questions.md",
