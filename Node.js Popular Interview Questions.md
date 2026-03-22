@@ -7,6 +7,8 @@ Callbacks and Promisese are two popular approaches to handling asynchronous oper
 
 **Callbacks**
 
+A call
+
 
  
 
