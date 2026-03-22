@@ -10,7 +10,9 @@ Callbacks and Promisese are two popular approaches to handling asynchronous oper
 A callback is a function passed as an argument to another function, which is executed when a specific operation is completed. 
 
 - Callbacks are often used in asynchronous programming to handle the result of operation.
-- Error handling is typically done through a separate error callback or` try-catch` bloc
+- Error handling is typically done through a separate error callback or` try-catch` block
+
+Exa
 
 
 
