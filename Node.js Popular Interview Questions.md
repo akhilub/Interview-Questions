@@ -3,7 +3,7 @@
 
 ## 2. What is the difference between Promise and Callbacks?
 
-Callbacks and Promisese a
+Callbacks and Promisese are two popula
 
 
  
