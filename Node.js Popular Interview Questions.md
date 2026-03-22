@@ -7,7 +7,7 @@ Callbacks and Promisese are two popular approaches to handling asynchronous oper
 
 **Callbacks**
 
-A callback is a function passed as an argument to another function, which is executed 
+A callback is a function passed as an argument to another function, which is executed when a specific opera
 
 
  
