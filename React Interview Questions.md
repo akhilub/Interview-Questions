@@ -8,7 +8,9 @@ jotbird_expires: 2026-04-20
 ---
 TO create React app
 
-
+```
+npm crea
+```
 
 ## What is the difference between `useMemo`
 and `useCallback` ?
