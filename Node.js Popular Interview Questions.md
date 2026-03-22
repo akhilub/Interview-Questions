@@ -62,8 +62,9 @@ fs.readFile('file.txt')
 
 **When to use each**
 
-|When to use | Callback | Promises|
-|
+| When to use | Callbacks | Promises |
+| ----------- | --------- | -------- |
+|             |           |          |
 
 
 
