@@ -3,6 +3,8 @@
 
 ## 2. What is the difference between Promise and Callbacks?
 
+Callbacks 
+
 
  
 
