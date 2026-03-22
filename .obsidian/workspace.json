@@ -203,12 +203,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +224,7 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "35f1fb9379f6a603",
+  "active": "1f7dcb0496a44665",
   "lastOpenFiles": [
     "React Interview Questions.md",
     "Node.js Popular Interview Questions.md",
