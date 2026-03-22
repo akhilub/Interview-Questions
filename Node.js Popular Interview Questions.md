@@ -64,7 +64,7 @@ fs.readFile('file.txt')
 
 | When to use | Callbacks | Promises |
 | ----------- | --------- | -------- |
-|             |           |          |
+| use         |           |          |
 
 
 
