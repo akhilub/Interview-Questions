@@ -56,7 +56,7 @@ fs.readFile('file.txt')
 | Features       | Callbacks                                                    | Promises                     |
 | -------------- | ------------------------------------------------------------ | ---------------------------- |
 | Design         | A function is passed as an argument                          | A promise object is returned |
-| Error Handling | is done through a separate error callback or try-catch block | is done throu                |
+| Error Handling | is done through a separate error callback or try-catch block | is done through              |
 | Readability    |                                                              |                              |
 | Chaining       |                                                              |                              |
 
