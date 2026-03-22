@@ -53,12 +53,12 @@ fs.readFile('file.txt')
 
 **Comparison**
 
-| Features       | Callbacks | Promises |
-| -------------- | --------- | -------- |
-| Design         | A functi  |          |
-| Error Handling |           |          |
-| Readability    |           |          |
-| Chaining       |           |          |
+| Features       | Callbacks         | Promises |
+| -------------- | ----------------- | -------- |
+| Design         | A function is pas |          |
+| Error Handling |                   |          |
+| Readability    |                   |          |
+| Chaining       |                   |          |
 
 
 
