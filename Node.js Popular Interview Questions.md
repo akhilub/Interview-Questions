@@ -62,9 +62,9 @@ fs.readFile('file.txt')
 
 **When to use**
 
-| Callbacks            | Promises |
-| -------------------- | -------- |
-| when you're working  |          |
+| Callbacks                              | Promises |
+| -------------------------------------- | -------- |
+| when you're working with a legacy code |          |
 
 
 
