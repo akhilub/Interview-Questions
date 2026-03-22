@@ -16,7 +16,8 @@ Example
 
 ```js
 fs.readFile('file.txt', (err, data) => {
-})
+	if 
+});
 ```
 
 
