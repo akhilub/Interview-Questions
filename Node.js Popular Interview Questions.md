@@ -1,4 +1,4 @@
 
- What is the difference between Promise and Callbacks?
-. 
+What is the difference between Promise and Callbacks?
+ 
 
