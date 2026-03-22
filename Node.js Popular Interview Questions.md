@@ -55,6 +55,7 @@ fs.readFile('file.txt')
 
 | Features | Callbacks | Promises |
 | -------- | --------- | -------- |
+| Design   |           |          |
 |          |           |          |
 
 
