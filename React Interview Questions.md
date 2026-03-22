@@ -76,9 +76,9 @@ In this example, `handleClick` is memoized and only recreated when the dependenc
 | when you want to memoize a value that's used in your component             | when you want to prevent unnecessary re-renders of a child component when the parent component changes |
 ### In Summary
 
-`useMemo` memoizes a value, optimizing expensive computations.
+- `useMemo` memoizes a value, optimizing expensive computations.
 
-`useCallback` memoizes a function, preventing unnecessary re-renders of component that rely on a function prop.
+- `useCallback` memoizes a function, preventing unnecessary re-renders of component that rely on a function prop.
 
 ## Binary Search
 
