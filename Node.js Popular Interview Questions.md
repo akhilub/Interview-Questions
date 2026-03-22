@@ -67,7 +67,7 @@ fs.readFile('file.txt')
 | when you're working with a legacy codebase that uses callback          | when you need to handle a simple asynchronous operation without a single callback |
 | when you're working with modern JS or a language that support promises | when you need to handle complex asynchronous operations with multiple callbacks   |
 
-**In summary** 
+### **In summary** 
 
 promises are a modern and recommended approach to handling asynchronous operations, as they provide a more structured and readable way to write code.
 However, callbacks are still widely used, and its essential to understand both concepts to work efficiently with asynchronous programming.
