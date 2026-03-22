@@ -27,7 +27,9 @@ fs.readFile('file.txt', (err, data) => {
 **Promises**
 
 A promise is an object that represents a value that may not be available yet, but will be resolved at some point in the future. 
-Promises provide a way to handle asynchronous operations in a more structured and readable 
+Promises provide a way to handle asynchronous operations in a more structured and readable way.
+
+
 
 
 
