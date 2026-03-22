@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "React Interview Questions"
             }
-          },
-          {
-            "id": "35af5e9cd85d29ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-22 08.49.08.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-22 08.49.08"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-22 08.49.08.md",
+                "file": "React Interview Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-03-22 08.49.08"
+              "title": "Outline of React Interview Questions"
             }
           },
           {
@@ -208,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-22 08.49.08.md"
+                "file": "React Interview Questions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2026-03-22 08.49.08"
+              "title": "File properties for React Interview Questions"
             }
           }
         ],
@@ -237,10 +225,10 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "35af5e9cd85d29ba",
+  "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
-    "React Interview Questions.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
+    "React Interview Questions.md",
     "Excalidraw",
     "Node.js Popular Interview Questions.md",
     "MemeCached vs Redis.md",
