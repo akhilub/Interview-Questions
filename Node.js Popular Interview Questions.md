@@ -12,7 +12,7 @@ Callbacks are often used in asynchronous programming to handle the result of ope
 
 **Key characteristics:**
 
-- A function is passed as an ar
+- A function is passed as an argument to another f
 
 - Error handling is typically done through a separate error callback or` try-catch` block
 
