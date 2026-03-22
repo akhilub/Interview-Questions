@@ -42,7 +42,7 @@ Example
 ```
 const fs = require('fs').promises;
 
-fs.readFile('')
+fs.readFile('file.txt')
 ```
 
 
