@@ -3,7 +3,7 @@
 
 ## 2. What is the difference between Promise and Callbacks?
 
-Callbacks and Promisese are two popular approaches to handling asysnc
+Callbacks and Promisese are two popular approaches to handling asynchronous 
 
 
  
