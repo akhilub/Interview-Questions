@@ -4,7 +4,7 @@ tags:
   - excalidraw
 excalidraw-open-md: true
 jotbird_link: https://share.jotbird.com/gentle-determined-chuckwalla
-jotbird_expires: 2026-04-20
+jotbird_expires: 2026-04-21
 ---
 Redis and Memcached are both used to make applications faster.
 
