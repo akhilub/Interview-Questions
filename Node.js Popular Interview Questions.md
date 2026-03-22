@@ -26,7 +26,8 @@ fs.readFile('file.txt', (err, data) => {
 
 **Promises**
 
-A promise is an object that represents a value that may not be available yet, but will be resolved at some point in the future.
+A promise is an object that represents a value that may not be available yet, but will be resolved at some point in the future. 
+
 
 
 
