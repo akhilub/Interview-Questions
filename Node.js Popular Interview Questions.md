@@ -43,7 +43,8 @@ Example
 const fs = require('fs').promises;
 
 fs.readFile('file.txt')
-	.then((data) => console.log)
+	.then((data) => console.log(data))
+	.
 ```
 
 
