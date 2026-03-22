@@ -69,7 +69,8 @@ fs.readFile('file.txt')
 
 ### **In summary** 
 
-promises are a modern and recommended approach to handling asynchronous operations, as they provide a more structured and readable way to write code.
+Promises are a modern and recommended approach to handling asynchronous operations, as they provide a more structured and readable way to write code.
+
 However, callbacks are still widely used, and its essential to understand both concepts to work efficiently with asynchronous programming.
 
 
