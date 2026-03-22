@@ -188,11 +188,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
+    "width": 475.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -212,12 +212,12 @@
   },
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
+    "100 Must Know Python interview questions.md",
+    "MemeCached vs Redis.md",
     "React Interview Questions.md",
     "MemeCached vs Redis.svg",
-    "MemeCached vs Redis.md",
     "Untitled.md",
     "3643.excalidraw",
-    "100 Must Know Python interview questions.md",
     "dom.svg",
     "React Interview Questions.svg",
     "bs.svg",
