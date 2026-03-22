@@ -53,12 +53,12 @@ fs.readFile('file.txt')
 
 **Comparison**
 
-| Features       | Callbacks                                                    | Promises                      |     |
-| -------------- | ------------------------------------------------------------ | ----------------------------- | --- |
-| Design         | A function is passed as an argument                          | A promise object is returned  |     |
-| Error Handling | is done through a separate error callback or try-catch block | is done through the `catch()` |     |
-| Readability    | can lead to callback hell if not managed properly            |                               |     |
-| Chaining       |                                                              |                               |     |
+| Features       | Callbacks                                                    | Promises                      |
+| -------------- | ------------------------------------------------------------ | ----------------------------- |
+| Design         | A function is passed as an argument                          | A promise object is returned  |
+| Error Handling | is done through a separate error callback or try-catch block | is done through the `catch()` |
+| Readability    | can lead to callback hell if not managed properly            |                               |
+| Chaining       |                                                              |                               |
 
 
 
