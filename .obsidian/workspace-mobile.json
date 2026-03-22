@@ -15,7 +15,7 @@
               "state": {
                 "file": "MemeCached vs Redis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "MemeCached vs Redis"
@@ -189,7 +189,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "785f6f2d06750b86",
+  "active": "6151d51b00814c14",
   "lastOpenFiles": [
     "MemeCached vs Redis.svg",
     "React Interview Questions.md",

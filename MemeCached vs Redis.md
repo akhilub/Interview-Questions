@@ -25,6 +25,7 @@ So what's the difference?
 - No persistence so data disappears if the server restarts
 
 ![[MemeCached vs Redis.svg]]
+
 **Redis**
 
 - An in memory data structure store
