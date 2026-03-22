@@ -53,7 +53,7 @@ fs.readFile('file.txt')
 
 **Comparison**
 
-|Feature|
+|Features|Callbacks
 
 
 
