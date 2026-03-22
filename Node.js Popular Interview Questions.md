@@ -58,7 +58,7 @@ fs.readFile('file.txt')
 | Design         | A function is passed as an argument                          | A promise object is returned                                                  |
 | Error Handling | is done through a separate error callback or try-catch block | is done through the `catch()`                                                 |
 | Readability    | can lead to callback hell if not managed properly            | provides a more structured and readable way to handle asynchronous operations |
-| Chaining       | diffic                                                       |                                                                               |
+| Chaining       | difficult to chain multiple asynchronous operations          | easy to chain multiple as                                                     |
 
 
 
