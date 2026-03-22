@@ -58,7 +58,7 @@ fs.readFile('file.txt')
 | Design         |           |          |
 | Error Handling |           |          |
 | Readability    |           |          |
-| Chainin        |           |          |
+| Chaining       |           |          |
 
 
 
