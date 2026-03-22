@@ -60,7 +60,7 @@ fs.readFile('file.txt')
 | Readability    | can lead to callback hell if not managed properly            | provides a more structured and readable way to handle asynchronous operations |
 | Chaining       | difficult to chain multiple asynchronous operations          | easy to chain multiple asynchronous operations using `then()`.                |
 
-**When to use each**
+**When to use**
 
 | Callbacks | Promises |
 | --------- | -------- |
