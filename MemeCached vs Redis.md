@@ -45,7 +45,7 @@ _Redis is a cache that can also act like a lightweight data store._
 
 Valkey = Redis
 
-Valkey
+Valkey is open source
 
 
 %%
