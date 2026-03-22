@@ -44,7 +44,7 @@ const fs = require('fs').promises;
 
 fs.readFile('file.txt')
 	.then((data) => console.log(data))
-	.catch(err)
+	.catch((err)
 ```
 
 
