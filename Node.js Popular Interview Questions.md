@@ -35,7 +35,7 @@ Promises provide a way to handle asynchronous operations in a more structured an
 
 - A promise object is returned by a function.
 - The promise has three states: pending, fulfilled(resolved), and rejected.
-- The `.then()` method is used to handle the resolved values, and the `catc`
+- The `.then()` method is used to handle the resolved values, and the `catch()` m
 
 
 
