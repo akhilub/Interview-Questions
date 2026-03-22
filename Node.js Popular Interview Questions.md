@@ -5,7 +5,7 @@
 
 Callbacks and Promises are two popular approaches to handling asynchronous operations in programming. While they share some similarities they have distinct differences in their design, usage and benefits
 
-**Callbacks**
+### **Callbacks**
 
 A callback is a function passed as an argument to another function, which is executed when a specific operation is completed. 
 Callbacks are often used in asynchronous programming to handle the result of operation.
