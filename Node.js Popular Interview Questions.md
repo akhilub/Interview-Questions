@@ -53,8 +53,9 @@ fs.readFile('file.txt')
 
 **Comparison**
 
-|Features|Callbacks|Promises|
-|--
+| Features | Callbacks | Promises |
+| -------- | --------- | -------- |
+|          |           |          |
 
 
 
