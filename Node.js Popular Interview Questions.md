@@ -15,6 +15,8 @@ A callback is a function passed as an argument to another function, which is exe
 Example
 
 ```js
+const fs = require('fs/promises');
+
 fs.readFile('file.txt', (err, data) => {
 	if (err){
 		console.log(err);
