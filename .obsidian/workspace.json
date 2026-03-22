@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Interview Questions.md",
+                "file": "MemeCached vs Redis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "React Interview Questions"
+              "title": "MemeCached vs Redis"
             }
           }
         ]
@@ -181,19 +181,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "React Interview Questions.md"
+                "file": "MemeCached vs Redis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for React Interview Questions"
+              "title": "File properties for MemeCached vs Redis"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
-    "collapsed": true
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,12 +211,12 @@
   },
   "active": "d2b7abbe41014a16",
   "lastOpenFiles": [
+    "React Interview Questions.md",
     "MemeCached vs Redis.svg",
     "MemeCached vs Redis.md",
     "Untitled.md",
     "3643.excalidraw",
     "100 Must Know Python interview questions.md",
-    "React Interview Questions.md",
     "dom.svg",
     "React Interview Questions.svg",
     "bs.svg",
