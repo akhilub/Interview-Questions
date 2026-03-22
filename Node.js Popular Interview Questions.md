@@ -40,7 +40,7 @@ Promises provide a way to handle asynchronous operations in a more structured an
 Example
 
 ```
-const fs = require('fs').pr
+const fs = require('fs').promises
 ```
 
 
