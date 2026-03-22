@@ -1,2 +1,2 @@
 
-## 1. What is the difference between Promis
+## 1. What is the difference between Promise and 
