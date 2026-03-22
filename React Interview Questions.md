@@ -9,7 +9,7 @@ jotbird_expires: 2026-04-20
 TO create React app
 
 ```
-npm create-react-app@
+npx create-react-app@
 ```
 
 ## What is the difference between `useMemo`
