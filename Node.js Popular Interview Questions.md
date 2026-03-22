@@ -31,7 +31,7 @@ Promises provide a way to handle asynchronous operations in a more structured an
 
 **Key Characteristics**
 
-- A promise object is returned by a func
+- A promise object is returned by a function
 
 
 
