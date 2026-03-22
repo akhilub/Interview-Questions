@@ -102,7 +102,6 @@ Excalidraw Group Image Example
 ![[React Interview Questions.md#^group=A0lI-P-UvFKNQUy6PyNwP|dom|600x100]]
 
 
-%%
 
 
 
