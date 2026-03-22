@@ -1,6 +1,6 @@
 
 ## 1. What is the difference between Promise and Callbacks?
 
-2. What
-3. 
+ ## 1. What
+2. 
 
