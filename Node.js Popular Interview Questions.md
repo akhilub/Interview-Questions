@@ -7,7 +7,7 @@ Callbacks and Promisese are two popular approaches to handling asynchronous oper
 
 **Callbacks**
 
-A callback is a function 
+A callback is a function passed as a
 
 
  
