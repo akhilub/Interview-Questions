@@ -47,8 +47,7 @@ fs.readFile('file.txt')
 	.catch((err) => console.log(err));
 ```
 
-
-
+**
 
 
  
