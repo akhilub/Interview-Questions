@@ -43,7 +43,7 @@ Promises provide a way to handle asynchronous operations in a more structured an
 
 Example
 
-```
+```js
 const fs = require('fs').promises;
 
 fs.readFile('file.txt')
