@@ -45,6 +45,7 @@ _Redis is a cache that can also act like a lightweight data store._
 
 Valkey = Redis
 
+After 2024 redis require licensing for commercial usage 
 Valkey is open source
 
 
