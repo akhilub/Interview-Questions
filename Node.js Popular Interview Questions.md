@@ -37,7 +37,10 @@ Promises provide a way to handle asynchronous operations in a more structured an
 - The promise has three states: pending, fulfilled(resolved), and rejected.
 - The `.then()` method is used to handle the resolved values, and the `catch()` method is used to handle errors.
 
+Example
 
+```
+```
 
 
 
