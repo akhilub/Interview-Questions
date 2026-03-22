@@ -13,7 +13,7 @@ Callbacks are often used in asynchronous programming to handle the result of ope
 **Key characteristics:**
 
 - A function is passed as an argument to another function
-- The callback function is execu
+- The callback function is executed when the operatio
 
 - Error handling is typically done through a separate error callback or` try-catch` block
 
