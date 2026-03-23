@@ -316,6 +316,12 @@ By understanding the GIL and its implications, you can write more efficient and 
 
 
 
+
+
+
+
+
+
 %%
 ## Drawing
 ```compressed-json
