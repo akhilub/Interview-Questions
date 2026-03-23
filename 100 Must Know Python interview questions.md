@@ -321,6 +321,8 @@ References
 https://github.com/baliyanvinay/Python-Interview-Preparation
 
 
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20Interview%20practise%20questions.md
+
 
 
 
