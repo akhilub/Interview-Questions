@@ -137,8 +137,7 @@ allowfullscreen>
 
 
 
-![[Node.js Popular Interview Questions#^JAKjFMqS]]
-
+![[Node.js Popular Interview Questions#^eab5a1]]
 
 
 
