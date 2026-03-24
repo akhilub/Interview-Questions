@@ -104,11 +104,7 @@ References
 
 ![Reference|595](https://www.youtube.com/watch?v=Vdpx-9Oehdk&list=PL3aZbxdSiCbOBbNqpsFmn9aUQUcYmg7Kz)
 
-![Reference](https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer)
-
-
-
-This directly works on Obsidian-Markdown
+This directly works on Obsidian-Markdown to embed a url
 
 <iframe
 border=0
@@ -119,8 +115,7 @@ src = "https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with
 </iframe>
 
 
-
-References How To Embed
+References on  How To Embed
 
 <iframe 
 width="560" 
