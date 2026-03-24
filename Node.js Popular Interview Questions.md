@@ -149,7 +149,7 @@ allowfullscreen>
 [[Node.js Popular Interview Questions.md#^JAKjFMqS|url-clipped]]
 
 
-
+![[Node.js Popular Interview Questions.md#^area=JAKjFMqS|100%]]
 
 
 
