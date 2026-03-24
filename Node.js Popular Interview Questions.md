@@ -6,7 +6,7 @@ Node/Node.js is a runtime enviroment for executing JS code on the server side.
 
 It is neither a language nor a framework
 
-## 2. How node
+## 2. How Node is
 
 
 
