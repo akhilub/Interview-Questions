@@ -11,12 +11,14 @@
             "id": "35f1fb9379f6a603",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "100 Must Know Python interview questions.md"
+                "file": "Node.js Popular Interview Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "100 Must Know Python interview questions"
+              "icon": "lucide-file",
+              "title": "Node.js Popular Interview Questions"
             }
           }
         ]
@@ -210,10 +212,10 @@
   },
   "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
-    "Drawing 2026-03-24 06.39.49.md",
-    "100 Must Know Python interview questions.md",
-    "Node.js Popular Interview Questions.md",
     "React Interview Questions.md",
+    "100 Must Know Python interview questions.md",
+    "Drawing 2026-03-24 06.39.49.md",
+    "Node.js Popular Interview Questions.md",
     "MemeCached vs Redis.md",
     "Drawing 2026-03-22 08.49.26.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
