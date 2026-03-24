@@ -3,8 +3,7 @@
 ## 1. What is Node.js ?
 
 Node/Node.js is a runtime enviroment for executing JS code on the server side.
-
-It is neither a language nor a framework
+- It is neither a language nor a framework
 
 
 
