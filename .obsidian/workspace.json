@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Node.js Popular Interview Questions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -211,8 +211,8 @@
   },
   "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
-    "React Interview Questions.md",
     "Node.js Popular Interview Questions.md",
+    "React Interview Questions.md",
     "MemeCached vs Redis.md",
     "MemeCached vs Redis.svg",
     "100 Must Know Python interview questions.md",
