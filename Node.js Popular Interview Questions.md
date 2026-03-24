@@ -151,7 +151,7 @@ allowfullscreen>
 
 ![[Node.js Popular Interview Questions.md#^area=JAKjFMqS|100%]]
 
-
+![[Node.js Popular Interview Questions.md#^area=GohGmGP5|100%]]
 
 
 
