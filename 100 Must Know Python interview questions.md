@@ -319,6 +319,9 @@ By understanding the GIL and its implications, you can write more efficient and 
 
 ## What is Generators in Python
 
+
+
+
 References 
 
 https://github.com/baliyanvinay/Python-Interview-Preparation
