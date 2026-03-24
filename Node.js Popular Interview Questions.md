@@ -106,6 +106,10 @@ References
 
 This directly works on Obsidian-Markdown to embed a url
 
+![]
+
+
+
 <iframe
 border=0
 crossborder=0
