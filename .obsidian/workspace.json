@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Must Know Python interview questions.md",
+                "file": "Node.js Popular Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "100 Must Know Python interview questions"
+              "title": "Node.js Popular Interview Questions"
             }
           }
         ]
@@ -212,13 +212,13 @@
   },
   "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
+    "100 Must Know Python interview questions.md",
     "React Interview Questions.md",
     "MemeCached vs Redis.md",
     "Node.js Popular Interview Questions.md",
     "Drawing 2026-03-22 08.49.26.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
     "Excalidraw",
-    "100 Must Know Python interview questions.md",
     "MemeCached vs Redis.svg",
     "3643.excalidraw",
     "dom.svg",
