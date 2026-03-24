@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "100 Must Know Python interview questions"
             }
-          },
-          {
-            "id": "6fc054a3e7234dc9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2026-03-24 06.39.49.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-24 06.39.49"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +208,10 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "6fc054a3e7234dc9",
+  "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
-    "100 Must Know Python interview questions.md",
     "Drawing 2026-03-24 06.39.49.md",
+    "100 Must Know Python interview questions.md",
     "Node.js Popular Interview Questions.md",
     "React Interview Questions.md",
     "MemeCached vs Redis.md",
