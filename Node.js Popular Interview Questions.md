@@ -8,7 +8,9 @@ It is neither a language nor a framework
 
 ## 2. How Node is a runtime enviroment on server side? What is V8?
 
-Like Browsers executes JS on the client side, Similarly Node.js executes JS on the 
+Like Browsers executes JS on the client side, Similarly Node.js executes JS on the server-side.
+
+
 
 
 
