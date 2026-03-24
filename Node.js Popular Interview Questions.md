@@ -8,6 +8,7 @@ jotbird_expires: 2026-04-23
 ---
 # Node.js Basics
 
+
 ## 1. What is Node.js ?
 
 Node/Node.js is a runtime enviroment for executing JS code on the server side.
