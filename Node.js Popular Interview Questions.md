@@ -141,6 +141,8 @@ allowfullscreen>
 
 ^JAKjFMqS
 
+[^JAKjFMqS]
+
 
 
 
