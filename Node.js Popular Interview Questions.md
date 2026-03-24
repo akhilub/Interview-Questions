@@ -106,7 +106,7 @@ References
 
 This directly works on Obsidian-Markdown to embed a url
 
-![Node Notes]()
+![Node Notes](https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer)
 
 
 
