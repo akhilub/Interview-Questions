@@ -101,7 +101,7 @@ However, callbacks are still widely used, and its essential to understand both c
 
 https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer/blob/main/README.md
 
-![[https://www.youtube.com/watch?v=Vdpx-9Oehdk&list=PL3aZbxdSiCbOBbNqpsFmn9aUQUcYmg7Kz]]
+
 
 
 
