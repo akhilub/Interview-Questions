@@ -106,7 +106,7 @@ border=0
 crossborder=0
 height=400
 width=600
-src = "[https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer/blob/main/README.md](https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer)">
+src = "https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer">
 </iframe>
 
 
