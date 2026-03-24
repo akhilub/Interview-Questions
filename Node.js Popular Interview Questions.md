@@ -2,7 +2,7 @@
 
 ## 1. What is Node.js ?
 
-Node/Node.js is a runtime enviroment for executing JS code on the ser
+Node/Node.js is a runtime enviroment for executing JS code on the server si
 
 
 
