@@ -314,7 +314,10 @@ if __name__ == "__main__":
 
 By understanding the GIL and its implications, you can write more efficient and scalable concurrent code in Python.
 
-## What is Decorator
+## What is Decorator in Python?
+
+
+
 
 References 
 
