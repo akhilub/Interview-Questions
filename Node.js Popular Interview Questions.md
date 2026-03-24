@@ -137,7 +137,7 @@ allowfullscreen>
 
 
 
-![[Node.js Popular Interview Questions#^]]
+![[Node.js Popular Interview Questions#^eab5a1]]
 
 
 
@@ -151,7 +151,7 @@ allowfullscreen>
 
 ## Text Elements
 ## Element Links
-JAKjFMqS: https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer
+JAKjFMqS: https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer ^eab5a1
 
 GohGmGP5: https://www.youtube.com/watch?v=Vdpx-9Oehdk&list=PL3aZbxdSiCbOBbNqpsFmn9aUQUcYmg7Kz
 
