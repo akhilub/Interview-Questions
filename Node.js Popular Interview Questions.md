@@ -3,8 +3,6 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
 excalidraw-open-md: true
-jotbird_link: https://share.jotbird.com/curious-steady-sidewinder
-jotbird_expires: 2026-04-23
 ---
 # Node.js Basics
 
