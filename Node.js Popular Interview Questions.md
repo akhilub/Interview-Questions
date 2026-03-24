@@ -103,7 +103,7 @@ However, callbacks are still widely used, and its essential to understand both c
 References
 
 
-This directly works on Obsidian-Mar
+This directly works on Obsidian-Markdo
 
 <iframe
 border=0
