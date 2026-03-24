@@ -3,8 +3,6 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
 excalidraw-open-md: true
-jotbird_link: https://share.jotbird.com/gentle-playful-sunrise
-jotbird_expires: 2026-04-20
 ---
 
 # Node.js Basics
