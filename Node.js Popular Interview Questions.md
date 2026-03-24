@@ -106,10 +106,6 @@ References
 
 This directly works on Obsidian-Markdown to embed a url
 
-![Node Notes](https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer)
-
-
-
 <iframe
 border=0
 crossborder=0
