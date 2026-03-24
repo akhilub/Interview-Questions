@@ -103,7 +103,7 @@ However, callbacks are still widely used, and its essential to understand both c
 References
 
 
-This direc
+This directly works on 
 
 <iframe
 border=0
