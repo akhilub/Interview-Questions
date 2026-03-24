@@ -227,6 +227,7 @@ The GIL is necessary for several reasons:
 The GIL works as follows:
 
 
+
 *   **Lock acquisition**: When a thread wants to execute Python bytecodes, it must acquire the GIL. If the GIL is already held by another thread, the current thread will block until the GIL is released.
 *   **Lock release**: When a thread finishes executing Python bytecodes, it releases the GIL. This allows other threads to acquire the GIL and execute Python bytecodes.
 
