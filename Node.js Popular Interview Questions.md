@@ -111,17 +111,11 @@ src = "https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with
 
 
 <iframe
-
 border=0
-
 crossborder=0
-
 height=400
-
 width=600
-
 src = "https://www.youtube.com/watch?v=HE8Sp41_XnQ">
-
 </iframe>
 
 
