@@ -6,7 +6,8 @@ excalidraw-open-md: true
 jotbird_link: https://share.jotbird.com/quiet-mighty-desert-iguana
 jotbird_expires: 2026-04-20
 ---
-## 4. How is memory allocation and garbage collection handled in _Python_?
+## 4. How is memory allocation and garbage c
+ollection handled in _Python_?
 ### Memory Allocation and Garbage Collection in Python
 ### Overview
 
