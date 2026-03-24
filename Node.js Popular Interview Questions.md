@@ -137,24 +137,6 @@ allowfullscreen>
 
 
 
-[[Node.js Popular Interview Questions.md#^JAKjFMqS|link-1]]
-
-
-![[Node.js Popular Interview Questions.md]]
-
-
-![[Node.js Popular Interview Questions.md#^area=JAKjFMqS|url-area]]
-
-
-[[Node.js Popular Interview Questions.md#^JAKjFMqS|url-clipped]]
-
-
-![[Node.js Popular Interview Questions.md#^area=JAKjFMqS|100%]]
-
-![[Node.js Popular Interview Questions.md#^area=GohGmGP5|100%]]
-
-
-
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
