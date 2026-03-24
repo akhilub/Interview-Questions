@@ -102,7 +102,7 @@ However, callbacks are still widely used, and its essential to understand both c
 
 References
 
-[![title](image_preview_)]
+[![title](image_preview_url)]
 
 
 This directly works on Obsidian-Markdown
