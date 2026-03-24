@@ -11,13 +11,11 @@
             "id": "35f1fb9379f6a603",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Node.js Popular Interview Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "Node.js Popular Interview Questions.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Node.js Popular Interview Questions"
             }
           }
