@@ -10,7 +10,7 @@ It is neither a language nor a framework
 
 Like Browsers executes JS on the client side, Similarly Node.js executes JS on the server-side.
 
-V8 is a JS engine 
+V8 is a JS engine for the JS engine
 
 
 
