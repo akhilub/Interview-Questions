@@ -106,7 +106,7 @@ References
 
 This directly works on Obsidian-Markdown to embed a url
 
-![Node Notes]
+![Node Notes]()
 
 
 
