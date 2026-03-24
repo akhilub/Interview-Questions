@@ -102,7 +102,7 @@ However, callbacks are still widely used, and its essential to understand both c
 
 References
 
-![Reference|90](https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer)
+![Reference|595](https://github.com/becodewala-youtube/130-Nodejs-Interview-Questions-with-Answer)
 
 
 This directly works on Obsidian-Markdown
