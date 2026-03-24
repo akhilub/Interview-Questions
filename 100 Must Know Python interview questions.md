@@ -208,7 +208,7 @@ By understanding the differences between coroutines and threads, you can choose 
 ## 26. What is the Global Interpreter Lock (GIL)?
 ## The Global Interpreter Lock (GIL)
 
-==The GIL is a mutex in CPython (the default Python interpreter) that ensures only one thread executes Python bytecode at a time, even on multi-core systems. This is why multi-threaded CPU-bound programs may not see a performance improvement in CPython.
+==The GIL is a mutex in CPython (the default Python interpreter) that ensures only one thread executes Python bytecode at a time, even on multi-core systems. This is why multi-threaded CPU-bound programs may not see a performance improvement in CPython.==
 ## What is the GIL?
 
 The GIL is a lock that prevents multiple threads from executing Python bytecodes simultaneously. This lock is necessary because Python's memory management is not thread-safe.
