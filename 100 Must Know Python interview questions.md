@@ -317,7 +317,7 @@ By understanding the GIL and its implications, you can write more efficient and 
 ## What is Decorator in Python?
 
 
-## What is Genera
+## What is Generators in Pyt
 
 References 
 
