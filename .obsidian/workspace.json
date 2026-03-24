@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -213,9 +214,9 @@
   "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
     "React Interview Questions.md",
+    "Node.js Popular Interview Questions.md",
     "100 Must Know Python interview questions.md",
     "Drawing 2026-03-24 06.39.49.md",
-    "Node.js Popular Interview Questions.md",
     "MemeCached vs Redis.md",
     "Drawing 2026-03-22 08.49.26.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
