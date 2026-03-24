@@ -6,8 +6,16 @@ excalidraw-open-md: true
 jotbird_link: https://share.jotbird.com/quiet-mighty-desert-iguana
 jotbird_expires: 2026-04-20
 ---
-## 4. How is memory allocation and garbage c
-ollection handled in _Python_?
+## 1. How memory is managed in Python?
+
+Python memory is managed by Python private heap space. All Python objects and data structures are located in a private heap. The programmer does not have an access to this private heap and interpreter takes care of this Python private heap.
+The allocation of Python heap space for Python objects is done by Python memory manager. The core API gives access to some tools for the programmer to code.
+Python also have an inbuilt garbage collector, which recycle all the unused memory and frees the memory and makes it available to the heap space.
+
+
+
+
+## 4. How is memory allocation and garbage collection handled in _Python_?
 ### Memory Allocation and Garbage Collection in Python
 ### Overview
 
@@ -226,8 +234,6 @@ The GIL is necessary for several reasons:
 ## How does the GIL work?
 
 The GIL works as follows:
-
-
 
 *   **Lock acquisition**: When a thread wants to execute Python bytecodes, it must acquire the GIL. If the GIL is already held by another thread, the current thread will block until the GIL is released.
 *   **Lock release**: When a thread finishes executing Python bytecodes, it releases the GIL. This allows other threads to acquire the GIL and execute Python bytecodes.
