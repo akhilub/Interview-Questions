@@ -21,7 +21,8 @@ A React component is a reusable piece of UI logic and markup. It can be a functi
 Example:
 
 ```js
-// Functional Compon
+// Functional Component
+function
 
 ```
 
