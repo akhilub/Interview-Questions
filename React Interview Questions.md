@@ -16,7 +16,7 @@ npx create-react-app@latest my-app
 
 ## What is a React Component?
 
-A React component is a reusable piece of UI logic and markup. It can be a functional component (simpler ) or 
+A React component is a reusable piece of UI logic and markup. It can be a functional component (simpler ) or a class component 
 
 
 
