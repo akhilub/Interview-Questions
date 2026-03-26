@@ -51,7 +51,9 @@ Example :
 
 // Functional Components with Hooks
 
-function Counter()
+function Counter() {
+	
+}
 
 
 
