@@ -117,7 +117,7 @@ function App() {
 ## Explain controlled vs uncontrolled components
 
 - Controlled components : The value is controlled by React state.
-- Uncontrolled component: The value is controlled by the 
+- Uncontrolled component: The value is controlled by the DOM
 
 
 Example (Controlled)
