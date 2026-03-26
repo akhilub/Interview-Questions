@@ -112,7 +112,7 @@ Example
 ```js
 function App () {
 	const [text, setText] = React.useState('');
-	return <input value ={text} onChange = {(e) => setValue(e.target)} />;
+	return <input value ={text} onChange = {(e) => setValue(e.target.value)} />;
 }
 
 ```
