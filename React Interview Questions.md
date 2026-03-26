@@ -96,7 +96,8 @@ function Child({message}){
 	return <h1>{message}</h1>
 }
 
-function Parent
+function Parent() {
+}
 ```
 
 
