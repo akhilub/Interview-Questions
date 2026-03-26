@@ -142,7 +142,7 @@ function App() {
 
 - Mounting : Component is created (componentDidMount)
 - Updating : Props or state change (componentDidUpdate)
-- Unmounting : Component is removed (componentWillUn)
+- Unmounting : Component is removed (componentWillUnmo)
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
