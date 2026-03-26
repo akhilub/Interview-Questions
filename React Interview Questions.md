@@ -52,7 +52,7 @@ Example :
 // Functional Components with Hooks
 
 function Counter() {
-	const [count, setCount] = Reac
+	const [count, setCount] = React.useS
 }
 
 
