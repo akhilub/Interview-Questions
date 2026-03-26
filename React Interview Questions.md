@@ -142,7 +142,7 @@ function App() {
 
 - Mounting
 - Updating
-- Un
+- Unmountin
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
