@@ -18,7 +18,12 @@ npx create-react-app@latest my-app
 
 A React component is a reusable piece of UI logic and markup. It can be a functional component (simpler ) or a class component (more complex).
 
+Example:
 
+```js
+
+
+```
 
 
 
