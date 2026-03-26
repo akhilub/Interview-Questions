@@ -86,7 +86,7 @@ class App extends React.Component {
 
 
 |State|Props
-
+|--|--
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
