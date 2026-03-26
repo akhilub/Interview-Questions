@@ -22,7 +22,7 @@ Example:
 
 ```js
 // Functional Component
-function
+function W
 
 ```
 
