@@ -53,7 +53,7 @@ Example :
 
 function Counter() {
 	const [count, setCount] = React.useState(0);
-	return <button></b
+	return <button></button
 }
 
 
