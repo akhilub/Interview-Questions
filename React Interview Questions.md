@@ -27,7 +27,7 @@ function Hello() {
 }
 
 // Class Component
-function 
+
 
 ```
 
