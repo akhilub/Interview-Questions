@@ -109,7 +109,9 @@ function Parent() {
 
 Example
 
-```
+```js
+
+
 ```
  
 
