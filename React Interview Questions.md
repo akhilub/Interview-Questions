@@ -125,7 +125,7 @@ Example (Controlled)
 
 ```js
 function App() {
-	const [value, setValue] = Rec
+	const [value, setValue] = React.useStat
 }
 
 ```
