@@ -97,7 +97,7 @@ function Child({message}){
 }
 
 function Parent() {
-	return <Child message
+	return <Child message=""
 }
 ```
 
