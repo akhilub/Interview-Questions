@@ -39,7 +39,7 @@ class Hello extends React.component {
 Functional Components
 
 - Simpler written as functions
-- Use React Hooks like `useState` and `useEffect` to handle s
+- Use React Hooks like `useState` and `useEffect` to handle state and lifecy
 
 Class Components
 
