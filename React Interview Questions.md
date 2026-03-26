@@ -119,8 +119,6 @@ function App() {
 - Controlled components : The value is controlled by React state.
 - Uncontrolled component: The value is controlled by the DOM.
 
-
-
 Example (Controlled)
 
 ```js
@@ -128,7 +126,6 @@ function App() {
 	const [value, setValue] = React.useState('');
 	return <input value = {value} onChange={(e) => setValue(e.target.value)} />;
 }
-
 ```
 
 Example (Uncontrolled)
