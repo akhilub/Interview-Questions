@@ -93,7 +93,7 @@ Example : Props
 
 ```js
 function Child({message}){
-	return <h1></h1>
+	return <h1>{message}</h1>
 
 }
 ```
