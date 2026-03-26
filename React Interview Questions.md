@@ -141,7 +141,7 @@ function App() {
 ## Explain the React component LifeCycle?
 
 - Mounting : Component is created (componentDidMount)
-- Updating : Props or state change (compo)
+- Updating : Props or state change (componentD)
 - Unmounting :
 
 ## What is the difference between `useMemo` and `useCallback` ?
