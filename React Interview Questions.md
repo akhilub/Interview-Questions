@@ -71,7 +71,8 @@ class Counter extends React.Component {
 
 - The `render()` method defines what to display in the UI. It returns JSX
 
-
+```
+```
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
