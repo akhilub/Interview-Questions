@@ -108,17 +108,17 @@ function Parent() {
 - React does not have built-in two-way binding, you implement it manually using `onChange` and value.
 
 ```js
-
+function App() {
+	const [text, setText] = React.useState('');
+	return <input value ={text} onChange = {(e) => setValue(e.target.value)} />;
+}
 ```
 
 
 Example (Controlled)
 
 ```js
-function App() {
-	const [text, setText] = React.useState('');
-	return <input value ={text} onChange = {(e) => setValue(e.target.value)} />;
-}
+
 ```
 
 Example (Uncontrolled)
