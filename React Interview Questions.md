@@ -124,7 +124,8 @@ function App() {
 Example (Controlled)
 
 ```js
-function 
+function App() {
+}
 
 ```
 
