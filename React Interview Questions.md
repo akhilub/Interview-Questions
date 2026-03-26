@@ -110,7 +110,7 @@ function Parent() {
 Example (Controlled)
 
 ```js
-function App () {
+function App() {
 	const [text, setText] = React.useState('');
 	return <input value ={text} onChange = {(e) => setValue(e.target.value)} />;
 }
@@ -119,7 +119,8 @@ function App () {
 Example (Uncontrolled)
 
 ```js
-function App () {
+function App() {
+
 }
 ```
 
