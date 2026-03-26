@@ -64,11 +64,8 @@ class Counter extends React.Component {
     return <button onClick={this.increment}>Count: {this.state.count}</button>;
   }
 }
-
-
-
-
 ```
+
 
 
 
