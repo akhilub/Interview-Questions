@@ -43,7 +43,7 @@ Functional Components
 
 Class Components
 - Written as ES6 classes
-- Use state and lifecycle methods like `compone n`
+- Use state and lifecycle methods like `component`
 
 
 
