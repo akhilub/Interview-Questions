@@ -114,7 +114,7 @@ function App() {
 }
 ```
 
-## Explain controlled vs uncontrolled compoen
+## Explain controlled vs uncontrolled components
 
 
 Example (Controlled)
