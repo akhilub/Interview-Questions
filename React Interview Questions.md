@@ -39,6 +39,7 @@ class Hello extends React.component {
 Functional Components
 
 - Simpler written as functions
+- 
 
 Class Components
 
