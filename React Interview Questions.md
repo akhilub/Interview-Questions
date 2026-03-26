@@ -116,7 +116,7 @@ function App() {
 
 ## Explain controlled vs uncontrolled components
 
-- Controlled v
+- Controlled components 
 
 
 Example (Controlled)
