@@ -114,9 +114,8 @@ function App () {
 	const [text, setText] = React.useState('');
 	return <input value ={text} onChange = {(e) => setValue(e.target.value)} />;
 }
-
 ```
- 
+
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
