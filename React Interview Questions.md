@@ -119,7 +119,8 @@ function App () {
 Example (Uncontrolled)
 
 ```js
-
+function App () {
+}
 ```
 
 ## What is the difference between `useMemo` and `useCallback` ?
