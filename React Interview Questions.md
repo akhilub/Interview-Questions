@@ -47,6 +47,11 @@ Class Components
 
 Example :
 
+```js
+
+
+```
+
 
 
 
