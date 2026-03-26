@@ -88,7 +88,7 @@ class App extends React.Component {
 | State                          | Props |
 | ------------------------------ | ----- |
 | Local to component and mutable |       |
-| Defined using                  |       |
+| Defined using useState         |       |
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
