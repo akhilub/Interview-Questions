@@ -42,7 +42,7 @@ Functional Components
 - Use React Hooks like `useState` and `useEffect` to handle state and lifecycle methods
 
 Class Components
-- 
+- Written as ES6 classes
 
 
 
