@@ -16,7 +16,7 @@ npx create-react-app@latest my-app
 
 ## What is a React Component?
 
-
+A React component is  
 
 
 
