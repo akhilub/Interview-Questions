@@ -125,6 +125,7 @@ Example (Controlled)
 
 ```js
 function App() {
+	const
 }
 
 ```
