@@ -92,7 +92,7 @@ class App extends React.Component {
 Example :
 
 ```js
-
+function Child
 ```
 
 
