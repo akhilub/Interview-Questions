@@ -48,7 +48,6 @@ Class Components
 Example :
 
 ```js
-
 // Functional Components with Hooks
 
 function Counter() {
@@ -57,6 +56,7 @@ function Counter() {
 }
 
 // Class Components
+
 class Counter extends React.Component {
   state = { count: 0 };
   increment = () => this.setState({ count: this.state.count + 1 });
