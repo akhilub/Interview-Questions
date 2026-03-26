@@ -43,7 +43,7 @@ Functional Components
 
 Class Components
 - Written as ES6 classes
-- Use state and 
+- Use state and lifecyc
 
 
 
