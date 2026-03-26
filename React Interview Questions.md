@@ -140,7 +140,7 @@ function App() {
 
 ## Explain the React component LifeCycle?
 
-- Mounting : Component is created (comp)
+- Mounting : Component is created (component)
 - Updating :
 - Unmounting :
 
