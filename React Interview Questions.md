@@ -27,7 +27,7 @@ function Hello() {
 }
 
 // Class Component
-class Welcome extends React.component {
+class Hello extends React.component {
 	render () {
 		return 
 	}
