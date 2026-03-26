@@ -140,7 +140,7 @@ function App() {
 
 ## Explain the React component LifeCycle?
 
-- Mounting
+- Mounting :
 - Updating :
 - Unmounting:
 
