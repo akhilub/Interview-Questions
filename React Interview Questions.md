@@ -125,7 +125,7 @@ Example (Controlled)
 
 ```js
 function App() {
-	const [c]
+	const [value, ]
 }
 
 ```
