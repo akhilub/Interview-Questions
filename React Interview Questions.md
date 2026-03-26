@@ -97,10 +97,10 @@ function Child({message}){
 }
 
 function Parent() {
-	return 
+	return <Ch
 }
 ```
-
+il
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
