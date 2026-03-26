@@ -97,6 +97,7 @@ function Child({message}){
 }
 
 function Parent() {
+	return 
 }
 ```
 
