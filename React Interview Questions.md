@@ -111,7 +111,7 @@ Example
 
 ```js
 function App () {
-	const [text, setText] = Reac
+	const [text, setText] = React.useS
 }
 
 ```
