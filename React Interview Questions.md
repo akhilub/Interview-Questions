@@ -92,7 +92,8 @@ class App extends React.Component {
 Example : Props
 
 ```js
-function Child({message}) {
+function Child({message}){
+
 
 }
 ```
