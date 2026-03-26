@@ -144,7 +144,9 @@ function App() {
 - Updating : Props or state change - `componentDidUpdate` or `useEffect(() => { ... }, [dep])`
 - Unmounting : Component is removed (componentWillUnmount) or `useEffect(() => { return () => {...}}, [])`
 
-## ## How do you prevent unnecessary re-renders in React?
+## How do you prevent unnecessary re-renders in React?
+
+
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
