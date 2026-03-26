@@ -121,9 +121,11 @@ Example (Uncontrolled)
 ```js
 function App() {
 	const inputRef = React.useRef();
-	return <input ref={inputR} />
+	return <input ref={inputRef} />
 }
 ```
+
+
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
