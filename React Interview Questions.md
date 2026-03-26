@@ -71,7 +71,13 @@ class Counter extends React.Component {
 
 - The `render()` method defines what to display in the UI. It returns JSX
 
-```
+```js
+class App extends React.Component {
+  render() {
+    return <h1>Hello, World!</h1>;
+  }
+}
+
 ```
 
 
