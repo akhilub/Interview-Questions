@@ -69,7 +69,7 @@ class Counter extends React.Component {
 
 ## What is the role of render() in a class component?
 
-- The `render()` method define
+- The `render()` method defines what to display
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
