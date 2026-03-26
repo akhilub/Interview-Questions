@@ -85,10 +85,10 @@ class App extends React.Component {
 ## What is the difference between state and props ?
 
 
-| State | Props |
-| ----- | ----- |
-|       |       |
-|       |       |
+| State                           | Props |
+| ------------------------------- | ----- |
+| Local to component and mutable  |       |
+|                                 |       |
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
