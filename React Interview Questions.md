@@ -43,7 +43,7 @@ Functional Components
 
 Class Components
 - Written as ES6 classes
-- Use state and lifecycle methods like `componentDidMount`, `componentDid`
+- Use state and lifecycle methods like `componentDidMount`, `componentDidUpdate`, `compom`
 
 
 
