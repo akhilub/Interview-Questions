@@ -104,6 +104,7 @@ function Parent() {
 
 ## What is two-way binding in React ?
 
+- Two 
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
