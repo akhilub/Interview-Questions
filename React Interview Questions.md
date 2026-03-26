@@ -120,7 +120,7 @@ Example (Uncontrolled)
 
 ```js
 function App() {
-	const inputRef = 
+	const inputRef = React.use
 }
 ```
 
