@@ -56,7 +56,9 @@ function Counter() {
 	return <button onClick = {() => setCount(count + 1)}>Count :{count}</button>
 }
 
-// Class Compo
+// Class Component
+
+
 
 
 
