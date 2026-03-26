@@ -34,7 +34,9 @@ class Hello extends React.component {
 }
 ```
 
-## What is the difference between functional and class componetns
+## What is the difference between functional and class componetns?
+
+
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
