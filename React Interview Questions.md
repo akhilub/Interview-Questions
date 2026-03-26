@@ -114,7 +114,7 @@ function App() {
 }
 ```
 
-## Explain 
+## Explain controlled vs 
 
 
 Example (Controlled)
