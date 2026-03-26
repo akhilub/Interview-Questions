@@ -105,7 +105,7 @@ function Parent() {
 ## What is two-way binding in React ?
 
 - Two-way binding means synchronizing data between the component's state and the UI.
-- React does not have built-in two-way binding, you implement it manually using `onChange`
+- React does not have built-in two-way binding, you implement it manually using `onChange` and valu
  
 
 ## What is the difference between `useMemo` and `useCallback` ?
