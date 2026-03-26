@@ -111,7 +111,8 @@ Example
 
 ```js
 function App () {
-	const [text, setText] = React.useState(')
+	const [text, setText] = React.useState('');
+	
 }
 
 ```
