@@ -112,7 +112,7 @@ Example
 ```js
 function App () {
 	const [text, setText] = React.useState('');
-	return <inpit
+	return <input
 }
 
 ```
