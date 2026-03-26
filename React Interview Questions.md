@@ -141,7 +141,7 @@ function App() {
 ## Explain the React component LifeCycle?
 
 - Mounting : Component is created - `componentDidMount` or `useEffect(() => { ... }, [])`
-- Updating : Props or state change - componentDidUpdate
+- Updating : Props or state change - `componentDidUpdate` or 
 - Unmounting : Component is removed (componentWillUnmount)
 
 
