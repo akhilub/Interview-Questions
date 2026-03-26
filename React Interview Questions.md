@@ -107,6 +107,11 @@ function Parent() {
 - Two-way binding means synchronizing data between the component's state and the UI.
 - React does not have built-in two-way binding, you implement it manually using `onChange` and value.
 
+```js
+
+```
+
+
 Example (Controlled)
 
 ```js
