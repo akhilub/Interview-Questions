@@ -89,7 +89,7 @@ class App extends React.Component {
 | -------------------------------------------------------------------------------- | -------------------------------------- |
 | Local to component and mutable                                                   | Passed from parent to child components |
 | Defined using useState (functional components) or this.state (class components). | Immutable in the child component.      |
-| ```js<br>```                                                                     |                                        |
+| ```<br>```                                                                       |                                        |
 |                                                                                  |                                        |
 
 
