@@ -29,7 +29,7 @@ function Hello() {
 // Class Component
 class Hello extends React.component {
 	render () {
-		return 
+		return <h1>Hello React!</h1>
 	}
 }
 
