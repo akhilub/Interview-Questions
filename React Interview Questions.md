@@ -146,7 +146,7 @@ function App() {
 
 ## How do you prevent unnecessary re-renders in React?
 
-- Use Re
+- Use React.memo f
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
