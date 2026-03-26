@@ -104,7 +104,7 @@ function Parent() {
 
 ## What is two-way binding in React ?
 
-- Two-way binding means sync
+- Two-way binding means synchronizing da
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
