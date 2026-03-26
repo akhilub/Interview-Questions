@@ -116,7 +116,10 @@ function App () {
 }
 ```
 
-Example (Uncon)
+Example (Uncontrolled)
+
+```
+```
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
