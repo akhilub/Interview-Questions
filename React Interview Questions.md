@@ -141,7 +141,8 @@ function App() {
 ## Explain the React component LifeCycle?
 
 - Mounting
-- UnM
+- Updating
+- Un
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
