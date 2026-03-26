@@ -121,7 +121,7 @@ Example (Uncontrolled)
 ```js
 function App() {
 	const inputRef = React.useRef();
-	return <input ref=
+	return <input ref={} .
 }
 ```
 
