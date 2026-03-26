@@ -94,8 +94,9 @@ Example : Props
 ```js
 function Child({message}){
 	return <h1>{message}</h1>
-
 }
+
+function P
 ```
 
 
