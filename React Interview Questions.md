@@ -126,7 +126,7 @@ Example (Controlled)
 ```js
 function App() {
 	const [value, setValue] = React.useState('');
-	return <input value = {value} onChange />;
+	return <input value = {value} onChange={() } />;
 }
 
 ```
