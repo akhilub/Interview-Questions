@@ -110,7 +110,9 @@ function Parent() {
 Example
 
 ```js
-
+function App () {
+	
+}
 
 ```
  
