@@ -19,9 +19,7 @@ Hooks allow you to use state and lifecycle features in functional components.
 
 • No need for class components anymore.
 
-2
-
-Why were Hooks introduced?
+2.Why were Hooks introduced?
 
 To reuse logic easily and avoid complex class lifecycles.
 
