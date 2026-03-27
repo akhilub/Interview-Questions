@@ -36,7 +36,7 @@ Handling side effects like API calls, subscriptions, and timers.
 
 - It runs after render.
 
-5 Why is dependency array important in useEffect?
+5. Why is dependency array important in useEffect?
 
 It controls when the effect runs.
 
