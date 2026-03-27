@@ -49,9 +49,8 @@ It controls when the effect runs.
 
 7. What is useContext used for?
 
-It allows sharing data across components without prop drilling.
-
-5- Useful for themes, auth, settings.
+- It allows sharing data across components without prop drilling.
+- Useful for themes, auth, settings.
 
 8
 
