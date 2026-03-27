@@ -38,7 +38,7 @@ Handling side effects like API calls, subscriptions, and timers.
 
 5. Why is dependency array important in useEffect?
 
-- It controls when the effect runs.
+It controls when the effect runs.
 
 • Missing dependencies can cause bugs or infinite loops.
 
