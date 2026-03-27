@@ -54,7 +54,7 @@ It controls when the effect runs.
 
 8. What is useRef used for?
 
-Accessing DOM elements and storing mutable values without re-rendering.
+- Accessing DOM elements and storing mutable values without re-rendering.
 
 - Often used for focus, timers, previous values.
 
