@@ -17,7 +17,7 @@ npx create-react-app@latest my-app
 
 Hooks allow you to use state and lifecycle features in functional components.
 
-• No need for class components anymore.
+- No need for class components anymore.
 
 2.Why were Hooks introduced?
 
