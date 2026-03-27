@@ -47,7 +47,7 @@ It controls when the effect runs.
 - useEffect runs after paint. useLayoutEffect runs before paint.
 - Use useLayoutEffect only when necessary.
 
-7. What is useContext used for?
+## 7. What is useContext used for?
 
 - It allows sharing data across components without prop drilling.
 - Useful for themes, auth, settings.
