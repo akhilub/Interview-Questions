@@ -58,7 +58,7 @@ It controls when the effect runs.
 
 - Often used for focus, timers, previous values.
 
-9. What is useMemo?
+## 9. What is useMemo?
 
 It memoizes expensive calculations to improve performance.
 
