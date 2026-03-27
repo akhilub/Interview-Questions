@@ -44,7 +44,7 @@ It controls when the effect runs.
 
 6. Difference between useEffect and useLayoutEffect
 
-useEffect runs after paint. useLayoutEffect runs before paint.
+- useEffect runs after paint. useLayoutEffect runs before paint.
 
 • Use useLayoutEffect only when necessary.
 
