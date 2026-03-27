@@ -24,7 +24,7 @@ Hooks allow you to use state and lifecycle features in functional components.
 To reuse logic easily and avoid complex class lifecycles.
 - Cleaner, simpler code.
 
-3. What does useState do?
+## 3. What does useState do?
 
 It creates and manages state inside a functional component.
 
