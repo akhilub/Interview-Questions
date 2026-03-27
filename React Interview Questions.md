@@ -13,7 +13,41 @@ jotbird_expires: 2026-04-20
 npx create-react-app@latest my-app
 ```
 
+1 What are React Hooks?
 
+Hooks allow you to use state and lifecycle features in functional components.
+
+• No need for class components anymore.
+
+2
+
+Why were Hooks introduced?
+
+To reuse logic easily and avoid complex class lifecycles.
+
+5 Cleaner, simpler code.
+
+3
+
+What does useState do?
+
+It creates and manages state inside a functional component.
+
+& Updating state re-renders the Ul.
+
+4
+
+What is useEffect used for?
+
+Handling side effects like API calls, subscriptions, and timers.
+
+• It runs after render.
+
+5 Why is dependency array important in useEffect?
+
+It controls when the effect runs.
+
+• Missing dependencies can cause bugs or infinite loops.
 
 
 ## What is the difference between `useMemo` and `useCallback` ?
