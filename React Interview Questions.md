@@ -52,7 +52,7 @@ It controls when the effect runs.
 - It allows sharing data across components without prop drilling.
 - Useful for themes, auth, settings.
 
-8. What is useRef used for?
+## 8. What is useRef used for?
 
 - Accessing DOM elements and storing mutable values without re-rendering.
 
