@@ -42,7 +42,7 @@ It controls when the effect runs.
 
 • Missing dependencies can cause bugs or infinite loops.
 
-6. Difference between useEffect and useLayoutEffect
+## 6. Difference between useEffect and useLayoutEffect
 
 - useEffect runs after paint. useLayoutEffect runs before paint.
 - Use useLayoutEffect only when necessary.
