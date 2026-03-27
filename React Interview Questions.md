@@ -42,7 +42,7 @@ It controls when the effect runs.
 
 • Missing dependencies can cause bugs or infinite loops.
 
-Difference between useEffect and
+6. Difference between useEffect and
 
 useLayoutEffect
 
