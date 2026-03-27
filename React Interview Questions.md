@@ -13,7 +13,7 @@ jotbird_expires: 2026-04-20
 npx create-react-app@latest my-app
 ```
 
-1 What are React Hooks?
+1. What are React Hooks?
 
 Hooks allow you to use state and lifecycle features in functional components.
 
