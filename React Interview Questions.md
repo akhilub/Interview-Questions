@@ -34,7 +34,7 @@ It creates and manages state inside a functional component.
 
 Handling side effects like API calls, subscriptions, and timers.
 
-• It runs after render.
+- It runs after render.
 
 5 Why is dependency array important in useEffect?
 
