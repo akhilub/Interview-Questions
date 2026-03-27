@@ -30,9 +30,7 @@ It creates and manages state inside a functional component.
 
 & Updating state re-renders the Ul.
 
-4
-
-What is useEffect used for?
+4. What is useEffect used for?
 
 Handling side effects like API calls, subscriptions, and timers.
 
