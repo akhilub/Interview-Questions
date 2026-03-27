@@ -64,7 +64,7 @@ It memoizes expensive calculations to improve performance.
 
 & Use only when performance is an issue.
 
-10 What is useCallback?
+10. What is useCallback?
 
 It memoizes functions to avoid unnecessary re-creation.
 
