@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Interview Questions.md",
+                "file": "Node.js Popular Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Interview Questions"
+              "title": "Node.js Popular Interview Questions"
             }
           }
         ]
@@ -182,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "React Interview Questions.md"
+                "file": "Node.js Popular Interview Questions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for React Interview Questions"
+              "title": "File properties for Node.js Popular Interview Questions"
             }
           }
         ],
@@ -213,11 +213,11 @@
   },
   "active": "35f1fb9379f6a603",
   "lastOpenFiles": [
-    "100 Must Know Python interview questions.md",
-    "React Interview Questions.md",
     "Node.js Popular Interview Questions.md",
-    "MemeCached vs Redis.svg",
+    "React Interview Questions.md",
     "MemeCached vs Redis.md",
+    "MemeCached vs Redis.svg",
+    "100 Must Know Python interview questions.md",
     "Drawing 2026-03-24 06.39.49.md",
     "Drawing 2026-03-22 08.49.26.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
