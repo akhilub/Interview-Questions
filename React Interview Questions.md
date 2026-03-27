@@ -42,6 +42,40 @@ It controls when the effect runs.
 
 • Missing dependencies can cause bugs or infinite loops.
 
+Difference between useEffect and
+
+useLayoutEffect
+
+useEffect runs after paint. useLayoutEffect runs before paint.
+
+• Use useLayoutEffect only when necessary.
+
+7 What is useContext used for?
+
+It allows sharing data across components without prop drilling.
+
+5- Useful for themes, auth, settings.
+
+8
+
+What is useRef used for?
+
+Accessing DOM elements and storing mutable values without re-rendering.
+
+- Often used for focus, timers, previous values.
+
+What is useMemo?
+
+It memoizes expensive calculations to improve performance.
+
+& Use only when performance is an issue.
+
+10 What is useCallback?
+
+It memoizes functions to avoid unnecessary re-creation.
+
+• Useful when passing functions to child components.
+
 
 ## What is the difference between `useMemo` and `useCallback` ?
 
