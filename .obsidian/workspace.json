@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Interview Questions.md",
-                "mode": "preview",
+                "file": "100 Must Know Python interview questions.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Interview Questions"
+              "title": "100 Must Know Python interview questions"
+            }
+          },
+          {
+            "id": "17ecd4fdc8c2a3e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2026-04-03 04.21.48.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-03 04.21.48"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,19 +223,20 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "35f1fb9379f6a603",
+  "active": "17ecd4fdc8c2a3e4",
   "lastOpenFiles": [
     "100 Must Know Python interview questions.md",
-    "React Interview Questions.md",
-    "Node.js Popular Interview Questions.md",
-    "MemeCached vs Redis.svg",
+    "Drawing 2026-04-03 04.21.48.md",
+    "dom.svg",
     "MemeCached vs Redis.md",
+    "Node.js Popular Interview Questions.md",
+    "React Interview Questions.md",
+    "MemeCached vs Redis.svg",
     "Drawing 2026-03-24 06.39.49.md",
     "Drawing 2026-03-22 08.49.26.md",
     "Excalidraw/Drawing 2026-03-22 08.49.08.md",
     "Excalidraw",
     "3643.excalidraw",
-    "dom.svg",
     "React Interview Questions.svg",
     "bs.svg",
     "JavaScript.md",
