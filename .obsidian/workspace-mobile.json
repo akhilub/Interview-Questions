@@ -29,8 +29,8 @@
               "state": {
                 "file": "MemeCached vs Redis.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "MemeCached vs Redis"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
         ]
@@ -195,7 +195,6 @@
     "hiddenItems": {
       "obsidian42-brat:BRAT": false,
       "jotbird:Publish note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,6 +207,8 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "Work Ideas.md",
+    "/Work Ideas.md",
     "React Interview Questions.md",
     "100 Must Know Python interview questions.md",
     "dom.svg",
