@@ -11,14 +11,12 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "100 Must Know Python interview questions.md",
-                "mode": "source",
-                "source": false
+                "file": "Work Ideas.md"
               },
-              "icon": "lucide-file",
-              "title": "100 Must Know Python interview questions"
+              "icon": "excalidraw-icon",
+              "title": "Work Ideas"
             }
           },
           {
@@ -202,15 +200,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "100 Must Know Python interview questions.md",
     "Work Ideas.md",
     "/Work Ideas.md",
     "React Interview Questions.md",
-    "100 Must Know Python interview questions.md",
     "dom.svg",
     "MemeCached vs Redis.md",
     "bs.svg",
