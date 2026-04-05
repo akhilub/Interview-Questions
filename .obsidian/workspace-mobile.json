@@ -11,12 +11,14 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Work Ideas.md"
+                "file": "MemeCached vs Redis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Work Ideas"
+              "icon": "lucide-file",
+              "title": "MemeCached vs Redis"
             }
           },
           {
@@ -206,13 +208,13 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "Work Ideas.md",
+    "dom.svg",
+    "bs.svg",
     "100 Must Know Python interview questions.md",
+    "Work Ideas.md",
     "/Work Ideas.md",
     "React Interview Questions.md",
-    "dom.svg",
     "MemeCached vs Redis.md",
-    "bs.svg",
     "MemeCached vs Redis.svg",
     "Node.js Popular Interview Questions.md",
     "/React Interview Questions.md",
