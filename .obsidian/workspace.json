@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Work Ideas"
             }
+          },
+          {
+            "id": "0f86d1f03ce44ca5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +221,7 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "17ecd4fdc8c2a3e4",
+  "active": "380a45145cda107a",
   "lastOpenFiles": [
     "Work Ideas.md",
     "100 Must Know Python interview questions.md",
