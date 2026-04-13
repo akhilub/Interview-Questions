@@ -1,2 +1,2 @@
 
-How will you secure your REST APIs with OA
+How will you secure your REST APIs with OAuth 2.0 an
