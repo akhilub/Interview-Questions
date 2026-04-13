@@ -53,3 +53,9 @@ Using OAuth 2.0 and JWT together provides several benefits:
 - **Compact and URL-Safe Tokens**: JWTs provide a compact and URL-safe way to represent claims, making them easy to transmit and verify.
   
 - **Digital Signatures**: JWTs are digitally signed, ensuring that the token cannot be tampered with.
+
+**Example Code**  
+  
+Here's an example of how you might implement OAuth 2.0 and JWT using Node.js and Express.js:
+
+
