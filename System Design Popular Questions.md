@@ -59,7 +59,6 @@ Using OAuth 2.0 and JWT together provides several benefits:
 Here's an example of how you might implement OAuth 2.0 and JWT using Node.js and Express.js:
 
 ```js
-
 const express = require('express');
 const app = express();
 const jwt = require('jsonwebtoken');
