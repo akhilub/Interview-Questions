@@ -5,7 +5,10 @@ OAuth 2.0 and JWT are two popular technologies used to secure APIs. Here's how t
   
 **OAuth 2.0**  
   
-OAuth 2.0 is an authorization framework that allows a client (e.g., a web application or a mobile app) to access a protected resource (e.g., an API) on behalf of a resource owner (e.g., a user). Here's a high-level overview of the OAuth 2.0 flow:  
+OAuth 2.0 is an authorization framework that allows a client (e.g., a web application or a mobile app) to access a protected resource (e.g., an API) on behalf of a resource owner (e.g., a user). 
+
+Here's a high-level overview of the OAuth 2.0 flow:  
+
 - **Client Registration**: The client registers with the authorization server and obtains a client ID and client secret.
   
 - **Authorization Request**: The client requests authorization from the resource owner, redirecting them to the authorization server.
