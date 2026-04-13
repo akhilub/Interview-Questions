@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17ecd4fdc8c2a3e4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Work Ideas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Work Ideas"
-            }
-          },
-          {
             "id": "0f86d1f03ce44ca5",
             "type": "leaf",
             "state": {
@@ -221,7 +209,7 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "17ecd4fdc8c2a3e4",
+  "active": "0f86d1f03ce44ca5",
   "lastOpenFiles": [
     "Work Ideas.md",
     "100 Must Know Python interview questions.md",
