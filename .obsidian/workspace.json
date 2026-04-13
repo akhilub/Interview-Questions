@@ -31,8 +31,7 @@
               "title": "Work Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +221,7 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "0f86d1f03ce44ca5",
+  "active": "17ecd4fdc8c2a3e4",
   "lastOpenFiles": [
     "Work Ideas.md",
     "100 Must Know Python interview questions.md",
