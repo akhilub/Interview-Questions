@@ -1,2 +1,2 @@
 
-How will you sec
+How will you secure 
