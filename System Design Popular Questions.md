@@ -58,4 +58,67 @@ Using OAuth 2.0 and JWT together provides several benefits:
   
 Here's an example of how you might implement OAuth 2.0 and JWT using Node.js and Express.js:
 
+const express = require('express');
+const app = express();
+const jwt = require('jsonwebtoken');
+const oauth2 = require('oauth2-server');
+
+// OAuth 2.0 Server
+const oauth2Server = new oauth2.Server({
+  model: {
+    // Client credentials model
+    getClient: (clientId, callback) => {
+      // Return client credentials
+    },
+    // User credentials model
+    getUser: (username, password, callback) => {
+      // Return user credentials
+    },
+    // Token model
+    saveToken: (token, client, user, callback) => {
+      // Save token to database
+    },
+  },
+});
+
+// JWT Functions
+const createJWT = (user) => {
+  const payload = {
+    sub: user.id,
+    exp: Math.floor(Date.now() / 1000) + 60 * 60, // 1 hour
+  };
+  return jwt.sign(payload, 'secretkey', { algorithm: 'HS256' });
+};
+
+const verifyJWT = (token) => {
+  try {
+    const decoded = jwt.verify(token, 'secretkey', { algorithms: ['HS256'] });
+    return decoded;
+  } catch (err) {
+    return null;
+  }
+};
+
+// API Route
+app.get('/protected', (req, res) => {
+  const token = req.header('Authorization');
+  if (!token) return res.status(401).send('Access denied');
+  const decoded = verifyJWT(token);
+  if (!decoded) return res.status(401).send('Invalid token');
+  res.send('Hello, World!');
+});
+
+// OAuth 2.0 Token Endpoint
+app.post('/token', (req, res) => {
+  const clientId = req.body.client_id;
+  const clientSecret = req.body.client_secret;
+  const grantType = req.body.grant_type;
+  const code = req.body.code;
+
+  // Validate client credentials and authorization code
+  // ...
+
+  const token = createJWT({ id: 1 }); // Replace with actual user ID
+  res.json({ accesstoken: token, token_type: 'Bearer' });
+});
 
