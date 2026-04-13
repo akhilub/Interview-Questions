@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "Work Ideas"
             }
+          },
+          {
+            "id": "282aff4f0913034f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -209,9 +223,10 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "0f86d1f03ce44ca5",
+  "active": "282aff4f0913034f",
   "lastOpenFiles": [
     "Work Ideas.md",
+    "Untitled.md",
     "100 Must Know Python interview questions.md",
     "dom.svg",
     "MemeCached vs Redis.md",
