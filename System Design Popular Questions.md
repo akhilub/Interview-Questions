@@ -22,13 +22,15 @@ Here's a high-level overview of the OAuth 2.0 flow:
   
 **JWT (JSON Web Tokens)**  
   
-JWT is a compact, URL-safe means of representing claims to be transferred between two parties. JWTs are digitally signed and contain a payload that can be verified and trusted. Here's a high-level overview of JWT:  
+JWT is a compact, URL-safe means of representing claims to be transferred between two parties. JWTs are digitally signed and contain a payload that can be verified and trusted. 
+
+Here's a high-level overview of JWT:  
+
 - **Token Creation**: A JWT is created by the authorization server, containing a payload with claims (e.g., user ID, expiration time).
   
 - **Token Signing**: The JWT is digitally signed with a secret key, ensuring that the token cannot be tampered with.
   
 - **Token Verification**: The client verifies the JWT by checking the digital signature and payload.
-  
   
 **Securing APIs with OAuth 2.0 and JWT**  
   
