@@ -23,12 +23,12 @@
             "id": "0f86d1f03ce44ca5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Work Ideas.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "excalidraw-icon",
+              "title": "Work Ideas"
             }
           }
         ],
