@@ -35,6 +35,7 @@ Here's a high-level overview of JWT:
 **Securing APIs with OAuth 2.0 and JWT**  
   
 To secure APIs with OAuth 2.0 and JWT, you can follow these steps:  
+
 - **Client Requests Access Token**: The client requests an access token from the authorization server using OAuth 2.0.
   
 - **Authorization Server Issues JWT**: The authorization server issues a JWT access token to the client, containing a payload with claims (e.g., user ID, expiration time).
