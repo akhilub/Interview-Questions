@@ -122,4 +122,4 @@ app.post('/token', (req, res) => {
   const token = createJWT({ id: 1 }); // Replace with actual user ID
   res.json({ accesstoken: token, token_type: 'Bearer' });
 });
-
+```
