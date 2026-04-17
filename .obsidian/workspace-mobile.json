@@ -11,12 +11,12 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "MemeCached vs Redis.svg"
+                "file": "Work Ideas.md"
               },
-              "icon": "lucide-image",
-              "title": "MemeCached vs Redis"
+              "icon": "excalidraw-icon",
+              "title": "Work Ideas"
             }
           },
           {
@@ -204,13 +204,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "10d431a579fe50b8",
+  "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "Work Ideas.md",
+    "AcctStatement_XXX7892_16042026.pdf",
     "MemeCached vs Redis.svg",
     "Node.js Popular Interview Questions.md",
     "React Interview Questions.md",
     "System Design Popular Questions.md",
-    "Work Ideas.md",
     "/Work Ideas.md",
     "/System Design Popular Questions.md",
     "MemeCached vs Redis.md",
