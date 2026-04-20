@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -211,6 +210,9 @@
   },
   "active": "0f86d1f03ce44ca5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Slack.md",
+    "AcctStatement_XXX7892_16042026.pdf",
     "System Design Popular Questions.md",
     "Work Ideas.md",
     "100 Must Know Python interview questions.md",
