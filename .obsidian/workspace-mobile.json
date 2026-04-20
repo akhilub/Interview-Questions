@@ -182,14 +182,14 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "100 Must Know Python interview questions.md"
+            "file": "MemeCached vs Redis.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +206,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6151d51b00814c14",
+  "active": "785f6f2d06750b86",
   "lastOpenFiles": [
     "Work Ideas.md",
     "AcctStatement_XXX7892_16042026.pdf",
