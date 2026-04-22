@@ -11,12 +11,14 @@
             "id": "0f86d1f03ce44ca5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Work Ideas.md"
+                "file": "Slack.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Work Ideas"
+              "icon": "lucide-file",
+              "title": "Slack"
             }
           }
         ]
