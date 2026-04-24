@@ -30,6 +30,8 @@ This is the most common manual approach to ensure your changes are safely stashe
     git stash apply
     ```
     
+
+    
     Use code with caution.
     
     _(Use `git stash pop` instead of `apply` if you want to automatically delete the stash after applying it.)_ ![Stack Overflow]
