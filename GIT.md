@@ -24,9 +24,9 @@ _(Note: Using `git stash push` is the modern replacement for the deprecated 
 ```bash
 git checkout -b <new-branch-name>
 ```
-    
-    Use code with caution.
-    
+
+Use code with caution.
+
 2. **Apply the stashed changes:** Bring the stashed work into your new branch.
 
 ```bash
