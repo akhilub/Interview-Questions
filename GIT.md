@@ -28,8 +28,10 @@ This is the most common manual approach to ensure your changes are safely stashe
 
   ```bash
     git stash apply
-    ```
-    
+```
+```
+
+```    
 
     
     Use code with caution.
