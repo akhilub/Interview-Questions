@@ -7,8 +7,6 @@ Option 1: Standard Multi-Step Process
 This is the most common manual approach to ensure your changes are safely stashed before switching branches. [GitHub Gist](https://gist.github.com/8378720). 
 
 1. **Stash your changes:** Save your current progress to the stash stack.
-
-    
     ```bash
     git stash push -m "description of changes"
     ```
