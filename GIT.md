@@ -10,7 +10,7 @@ This is the most common manual approach to ensure your changes are safely stashe
 
        ```bash
     git stash push -m "description of changes"
-    ```
+  ```
     
     Use code with caution.
     
