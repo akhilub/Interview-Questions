@@ -26,9 +26,9 @@ This is the most common manual approach to ensure your changes are safely stashe
 2. **Apply the stashed changes:** Bring the stashed work into your new branch.
 
 
-	```
-	git stash apply
-	```
+```
+git stash apply
+```
 
 
 Use code with caution.
