@@ -35,7 +35,7 @@ git stash apply
 
 Use code with caution.
 
-_(Use `git stash pop` instead of `apply` if you want to automatically delete the stash after applying it.)_ ![Stack Overflow]
+_(Use `git stash pop` instead of `apply` if you want to automatically delete the stash after applying it.)_ 
 
 ### Option 2: The Direct "Branch from Stash" One-Liner
 
