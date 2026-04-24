@@ -2,7 +2,7 @@
 
 To move uncommitted changes from `main` to a new branch using a stash, use the following sequence of Git commands. 
 
-Option 1: Standard Multi-Step Process
+### Option 1: Standard Multi-Step Process
 
 This is the most common manual approach to ensure your changes are safely stashed before switching branches. [GitHub Gist](https://gist.github.com/8378720). 
 
