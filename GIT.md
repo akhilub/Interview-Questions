@@ -40,9 +40,8 @@ Option 2: The Direct "Branch from Stash" One-Liner
 
 If you have already stashed your work, you can create a new branch and apply those changes in a single command. [Scaler Topics](https://www.scaler.com/topics/git/git-stash-branch/). 
 
-bash
 
-```
+```bash
 git stash branch <new-branch-name>
 ```
 
