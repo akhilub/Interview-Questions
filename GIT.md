@@ -15,7 +15,8 @@ git stash push -m "description of changes"
 
 Use code with caution.
 
-_(Note: Using `git stash push` is the modern replacement for the deprecated `git stash save`.)_
+_(Note: Using `git stash push` is the modern replacement for the deprecated 
+`git stash save`.)_
 
 2. **Create and switch to the new branch:** Base it off your current `main` branch.
 
