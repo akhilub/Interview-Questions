@@ -41,7 +41,6 @@ _(Use `git stash pop` instead of `apply` if you want to automatically delete
 
 If you have already stashed your work, you can create a new branch and apply those changes in a single command. [Scaler Topics](https://www.scaler.com/topics/git/git-stash-branch/). 
 
-
 ```bash
 git stash branch <new-branch-name>
 ```
