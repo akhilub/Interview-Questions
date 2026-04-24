@@ -36,7 +36,7 @@ This is the most common manual approach to ensure your changes are safely stashe
     
     _(Use `git stash pop` instead of `apply` if you want to automatically delete the stash after applying it.)_ ![Stack Overflow]
 
-Option 2: The Direct "Branch from Stash" One-Liner
+### Option 2: The Direct "Branch from Stash" One-Liner
 
 If you have already stashed your work, you can create a new branch and apply those changes in a single command. [Scaler Topics](https://www.scaler.com/topics/git/git-stash-branch/). 
 
