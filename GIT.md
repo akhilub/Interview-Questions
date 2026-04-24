@@ -27,7 +27,7 @@ git checkout -b <new-branch-name>
 
 Use code with caution.
 
-2. **Apply the stashed changes:** Bring the stashed work into your new branch.
+3. **Apply the stashed changes:** Bring the stashed work into your new branch.
 
 ```bash
 git stash apply
