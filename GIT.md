@@ -9,7 +9,7 @@ This is the most common manual approach to ensure your changes are safely stashe
 1. **Stash your changes:** Save your current progress to the stash stack.
 
     
-   ```bash
+    ```bash
     git stash push -m "description of changes"
     ```
     
