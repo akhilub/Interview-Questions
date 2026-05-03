@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "add2df3c6c04a8a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-03 12.56.41.excalidraw"
+            }
+          },
+          {
             "id": "bee7ce7e24c336db",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -261,11 +273,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8cf1bf7260f09d46",
+  "active": "add2df3c6c04a8a4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
+    "Excalidraw",
     "/GIT.md",
     "GIT.md",
-    "Untitled.md",
     "Company.md",
     "/Work Ideas.md",
     "/Slack.md",
