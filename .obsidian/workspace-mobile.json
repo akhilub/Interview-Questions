@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "ac6192afd9aa0f69",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-03 13.23.31.excalidraw"
+            }
+          },
+          {
             "id": "58ab993326cd78b8",
             "type": "leaf",
             "state": {
@@ -85,7 +97,8 @@
               "title": "excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,8 +271,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6151d51b00814c14",
+  "active": "ac6192afd9aa0f69",
   "lastOpenFiles": [
+    "MemeCached vs Redis.md",
+    "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
     "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
     "Untitled.md",
     "Excalidraw",
@@ -269,7 +284,6 @@
     "/Work Ideas.md",
     "/Slack.md",
     "Work Ideas.md",
-    "MemeCached vs Redis.md",
     "Slack.md",
     "AcctStatement_XXX7892_16042026.pdf",
     "MemeCached vs Redis.svg",
