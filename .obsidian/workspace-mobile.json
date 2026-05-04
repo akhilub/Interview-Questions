@@ -97,8 +97,7 @@
               "title": "excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +246,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "GIT.md"
+            "file": "MemeCached vs Redis.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -271,10 +270,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ac6192afd9aa0f69",
+  "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "MemeCached vs Redis.md",
     "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
+    "MemeCached vs Redis.md",
     "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
     "Untitled.md",
     "Excalidraw",
