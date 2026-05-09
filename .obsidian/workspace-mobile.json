@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MemeCached vs Redis.md",
+                "file": "GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MemeCached vs Redis"
+              "title": "GIT"
             }
           },
           {
@@ -29,8 +29,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-03 13.23.31.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -41,8 +41,8 @@
               "state": {
                 "file": "Work Ideas.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Work Ideas"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -81,8 +81,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-03 12.56.41.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -266,14 +266,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
     "MemeCached vs Redis.md",
+    "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
     "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
     "Untitled.md",
     "Excalidraw",
