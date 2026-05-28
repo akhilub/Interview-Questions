@@ -253,7 +253,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,6 +272,7 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "/Company.md",
     "GIT.md",
     "MemeCached vs Redis.md",
     "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
