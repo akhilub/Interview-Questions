@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "Company.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "Company"
             }
           },
           {
@@ -257,6 +257,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian42-brat:BRAT": false,
       "jotbird:Publish note": false,
       "switcher:Open quick switcher": false,
@@ -271,13 +272,13 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "GIT.md",
     "MemeCached vs Redis.md",
     "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
     "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
     "Untitled.md",
     "Excalidraw",
     "/GIT.md",
-    "GIT.md",
     "Company.md",
     "/Work Ideas.md",
     "/Slack.md",
