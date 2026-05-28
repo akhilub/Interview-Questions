@@ -11,12 +11,10 @@
             "id": "0f86d1f03ce44ca5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-03 13.23.31.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -210,8 +208,8 @@
   },
   "active": "0f86d1f03ce44ca5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
     "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
     "Node.js Popular Interview Questions.md",
     "GIT.md",
     "Excalidraw",
