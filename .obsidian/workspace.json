@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +212,7 @@
   "active": "0f86d1f03ce44ca5",
   "lastOpenFiles": [
     "AmitKumarGupta_jumpcloud 2.pdf",
+    "Untitled.md",
     "100 Must Know Python interview questions.md",
     "bs.svg",
     "Company.md",
@@ -223,7 +223,6 @@
     "GIT.md",
     "Excalidraw",
     "Work Ideas.md",
-    "Untitled.md",
     "Slack.md",
     "AcctStatement_XXX7892_16042026.pdf",
     "System Design Popular Questions.md",
