@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Work Ideas"
             }
+          },
+          {
+            "id": "8dd67c92cbeba559",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Work Ideas.restored.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Work Ideas.restored"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "773b9d306ecf946a",
@@ -190,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +222,12 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "0f86d1f03ce44ca5",
+  "active": "8dd67c92cbeba559",
   "lastOpenFiles": [
+    "Work Ideas.md",
+    "Work Ideas.restored.md",
     "React Interview Questions.md",
     "Untitled.md",
-    "Work Ideas.md",
     "AmitKumarGupta_jumpcloud 2.pdf",
     "100 Must Know Python interview questions.md",
     "bs.svg",
