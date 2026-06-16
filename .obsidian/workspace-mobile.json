@@ -11,12 +11,14 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Work Ideas.md"
+                "file": "Slack.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Work Ideas"
+              "icon": "lucide-file",
+              "title": "Slack"
             }
           },
           {
@@ -266,8 +268,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79aa0ea4b48b0a3d",
+  "active": "6151d51b00814c14",
   "lastOpenFiles": [
+    "System Design Popular Questions.md",
     "Work Ideas.md",
     "Untitled.md",
     "100 Must Know Python interview questions.md",
@@ -288,7 +291,6 @@
     "AcctStatement_XXX7892_16042026.pdf",
     "MemeCached vs Redis.svg",
     "Node.js Popular Interview Questions.md",
-    "System Design Popular Questions.md",
     "/System Design Popular Questions.md",
     "dom.svg",
     "/React Interview Questions.md",
