@@ -242,7 +242,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "MemeCached vs Redis.md"
+            "file": "Work Ideas.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -266,10 +266,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6151d51b00814c14",
+  "active": "79aa0ea4b48b0a3d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Work Ideas.md",
+    "Untitled.md",
     "100 Must Know Python interview questions.md",
     "bs.svg",
     "/Work Ideas.md",
