@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slack.md",
+                "file": "System Design Popular Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slack"
+              "title": "System Design Popular Questions"
             }
           },
           {
@@ -270,15 +270,15 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "System Design Popular Questions.md",
+    "Slack.md",
     "Work Ideas.md",
+    "React Interview Questions.md",
+    "System Design Popular Questions.md",
     "Untitled.md",
     "100 Must Know Python interview questions.md",
     "bs.svg",
     "/Work Ideas.md",
-    "React Interview Questions.md",
     "AmitKumarGupta_jumpcloud 2.pdf",
-    "Slack.md",
     "Company.md",
     "/Company.md",
     "GIT.md",
