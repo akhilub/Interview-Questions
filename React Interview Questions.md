@@ -181,6 +181,10 @@ Before adding new state managers, look at how your components are structured. In
 </Layout>
 ```
 
+- **The Solution (Composition):**  
+Give the intermediate components a `children` prop so the top-level parent can pass data directly to the consumer.
+
+
 
 
 
