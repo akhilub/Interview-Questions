@@ -174,8 +174,6 @@ Before adding new state managers, look at how your components are structured. In
 
 - **The Problem (Prop Drilling):**
 
-jsx
-
 ```jsx
 // App drills user through Layout and Sidebar just for UserProfile to see it
 <Layout user={user}>
