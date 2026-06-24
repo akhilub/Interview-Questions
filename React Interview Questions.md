@@ -184,8 +184,27 @@ Before adding new state managers, look at how your components are structured. In
 - **The Solution (Composition):**  
 Give the intermediate components a `children` prop so the top-level parent can pass data directly to the consumer.
 
+```jsx
+// 1. Redefine intermediate components to accept children
+function Layout({ children }) {
+  return <div className="layout">{children}</div>;
+}
+function Sidebar({ children }) {
+  return <aside className="sidebar">{children}</aside>;
+}
 
-
+// 2. Compose them at the top level
+function App() {
+  const [user, setUser] = useState({ name: "Alex" });
+  return (
+    <Layout>
+      <Sidebar>
+        <UserProfile user={user} /> {/* Directly passed! No drilling. */}
+      </Sidebar>
+    </Layout>
+  );
+}
+```
 
 
 %%
