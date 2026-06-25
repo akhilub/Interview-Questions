@@ -244,7 +244,11 @@ function DeepNestedChild() {
 ```
 
 
+Which approach should you choose?
 
+- **Use Component Composition** if the intermediate components only exist as layout wrappers and don't need to know about the data.
+- **Use Context API** for application-wide, mostly static configurations like dark/light mode themes or current language settings.
+- **Use State Libraries (Zustand/Redux)** for complex transactional data, high-frequency state updates, or massive scale applications.
 
 
 
