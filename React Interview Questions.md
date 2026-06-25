@@ -207,7 +207,17 @@ function App() {
 ```
 
 
+- **Step 3: Consume the Context directly**
 
+jsx
+
+```jsx
+function DeepNestedChild() {
+  // Read the value directly from the closest provider above
+  const user = useContext(UserContext); 
+  return <p>Welcome back, {user.name}!</p>;
+}
+```
 
 
 %%
