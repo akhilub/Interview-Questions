@@ -223,7 +223,25 @@ function DeepNestedChild() {
 
 If your application state is highly dynamic, frequently updated, or used by entirely separate branches of your application, standard React Context can trigger performance issues due to widespread component re-renders. Lightweight global state managers like Zustand offer a cleaner, zero-boilerplate solution.
 
+- **Example using Zustand:**
 
+j
+
+```
+import { create } from 'zustand';
+
+// 1. Create a global store hook
+const useUserStore = create((set) => ({
+  user: { name: "Alex" },
+  updateName: (newName) => set((state) => ({ user: { ...state.user, name: newName } })),
+}));
+
+// 2. Call the hook anywhere without props or providers
+function DeepNestedChild() {
+  const user = useUserStore((state) => state.user);
+  return <p>{user.name}</p>;
+}
+```
 
 
 
