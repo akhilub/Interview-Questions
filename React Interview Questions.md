@@ -227,7 +227,7 @@ If your application state is highly dynamic, frequently updated, or used by enti
 
 
 
-```
+```jsx
 import { create } from 'zustand';
 
 // 1. Create a global store hook
