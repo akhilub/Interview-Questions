@@ -219,6 +219,10 @@ function DeepNestedChild() {
 
 
 
+3. Global State Management
+
+If your application state is highly dynamic, frequently updated, or used by entirely separate branches of your application, standard React Context can trigger performance issues due to widespread component re-renders. Lightweight global state managers like Zustand offer a cleaner, zero-boilerplate solution.
+
 
 
 
