@@ -160,7 +160,7 @@ Excalidraw Group Image Example.
 ![[React Interview Questions.md#^group=A0lI-P-UvFKNQUy6PyNwP|dom|600x100]]
 
 
-how to avoid prop drilling in react
+## how to avoid prop drilling in react
 
 To avoid prop drilling in React, you can ==use **Component Composition**, the **[React Context API](https://legacy.reactjs.org/docs/context.html)**, or **Global State Management libraries**==. The official React recommendation is to start with Component Composition before reaching for heavier state management tools.
 
