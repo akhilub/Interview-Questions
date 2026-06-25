@@ -209,7 +209,6 @@ function App() {
 
 - **Step 3: Consume the Context directly**
 
-
 ```jsx
 function DeepNestedChild() {
   // Read the value directly from the closest provider above
