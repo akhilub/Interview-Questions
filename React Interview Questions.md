@@ -226,7 +226,6 @@ If your application state is highly dynamic, frequently updated, or used by enti
 - **Example using Zustand:**
 
 
-
 ```jsx
 import { create } from 'zustand';
 
