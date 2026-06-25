@@ -209,7 +209,6 @@ function App() {
 
 - **Step 3: Consume the Context directly**
 
-jsx
 
 ```jsx
 function DeepNestedChild() {
