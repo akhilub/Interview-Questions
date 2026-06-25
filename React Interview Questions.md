@@ -169,8 +169,7 @@ Here is a breakdown of the three best strategies to eliminate prop drilling, ord
 
 1. Component Composition (The "Slots" Pattern)
 
-Before adding new state managers, look at how your components are structured. Instead of passing data through intermediate components, you can pass the downstream components directly as `children` or explicit props. [[1](https://blog.logrocket.com/solving-prop-drilling-react-apps/), [2](https://www.reddit.com/r/reactjs/comments/oikxw1/what_are_the_ways_that_improve_the_react_app/), [3](https://react.dev/learn/passing-data-deeply-with-context), [4](https://www.linkedin.com/posts/assumpta-okolike_reactjs-nextjs-frontenddeveloper-activity-7392486025761161216-Y3g3)]
-
+Before adding new state managers, look at how your components are structured. Instead of passing data through intermediate components, you can pass the downstream components directly as `children` or explicit props. 
 
 - **The Problem (Prop Drilling):**
 
