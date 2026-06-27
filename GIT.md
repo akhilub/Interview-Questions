@@ -104,7 +104,7 @@ git pull --rebase origin main
 
 
 
-Step 2: Push to Remote
+## Step 2: Push to Remote
 
 Once the rebase finishes successfully, push your combined history up to your remote repository.
 
