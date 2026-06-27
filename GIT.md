@@ -96,9 +96,9 @@ Step 1: Rebase Local Commits
 
 Pull the 5 remote commits and place your 17 local commits cleanly on top of them.
 
-bash
 
-```
+
+```bash
 git pull --rebase origin main
 ```
 
