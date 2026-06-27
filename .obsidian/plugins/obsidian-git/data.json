@@ -13,7 +13,7 @@
   "disablePopups": true,
   "showErrorNotices": false,
   "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
