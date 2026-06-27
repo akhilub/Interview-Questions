@@ -75,5 +75,7 @@ git remote add origin https://github.com
 # 3. Fetch a clean, uncorrupted history from GitHub 
 git fetch origin 
 
-# 4. Point Git to match GitHub while keeping all your current local text edits git reset --mixed origin/main
+# 4. Point Git to match GitHub while keeping all your current local text edits 
+
+git reset --mixed origin/main
 ```
