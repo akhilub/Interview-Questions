@@ -92,7 +92,7 @@ When Your working directory is completely clean, which makes this very straightf
 
 Run these two commands in your terminal to complete the sync:
 
-Step 1: Rebase Local Commits
+## Step 1: Rebase Local Commits
 
 Pull the 5 remote commits and place your 17 local commits cleanly on top of them.
 
