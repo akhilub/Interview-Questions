@@ -23,10 +23,14 @@
             "id": "8dd67c92cbeba559",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "React Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "React Interview Questions"
             }
           }
         ],
@@ -218,13 +222,15 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "62cca65b1fc8362e",
+  "active": "8dd67c92cbeba559",
   "lastOpenFiles": [
+    "GIT.md",
+    "React Interview Questions.md",
+    "Node.js Popular Interview Questions.md",
     "Work Ideas.md",
     "Work Ideas.restored.md",
     "System Design Popular Questions.md",
     "Untitled.md",
-    "React Interview Questions.md",
     "AmitKumarGupta_jumpcloud 2.pdf",
     "100 Must Know Python interview questions.md",
     "bs.svg",
@@ -232,8 +238,6 @@
     "dom.svg",
     "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
     "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
-    "Node.js Popular Interview Questions.md",
-    "GIT.md",
     "Excalidraw",
     "Slack.md",
     "AcctStatement_XXX7892_16042026.pdf",
