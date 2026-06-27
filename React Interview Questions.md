@@ -7,6 +7,7 @@ jotbird_link: https://share.jotbird.com/gentle-playful-sunrise
 jotbird_expires: 2026-04-20
 ---
 
+Hello World
 ## To create React app
 
 ```
@@ -158,6 +159,100 @@ Excalidraw Group Image Example.
 
 
 ![[React Interview Questions.md#^group=A0lI-P-UvFKNQUy6PyNwP|dom|600x100]]
+
+
+## how to avoid prop drilling in react
+
+To avoid prop drilling in React, you can ==use **Component Composition**, the **[React Context API](https://legacy.reactjs.org/docs/context.html)**, or **Global State Management libraries**==. The official React recommendation is to start with Component Composition before reaching for heavier state management tools.
+
+
+Here is a breakdown of the three best strategies to eliminate prop drilling, ordered from the simplest architectural fix to advanced tools.
+
+1. Component Composition (The "Slots" Pattern)
+
+Before adding new state managers, look at how your components are structured. Instead of passing data through intermediate components, you can pass the downstream components directly as `children` or explicit props. 
+
+- **The Problem (Prop Drilling):**
+
+```jsx
+// App drills user through Layout and Sidebar just for UserProfile to see it
+<Layout user={user}>
+  <Sidebar user={user} />
+</Layout>
+```
+
+- **The Solution (Composition):**  
+Give the intermediate components a `children` prop so the top-level parent can pass data directly to the consumer.
+
+```jsx
+// 1. Redefine intermediate components to accept children
+function Layout({ children }) {
+  return <div className="layout">{children}</div>;
+}
+function Sidebar({ children }) {
+  return <aside className="sidebar">{children}</aside>;
+}
+
+// 2. Compose them at the top level
+function App() {
+  const [user, setUser] = useState({ name: "Alex" });
+  return (
+    <Layout>
+      <Sidebar>
+        <UserProfile user={user} /> {/* Directly passed! No drilling. */}
+      </Sidebar>
+    </Layout>
+  );
+}
+```
+
+
+- **Step 3: Consume the Context directly**
+
+```jsx
+function DeepNestedChild() {
+  // Read the value directly from the closest provider above
+  const user = useContext(UserContext); 
+  return <p>Welcome back, {user.name}!</p>;
+}
+```
+
+
+
+3. Global State Management
+
+If your application state is highly dynamic, frequently updated, or used by entirely separate branches of your application, standard React Context can trigger performance issues due to widespread component re-renders. Lightweight global state managers like Zustand offer a cleaner, zero-boilerplate solution.
+
+- **Example using Zustand:**
+
+
+```jsx
+import { create } from 'zustand';
+
+// 1. Create a global store hook
+const useUserStore = create((set) => ({
+  user: { name: "Alex" },
+  updateName: (newName) => set((state) => ({ user: { ...state.user, name: newName } })),
+}));
+
+// 2. Call the hook anywhere without props or providers
+function DeepNestedChild() {
+  const user = useUserStore((state) => state.user);
+  return <p>{user.name}</p>;
+}
+```
+
+
+Which approach should you choose?
+
+- **Use Component Composition** if the intermediate components only exist as layout wrappers and don't need to know about the data.
+- **Use Context API** for application-wide, mostly static configurations like dark/light mode themes or current language settings.
+- **Use State Libraries (Zustand/Redux)** for complex transactional data, high-frequency state updates, or massive scale applications.
+
+
+
+
+
 
 
 %%

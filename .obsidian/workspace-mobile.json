@@ -11,24 +11,24 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Work Ideas.md"
+                "file": "React Interview Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Work Ideas"
+              "icon": "lucide-file",
+              "title": "React Interview Questions"
             }
           },
           {
             "id": "ac6192afd9aa0f69",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -39,8 +39,8 @@
               "state": {
                 "file": "Work Ideas.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Work Ideas"
             }
           },
           {
@@ -75,24 +75,24 @@
             "id": "add2df3c6c04a8a4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "bee7ce7e24c336db",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MemeCached vs Redis.md"
+                "file": "MemeCached vs Redis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "lucide-file",
+              "title": "MemeCached vs Redis"
             }
           }
         ]
@@ -244,7 +244,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "MemeCached vs Redis.md"
+            "file": "Work Ideas.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -268,31 +268,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc79887a9a1e3ca3",
+  "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "Work Ideas.md",
-    "/Work Ideas.md",
-    "React Interview Questions.md",
-    "AmitKumarGupta_jumpcloud 2.pdf",
+    "System Design Popular Questions.md",
     "Slack.md",
+    "Work Ideas.md",
+    "React Interview Questions.md",
+    "Untitled.md",
+    "100 Must Know Python interview questions.md",
+    "bs.svg",
+    "/Work Ideas.md",
+    "AmitKumarGupta_jumpcloud 2.pdf",
     "Company.md",
     "/Company.md",
     "GIT.md",
     "MemeCached vs Redis.md",
     "Excalidraw/Drawing 2026-05-03 13.23.31.excalidraw.md",
     "Excalidraw/Drawing 2026-05-03 12.56.41.excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
     "/GIT.md",
     "/Slack.md",
     "AcctStatement_XXX7892_16042026.pdf",
     "MemeCached vs Redis.svg",
     "Node.js Popular Interview Questions.md",
-    "System Design Popular Questions.md",
     "/System Design Popular Questions.md",
     "dom.svg",
-    "bs.svg",
-    "100 Must Know Python interview questions.md",
     "/React Interview Questions.md",
     "/Node.js Popular Interview Questions.md",
     "/100 Must Know Python interview questions.md",
