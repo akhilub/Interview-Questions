@@ -102,12 +102,11 @@ Pull the 5 remote commits and place your 17 local commits cleanly on top of them
 git pull --rebase origin main
 ```
 
-Use code with caution.
+
 
 Step 2: Push to Remote
 
 Once the rebase finishes successfully, push your combined history up to your remote repository.
-
 
 
 ```bash
