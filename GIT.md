@@ -57,3 +57,9 @@ Key Command Comparison  
 |`git stash apply`|Restores changes but **keeps** them in the stash stack.|Use if you might need to apply these same changes elsewhere.|
 |`git stash pop`|Restores changes and **deletes** them from the stash stack.|Standard for moving work to a single new destination.|
 |`git stash list`|Shows all saved stashes and their indexes (e.g., `stash@{0}`).|Use to identify a specific stash if you have multiple.|
+
+The 4-Step "Clean Slate" Reset (If Git breaks or corrupts)
+
+If you ever see a `fatal: loose object is corrupt` error, or if the repository tracking metadata gets completely tangled, use this sequence to rebuild Git without touching your markdown files:
+
+
