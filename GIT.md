@@ -114,4 +114,3 @@ Once the rebase finishes successfully, push your combined history up to your rem
 git push origin main
 ```
 
-Use code with caution.
