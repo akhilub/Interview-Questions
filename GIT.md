@@ -103,7 +103,6 @@ git pull --rebase origin main
 
 Once the rebase finishes successfully, push your combined history up to your remote repository.
 
-
 ```bash
 git push origin main
 ```
