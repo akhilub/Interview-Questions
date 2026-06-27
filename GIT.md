@@ -96,11 +96,9 @@ Run these two commands in your terminal to complete the sync:
 Pull the 5 remote commits and place your 17 local commits cleanly on top of them.
 
 
-
 ```bash
 git pull --rebase origin main
 ```
-
 
 
 ## Step 2: Push to Remote
