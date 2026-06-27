@@ -1,7 +1,4 @@
 
-
-Hello World
-
 To move uncommitted changes from `main` to a new branch using a stash, use the following sequence of Git commands. 
 
 ### Option 1: Standard Multi-Step Process
