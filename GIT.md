@@ -88,7 +88,7 @@ git reset --mixed origin/main
 
 
 
-Your working directory is completely clean, which makes this very straightforward. You can now pull the remote changes and push your work without worrying about uncommitted file conflicts. [[1](https://medium.com/@mohammadatifhossain/git-branch-merging-made-simple-a-step-by-step-guide-to-combining-code-changes-3544632dafcb), [2](https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/), [3](https://stackoverflow.com/questions/62176095/how-do-i-resolve-a-branch-and-orgin-branch-that-have-diverged)]
+When Your working directory is completely clean, which makes this very straightforward. You can now pull the remote changes and push your work without worrying about uncommitted file conflicts. [[1](https://medium.com/@mohammadatifhossain/git-branch-merging-made-simple-a-step-by-step-guide-to-combining-code-changes-3544632dafcb), [2](https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/), [3](https://stackoverflow.com/questions/62176095/how-do-i-resolve-a-branch-and-orgin-branch-that-have-diverged)]
 
 Run these two commands in your terminal to complete the sync:
 
