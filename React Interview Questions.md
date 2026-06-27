@@ -7,7 +7,6 @@ jotbird_link: https://share.jotbird.com/gentle-playful-sunrise
 jotbird_expires: 2026-04-20
 ---
 
-Hello World
 ## To create React app
 
 ```
