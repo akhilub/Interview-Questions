@@ -114,3 +114,105 @@ If you do not want to change your code logic, you can temporarily stop MSW direc
 - **Verify in Network Tab:** Look at your **Network Tab**. When MSW is running, requests show a `Gear` icon or say `from ServiceWorker`. When bypassed, you will see your actual server IP/Domain under the "Remote Address" column. [[1](https://impacttrial.coresecurity.com/docs/doc/onprem/walkthrough/webapps/), [2](https://ultimatecourses.com/blog/ultimate-guide-pwa-workbox)]
 
 Would you like help setting up a **specific script in your package.json** to automate launching your dev environment with or without mocks?
+
+
+
+Here is how to set up dedicated scripts in your `package.json` to effortlessly launch your development environment with or without MSW.
+
+This approach uses environment variables to control whether the mock worker initializes.
+
+1. Update your `package.json`
+
+Add separate scripts for your mocked environment and your live data environment.
+
+Here is an example using **Vite** (if you use Webpack/CRA, substitute `VITE_` with `REACT_APP_`):
+
+json
+
+```
+{
+  "scripts": {
+    "dev": "vite",
+    "dev:mock": "cross-env VITE_USE_MSW=true vite",
+    "dev:real": "cross-env VITE_USE_MSW=false vite"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
+```
+
+Use code with caution.
+
+_(Note: `cross-env` ensures the environment variables work seamlessly across Mac, Linux, and Windows machines.)_
+
+2. Install `cross-env`
+
+Run this command in your terminal to install the utility dependency:
+
+bash
+
+```
+npm install --save-dev cross-env
+```
+
+Use code with caution.
+
+3. Update your App Initialization Code
+
+Ensure your code checks for this specific environment variable before starting the service worker:
+
+typescript
+
+```
+// main.ts / index.js
+async function enableMocking() {
+  // Check the environment variable set by your package.json script
+  if (import.meta.env.VITE_USE_MSW !== 'true') {
+    return;
+  }
+
+  const { worker } = await import('./mocks/browser');
+  
+  // Return the worker start promise
+  return worker.start({
+    onUnhandledRequest: 'bypass', // Lets unmocked routes hit the real backend
+  });
+}
+
+enableMocking().then(() => {
+  // Render your React / Vue / Angular application here
+  // ReactDOM.createRoot(document.getElementById('root')).render(<App />)
+});
+```
+
+Use code with caution.
+
+4. How to run it
+
+- **To build/test using your MSW mock data:**
+    
+    bash
+    
+    ```
+    npm run dev:mock
+    ```
+    
+    Use code with caution.
+    
+- **To bypass MSW completely and test against live backend data:**
+    
+    bash
+    
+    ```
+    npm run dev:real
+    ```
+    
+    Use code with caution.
+    
+
+If you want, I can:
+
+- Show you how to configure this for **Next.js or Webpack** instead of Vite
+- Show how to automatically **swap the API Target URL** when running the real data script
+- Help you write a script that toggles mocks using **`.env` files** instead of inline command variables
