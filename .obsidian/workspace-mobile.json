@@ -27,11 +27,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled 1.base",
+                "file": "Untitled.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled 1"
+              "title": "Untitled"
             }
           },
           {
@@ -284,8 +284,8 @@
   },
   "active": "c7819257d95280f4",
   "lastOpenFiles": [
-    "Untitled.base",
     "Untitled 1.base",
+    "Untitled.base",
     "MSW.md",
     "MemeCached vs Redis.svg",
     "GIT.md",
