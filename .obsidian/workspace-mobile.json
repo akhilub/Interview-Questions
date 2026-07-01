@@ -25,14 +25,13 @@
             "id": "c7819257d95280f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "MSW.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "MSW"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -285,8 +284,9 @@
   },
   "active": "c7819257d95280f4",
   "lastOpenFiles": [
-    "MemeCached vs Redis.svg",
     "MSW.md",
+    "Untitled.base",
+    "MemeCached vs Redis.svg",
     "GIT.md",
     "/GIT.md",
     "React Interview Questions.md",
