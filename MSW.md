@@ -222,3 +222,101 @@ If you want, I can:
 Show how to automatically swap the API Target URL when running the real data script
 
 
+To automatically change your API target URL depending on whether you are using mocks or live data, you can define different target URLs directly inside your `package.json` scripts or utilize standard environmental variables.
+
+Here is how to implement this for **Vite** (for Webpack/Create React App, use `REACT_APP_` instead of `VITE_`). [[1](https://kuberns.com/blogs/deploy-react-on-render/)]
+
+1. Update your `package.json` Scripts
+
+Add a second environment variable (e.g., `VITE_API_URL`) to your scripts. This assigns a local proxy or mock URL for your mock script, and your live server URL for your real data script. [[1](https://requestly.com/blog/academy-understanding-insert-inject-script-rule/)]
+
+json
+
+```
+{
+  "scripts": {
+    "dev:mock": "cross-env VITE_USE_MSW=true VITE_API_URL=/api vite",
+    "dev:real": "cross-env VITE_USE_MSW=false VITE_API_URL=https://yourbackend.com vite"
+  }
+}
+```
+
+Use code with caution.
+
+2. Use the Environment Variable in your API Client
+
+Instead of hardcoding your base URL in your Fetch, Axios, or RTC Query configuration, reference the dynamic environment variable.
+
+typescript
+
+```
+// apiClient.ts or apiService.js
+import axios from 'axios';
+
+export const apiClient = axios.create({
+  // Automatically resolves to '/api' or 'https://yourbackend.com'
+  baseURL: import.meta.env.VITE_API_URL, 
+  headers: {
+    'Content-Type': 'application/json',
+  },
+});
+```
+
+Use code with caution.
+
+3. Update your MSW Handlers (If necessary)
+
+If your `VITE_API_URL` uses an absolute path (like `https://yourbackend.com`), your MSW handlers must match that specific domain to intercept the requests correctly.
+
+You can dynamically import the same environment variable inside your MSW handlers:
+
+typescript
+
+```
+// src/mocks/handlers.ts
+import { http, HttpResponse } from 'msw';
+
+// Read the same API URL configuration
+const API_URL = import.meta.env.VITE_API_URL || '';
+
+export const handlers = [
+  // Intercepts path cleanly whether it is '/api/users' or 'https://.../api/users'
+  http.get(`${API_URL}/users`, () => {
+    return HttpResponse.json([
+      { id: 1, name: 'Mocked User' }
+    ]);
+  }),
+];
+```
+
+Use code with caution.
+
+Alternative: Using `.env` Files (Cleaner Codebase)
+
+If your paths are long or complex, you can move these configurations out of `package.json` into specialized environment files:
+
+1. Create a `.env.development` file (used for `npm run dev:mock`):
+    
+    env
+    
+    ```
+    VITE_USE_MSW=true
+    VITE_API_URL=/api
+    ```
+    
+    Use code with caution.
+    
+2. Create a `.env.local` file (this overrides development configurations locally and is ignored by git). Use this when you want to switch to real data:
+    
+    env
+    
+    ```
+    VITE_USE_MSW=false
+    VITE_API_URL=https://yourbackend.com
+    ```
+    
+    Use code with caution.
+    
+    [[1](https://nextnative.dev/blog/secure-api-key)]
+
+Would you like help configuring a **Vite proxy (`vite.config.ts`)** to fix any CORS issues when hitting the real backend URL directly?
