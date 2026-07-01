@@ -25,13 +25,14 @@
             "id": "c7819257d95280f4",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "MSW.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "MSW"
             }
           },
           {
@@ -284,8 +285,8 @@
   },
   "active": "c7819257d95280f4",
   "lastOpenFiles": [
-    "Untitled 1.base",
     "Untitled.base",
+    "Untitled 1.base",
     "MSW.md",
     "MemeCached vs Redis.svg",
     "GIT.md",
