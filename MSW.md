@@ -233,8 +233,6 @@ json
 }
 ```
 
-Use code with caution.
-
 2. Use the Environment Variable in your API Client
 
 Instead of hardcoding your base URL in your Fetch, Axios, or RTC Query configuration, reference the dynamic environment variable.
