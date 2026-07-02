@@ -182,13 +182,11 @@ enableMocking().then(() => {
 });
 ```
 
-Use code with caution.
-
 4. How to run it
 
 - **To build/test using your MSW mock data:**
     
-    bash
+    
     
     ```
     npm run dev:mock
