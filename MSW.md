@@ -188,7 +188,7 @@ enableMocking().then(() => {
     
     
     
-    ```
+    ```bash
     npm run dev:mock
     ```
     
