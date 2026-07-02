@@ -291,7 +291,6 @@ If your paths are long or complex, you can move these configurations out of `pa
     VITE_API_URL=/api
     ```
     
-    Use code with caution.
     
 2. Create a `.env.local` file (this overrides development configurations locally and is ignored by git). Use this when you want to switch to real data:
     
