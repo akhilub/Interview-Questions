@@ -252,7 +252,6 @@ export const apiClient = axios.create({
 });
 ```
 
-Use code with caution.
 
 3. Update your MSW Handlers (If necessary)
 
