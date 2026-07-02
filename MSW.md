@@ -259,7 +259,7 @@ If your `VITE_API_URL` uses an absolute path (like `https://yourbackend.com`)
 
 You can dynamically import the same environment variable inside your MSW handlers:
 
-typescript
+
 
 ```
 // src/mocks/handlers.ts
