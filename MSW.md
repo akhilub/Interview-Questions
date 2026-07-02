@@ -192,7 +192,6 @@ enableMocking().then(() => {
     npm run dev:mock
     ```
     
-    Use code with caution.
     
 - **To bypass MSW completely and test against live backend data:**
     
