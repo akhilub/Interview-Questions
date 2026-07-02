@@ -278,8 +278,6 @@ export const handlers = [
 ];
 ```
 
-Use code with caution.
-
 Alternative: Using `.env` Files (Cleaner Codebase)
 
 If your paths are long or complex, you can move these configurations out of `package.json` into specialized environment files:
