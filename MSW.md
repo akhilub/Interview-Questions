@@ -34,7 +34,7 @@ If you want to boot the entire development build configured to target the live b
 
 - **For MSW (Mocked Dev Mode):** Create or use a default `.env.development` file:
     
-    env
+    
     
     ```
     VITE_USE_MSW=true
