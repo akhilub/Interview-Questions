@@ -201,7 +201,6 @@ enableMocking().then(() => {
     npm run dev:real
     ```
     
-    Use code with caution.
     
 
 If you want, I can:
