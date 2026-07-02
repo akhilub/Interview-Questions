@@ -154,8 +154,6 @@ Run this command in your terminal to install the utility dependency:
 npm install --save-dev cross-env
 ```
 
-Use code with caution.
-
 3. Update your App Initialization Code
 
 Ensure your code checks for this specific environment variable before starting the service worker:
