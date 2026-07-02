@@ -101,8 +101,6 @@ If you want MSW to intercept _some_ endpoints but want to let others point dir
     ];
     ```
     
-    Use code with caution.
-    
     [[1](https://dev.to/andrewchaa/simplifying-api-mocking-with-mock-service-worker-msw-4o4j), [2](https://stevekinney.com/courses/enterprise-ui/mock-service-worker)]
 
 4. Direct Terminal Commands (The Quickest Toggle)
