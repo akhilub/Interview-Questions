@@ -261,7 +261,7 @@ You can dynamically import the same environment variable inside your MSW handler
 
 
 
-```
+```typescript
 // src/mocks/handlers.ts
 import { http, HttpResponse } from 'msw';
 
