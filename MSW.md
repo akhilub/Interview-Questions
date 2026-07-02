@@ -1,5 +1,5 @@
 
-when I use msw framework to mock api response in browser for dev environment how will I test we backend endpoint have real data
+# When I use MSW framework to mock api response in browser for dev environment how will I test we backend endpoint have real data
 
 
 
@@ -7,15 +7,15 @@ To test your frontend application against a live backend with real data while us
 
 The most common ways to toggle or bypass MSW in your local browser environment to see real backend data include: [[1](https://mswjs.io/docs/)]
 
-1. Toggle via Browser URL Query Parameters
+## 1. Toggle via Browser URL Query Parameters
 
 You can conditionally start the worker based on a URL flag. This lets you view real data simply by adding `?mock=false` to your browser's address bar. [[1](https://dev.to/kevin-uehara/mocking-your-apis-calls-using-mocking-service-worker-msw-7k6), [2](https://cathalmacdonnacha.com/mocking-error-empty-and-loading-states-with-msw)]
 
 Update your application initialization logic (e.g., `main.ts` or `index.js`):
 
-typescript
 
-```
+
+```typescript
 // Check if MSW should be skipped based on URL parameters
 const urlParams = new URLSearchParams(window.location.search);
 const shouldMock = urlParams.get('mock') !== 'false';
@@ -26,17 +26,15 @@ if (process.env.NODE_ENV === 'development' && shouldMock) {
 }
 ```
 
-Use code with caution.
-
-2. Control with Custom Environment Variables
+## 2. Control with Custom Environment Variables
 
 If you want to boot the entire development build configured to target the live backend rather than toggling it manually in the browser, use a custom flag in your `.env` files.
 
 - **For MSW (Mocked Dev Mode):** Create or use a default `.env.development` file:
     
-    env
     
-    ```
+    
+    ```.env
     VITE_USE_MSW=true
     VITE_API_URL=http://localhost:3000 # Or your local server path
     ```
