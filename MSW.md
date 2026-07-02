@@ -158,9 +158,9 @@ npm install --save-dev cross-env
 
 Ensure your code checks for this specific environment variable before starting the service worker:
 
-typescript
 
-```
+
+```typescript
 // main.ts / index.js
 async function enableMocking() {
   // Check the environment variable set by your package.json script
