@@ -1,8 +1,6 @@
 
 # When I use MSW framework to mock api response in browser for dev environment how will I test we backend endpoint have real data
 
-
-
 To test your frontend application against a live backend with real data while using [Mock Service Worker (MSW)](https://mswjs.io/), you must prevent the service worker from intercepting your requests. [[1](https://www.edstem.com/blog/mock-service-worker-development-testing), [2](https://medium.com/@msmechatronics/stop-waiting-for-apis-a-developers-guide-to-mock-service-worker-a05d7a58ff39), [3](https://medium.com/@biplavmazumdar5/mswjs-mock-service-worker-8c3354a757bf)]
 
 The most common ways to toggle or bypass MSW in your local browser environment to see real backend data include: [[1](https://mswjs.io/docs/)]
