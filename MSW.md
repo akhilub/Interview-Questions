@@ -195,9 +195,9 @@ enableMocking().then(() => {
     
 - **To bypass MSW completely and test against live backend data:**
     
-    bash
     
-    ```
+    
+    ```bash
     npm run dev:real
     ```
     
