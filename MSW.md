@@ -36,7 +36,7 @@ If you want to boot the entire development build configured to target the live b
     
     
     
-    ```
+    ```.
     VITE_USE_MSW=true
     VITE_API_URL=http://localhost:3000 # Or your local server path
     ```
