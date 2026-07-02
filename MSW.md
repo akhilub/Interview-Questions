@@ -43,11 +43,11 @@ If you want to boot the entire development build configured to target the live b
     
 - **For Real Data Mode:** Create a `.env.local` or `.env.real` file (which overrides default variables):
     
-    env
     
-    ```
+    
+    ```.env
     VITE_USE_MSW=false
-    VITE_API_URL=https://yourbackend.com
+  VITE_API_URL=https://yourbackend.com
     ```
     
     
@@ -56,9 +56,9 @@ If you want to boot the entire development build configured to target the live b
 
 In your application code, wrap your initialization block with this environment variable:
 
-typescript
 
-```
+
+```typescript
 if (import.meta.env.VITE_USE_MSW === 'true') {
   const { worker } = await import('./mocks/browser');
   await worker.start();
@@ -67,26 +67,22 @@ if (import.meta.env.VITE_USE_MSW === 'true') {
 
 
 
-3. Fallthrough to Real Endpoints via MSW Strategies
+## 3. Fallthrough to Real Endpoints via MSW Strategies
 
 If you want MSW to intercept _some_ endpoints but want to let others point directly to your real backend, you can specify unhandled request behaviours or bypass specific routes. [[1](https://dev.to/andrewchaa/simplifying-api-mocking-with-mock-service-worker-msw-4o4j)]
 
 - **Allow All Unhandled Requests:** By default, you can configure MSW to let any request that doesn't match an explicit mock handler fall through to the actual network:
     
-    typescript
     
-    ```
+    
+    ```typescript
     // in browser.ts
     worker.start({
       onUnhandledRequest: 'bypass', // Passes unhandled requests to the live server
     });
     ```
     
-    
-    
 - **Manually Forward via `passthrough()`:** Within a specific handler file, you can explicitly tell MSW to step out of the way for a particular route:
-    
-    
     
     ```typescript
     import { http, passthrough } from 'msw';
@@ -101,7 +97,7 @@ If you want MSW to intercept _some_ endpoints but want to let others point dir
     
     [[1](https://dev.to/andrewchaa/simplifying-api-mocking-with-mock-service-worker-msw-4o4j), [2](https://stevekinney.com/courses/enterprise-ui/mock-service-worker)]
 
-4. Direct Terminal Commands (The Quickest Toggle)
+## 4. Direct Terminal Commands (The Quickest Toggle)
 
 If you do not want to change your code logic, you can temporarily stop MSW directly from your browser's developer tools. Open your browser console (`F12`) and call the global worker control options exposed by MSW:
 
