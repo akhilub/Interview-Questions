@@ -294,7 +294,7 @@ If your paths are long or complex, you can move these configurations out of `pa
     
 2. Create a `.env.local` file (this overrides development configurations locally and is ignored by git). Use this when you want to switch to real data:
     
-    ```
+    ```.env
     VITE_USE_MSW=false
     VITE_API_URL=https://yourbackend.com
     ```
