@@ -84,7 +84,7 @@ If you want MSW to intercept _some_ endpoints but want to let others point dir
     });
     ```
     
-    Use code with caution.
+    
     
 - **Manually Forward via `passthrough()`:** Within a specific handler file, you can explicitly tell MSW to step out of the way for a particular route:
     
