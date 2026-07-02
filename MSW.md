@@ -67,7 +67,7 @@ if (import.meta.env.VITE_USE_MSW === 'true') {
 }
 ```
 
-Use code with caution.
+
 
 3. Fallthrough to Real Endpoints via MSW Strategies
 
