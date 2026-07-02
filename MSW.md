@@ -88,9 +88,9 @@ If you want MSW to intercept _some_ endpoints but want to let others point dir
     
 - **Manually Forward via `passthrough()`:** Within a specific handler file, you can explicitly tell MSW to step out of the way for a particular route:
     
-    typescript
     
-    ```
+    
+    ```typescript
     import { http, passthrough } from 'msw';
     
     export const handlers = [
