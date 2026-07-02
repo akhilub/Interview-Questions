@@ -41,7 +41,7 @@ If you want to boot the entire development build configured to target the live b
     VITE_API_URL=http://localhost:3000 # Or your local server path
     ```
     
-    Use code with caution.
+    
     
 - **For Real Data Mode:** Create a `.env.local` or `.env.real` file (which overrides default variables):
     
