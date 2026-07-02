@@ -52,7 +52,7 @@ If you want to boot the entire development build configured to target the live b
     VITE_API_URL=https://yourbackend.com
     ```
     
-    Use code with caution.
+    
     
     [[1](https://symfonycasts.com/screencast/mailer/functional-test)]
 
