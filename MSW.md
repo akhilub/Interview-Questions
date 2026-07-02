@@ -148,9 +148,9 @@ _(Note: `cross-env` ensures the environment variables work seamlessly across M
 
 Run this command in your terminal to install the utility dependency:
 
-bash
 
-```
+
+```bash
 npm install --save-dev cross-env
 ```
 
