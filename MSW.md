@@ -109,19 +109,19 @@ Would you like help setting up a **specific script in your package.json** to a
 
 
 
-Here is how to set up dedicated scripts in your `package.json` to effortlessly launch your development environment with or without MSW.
+# Here is how to set up dedicated scripts in your `package.json` to effortlessly launch your development environment with or without MSW.
 
 This approach uses environment variables to control whether the mock worker initializes.
 
-1. Update your `package.json`
+## 1. Update your `package.json`
 
 Add separate scripts for your mocked environment and your live data environment.
 
 Here is an example using **Vite** (if you use Webpack/CRA, substitute `VITE_` with `REACT_APP_`):
 
-json
 
-```
+
+```json
 {
   "scripts": {
     "dev": "vite",
@@ -138,7 +138,7 @@ json
 
 _(Note: `cross-env` ensures the environment variables work seamlessly across Mac, Linux, and Windows machines.)_
 
-2. Install `cross-env`
+## 2. Install `cross-env`
 
 Run this command in your terminal to install the utility dependency:
 
@@ -148,7 +148,7 @@ Run this command in your terminal to install the utility dependency:
 npm install --save-dev cross-env
 ```
 
-3. Update your App Initialization Code
+## 3. Update your App Initialization Code
 
 Ensure your code checks for this specific environment variable before starting the service worker:
 
@@ -176,7 +176,7 @@ enableMocking().then(() => {
 });
 ```
 
-4. How to run it
+## 4. How to run it
 
 - **To build/test using your MSW mock data:**
     
@@ -189,14 +189,10 @@ enableMocking().then(() => {
     
 - **To bypass MSW completely and test against live backend data:**
     
-    
-    
     ```bash
     npm run dev:real
     ```
     
-    
-
 If you want, I can:
 
 - Show you how to configure this for **Next.js or Webpack** instead of Vite
@@ -205,20 +201,20 @@ If you want, I can:
 
 
 
-Show how to automatically swap the API Target URL when running the real data script
+# Show how to automatically swap the API Target URL when running the real data script
 
 
 To automatically change your API target URL depending on whether you are using mocks or live data, you can define different target URLs directly inside your `package.json` scripts or utilize standard environmental variables.
 
 Here is how to implement this for **Vite** (for Webpack/Create React App, use `REACT_APP_` instead of `VITE_`). [[1](https://kuberns.com/blogs/deploy-react-on-render/)]
 
-1. Update your `package.json` Scripts
+## 1. Update your `package.json` Scripts
 
 Add a second environment variable (e.g., `VITE_API_URL`) to your scripts. This assigns a local proxy or mock URL for your mock script, and your live server URL for your real data script. [[1](https://requestly.com/blog/academy-understanding-insert-inject-script-rule/)]
 
-json
 
-```
+
+```json
 {
   "scripts": {
     "dev:mock": "cross-env VITE_USE_MSW=true VITE_API_URL=/api vite",
@@ -227,7 +223,7 @@ json
 }
 ```
 
-2. Use the Environment Variable in your API Client
+## 2. Use the Environment Variable in your API Client
 
 Instead of hardcoding your base URL in your Fetch, Axios, or RTC Query configuration, reference the dynamic environment variable.
 
@@ -247,12 +243,11 @@ export const apiClient = axios.create({
 ```
 
 
-3. Update your MSW Handlers (If necessary)
+## 3. Update your MSW Handlers (If necessary)
 
 If your `VITE_API_URL` uses an absolute path (like `https://yourbackend.com`), your MSW handlers must match that specific domain to intercept the requests correctly.
 
 You can dynamically import the same environment variable inside your MSW handlers:
-
 
 
 ```typescript
@@ -278,9 +273,9 @@ If your paths are long or complex, you can move these configurations out of `pa
 
 1. Create a `.env.development` file (used for `npm run dev:mock`):
     
-    env
     
-    ```
+    
+    ```.env
     VITE_USE_MSW=true
     VITE_API_URL=/api
     ```
@@ -292,8 +287,7 @@ If your paths are long or complex, you can move these configurations out of `pa
     VITE_USE_MSW=false
     VITE_API_URL=https://yourbackend.com
     ```
-    
-    Use code with caution.
+
     
     [[1](https://nextnative.dev/blog/secure-api-key)]
 
