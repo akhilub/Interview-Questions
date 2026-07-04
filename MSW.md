@@ -11,8 +11,6 @@ You can conditionally start the worker based on a URL flag. This lets you view r
 
 Update your application initialization logic (e.g., `main.ts` or `index.js`):
 
-
-
 ```typescript
 // Check if MSW should be skipped based on URL parameters
 const urlParams = new URLSearchParams(window.location.search);
