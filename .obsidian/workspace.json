@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +223,7 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "8dd67c92cbeba559",
+  "active": "62cca65b1fc8362e",
   "lastOpenFiles": [
     "System Design Popular Questions.md",
     "GIT.md",
