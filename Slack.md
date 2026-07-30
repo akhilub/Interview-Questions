@@ -12,6 +12,5 @@ Slack primarily uses ==**MySQL**==to store user data, messages, and channels, r
 - **Architecture:** Historically used a **LAMP stack**(Linux, Apache, MySQL, PHP/Python) that transitioned to a more complex sharded structure as they grew, partitioning data by workspace ID.
 - **Message Handling:** To manage growth, Slack shifted from sharding entirely by team/workspace to more granular sharding of messages by channel ID. 
 
-For more specific data on how they manage traffic, I can look up details on their recent engineering blog posts or videos.
 
 
