@@ -11,12 +11,14 @@
             "id": "6151d51b00814c14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Work Ideas.md"
+                "file": "System Design Popular Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Work Ideas"
+              "icon": "lucide-file",
+              "title": "System Design Popular Questions"
             }
           },
           {
@@ -284,8 +286,8 @@
   },
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
-    "/Slack.md",
     "Work Ideas.md",
+    "/Slack.md",
     "System Design Popular Questions.md",
     "Slack.md",
     "React Interview Questions.md",
