@@ -23,14 +23,12 @@
             "id": "8dd67c92cbeba559",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Company.md",
-                "mode": "source",
-                "source": false
+                "file": "DOM.svg"
               },
-              "icon": "lucide-file",
-              "title": "Company"
+              "icon": "lucide-image",
+              "title": "DOM"
             }
           }
         ],
@@ -222,11 +220,11 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "8dd67c92cbeba559",
+  "active": "62cca65b1fc8362e",
   "lastOpenFiles": [
-    "GIT.md",
-    "dom.svg",
     "Company.md",
+    "GIT.md",
+    "DOM.svg",
     "bs.svg",
     "100 Must Know Python interview questions.md",
     "Slack.md",
