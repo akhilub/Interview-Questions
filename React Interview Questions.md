@@ -152,7 +152,7 @@ Excalidraw Group Image Example.
 ---
 ## DOM
 
-![[dom.svg|600]]
+![[DOM.svg|600]]
 
 
 
