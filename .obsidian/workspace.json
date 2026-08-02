@@ -23,12 +23,14 @@
             "id": "8dd67c92cbeba559",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DOM.svg"
+                "file": "100 Must Know Python interview questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "DOM"
+              "icon": "lucide-file",
+              "title": "100 Must Know Python interview questions"
             }
           }
         ],
@@ -220,17 +222,17 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "62cca65b1fc8362e",
+  "active": "8dd67c92cbeba559",
   "lastOpenFiles": [
+    "System Design Popular Questions.md",
+    "Slack.md",
+    "React Interview Questions.md",
+    "DOM.svg",
     "Company.md",
     "GIT.md",
-    "DOM.svg",
     "bs.svg",
     "100 Must Know Python interview questions.md",
-    "Slack.md",
-    "System Design Popular Questions.md",
     "MSW.md",
-    "React Interview Questions.md",
     "Node.js Popular Interview Questions.md",
     "Work Ideas.md",
     "Work Ideas.restored.md",
