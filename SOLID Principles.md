@@ -158,6 +158,41 @@ class Penguin(Bird):
 ```
 
 
+```java
+// Bad practice: Subtype not substitutable for base type
+public abstract class Bird {
+    public abstract void fly();
+}
+
+public class Eagle extends Bird {
+    @Override
+    public void fly() { /* eagle flies */ }
+}
+
+public class Penguin extends Bird {
+    @Override
+    public void fly() { throw new UnsupportedOperationException(); } // Not substitutable
+}
+
+// Good practice: Subtype substitutable for base type
+public abstract class Bird {
+    // Common bird behavior
+}
+
+public abstract class FlyingBird extends Bird {
+    public abstract void fly();
+}
+
+public class Eagle extends FlyingBird {
+    @Override
+    public void fly() { /* eagle flies */ }
+}
+
+public class Penguin extends Bird {
+    // Penguin-specific behavior
+}
+```
+
 ### Interface Segregation Principle (ISP)
 
 ```python
