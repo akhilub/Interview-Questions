@@ -388,7 +388,7 @@ public class PaymentProcessor {
 :::
 
 
-## Example : How to write in tabs
+## Example : How to write in tabs in Obsidian Markdown
 
 :::tabs
 
