@@ -179,3 +179,37 @@ class AdvancedPrinter(Printer, Fax, Scanner):
 
 ### Dependency Inversion Principle (DIP)
 
+```python
+# Bad practice: High-level module depends on low-level module
+class Database:
+    def save_payment(self):
+        # save payment to database
+        pass
+
+class PaymentProcessor:
+    def __init__(self):
+        self.database = Database()
+
+    def process_payment(self):
+        self.database.save_payment()
+
+# Good practice: High-level module depends on abstraction
+from abc import ABC, abstractmethod
+
+class PaymentRepository(ABC):
+    @abstractmethod
+    def save_payment(self):
+        pass
+
+class Database(PaymentRepository):
+    def save_payment(self):
+        # save payment to database
+        pass
+
+class PaymentProcessor:
+    def __init__(self, repository: PaymentRepository):
+        self.repository = repository
+
+    def process_payment(self):
+        self.repository.save_payment()
+```
