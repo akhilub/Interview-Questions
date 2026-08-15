@@ -127,7 +127,7 @@ public class Rectangle extends Shape {
 :::
 ## Liskov Substitution Principle (LSP)
 
-
+:::tabs
 
 
 ```python
