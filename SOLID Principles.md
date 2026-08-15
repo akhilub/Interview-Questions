@@ -381,7 +381,7 @@ def hello():
     print("Hello World")
 ```
 
-tab JavaScript
+@tab JavaScript
 ```javascript
 function hello() {
     console.log("Hello World");
