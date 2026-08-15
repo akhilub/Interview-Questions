@@ -18,6 +18,7 @@ The SOLID principles are a set of design principles aimed at promoting cleaner, 
 ### Single Responsibility Principle (SRP)
 
 ::: tabs
+
 @tab Python
 ```python
 # Bad practice: Multiple responsibilities in one class
