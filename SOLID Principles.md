@@ -375,13 +375,13 @@ public class PaymentProcessor {
 
 
 :::tabs
-@tab Python
+Python
 ```python
 def hello():
     print("Hello World")
 ```
 
-@tab JavaScript
+JavaScript
 ```javascript
 function hello() {
     console.log("Hello World");
