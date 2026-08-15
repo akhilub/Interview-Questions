@@ -43,6 +43,9 @@ class SalaryCalculator:
         pass
 ```
 
+@tab Java
+```java
+```
 
 ### Open/Closed Principle (OCP)
 
