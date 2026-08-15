@@ -198,8 +198,11 @@ public class Penguin extends Bird {
 ```
 
 :::
-### Interface Segregation Principle (ISP)
+## Interface Segregation Principle (ISP)
 
+:::tabs
+
+@tab Python
 ```python
 # Bad practice: Client forced to depend on unused interface methods
 from abc import ABC, abstractmethod
