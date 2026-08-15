@@ -341,7 +341,34 @@ class PaymentProcessor:
 ```
 
 
-```
+```java
+// Bad practice: High-level module depends on low-level module
+public class PaymentProcessor {
+    private Database database = new Database();
+    public void processPayment() {
+        database.savePayment();
+    }
+}
+
+// Good practice: High-level module depends on abstraction
+public interface PaymentRepository {
+    void savePayment();
+}
+
+public class Database implements PaymentRepository {
+    @Override
+    public void savePayment() { /* save payment to database */ }
+}
+
+public class PaymentProcessor {
+    private PaymentRepository repository;
+    public PaymentProcessor(PaymentRepository repository) {
+        this.repository = repository;
+    }
+    public void processPayment() {
+        repository.savePayment();
+    }
+}
 ```
 
 
