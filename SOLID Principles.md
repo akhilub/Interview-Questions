@@ -113,7 +113,7 @@ class Penguin(Bird):
 
 ### Interface Segregation Principle (ISP)
 
-```
+```python
 # Bad practice: Client forced to depend on unused interface methods
 from abc import ABC, abstractmethod
 
