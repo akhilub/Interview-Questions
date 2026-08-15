@@ -1,5 +1,5 @@
 
-## Object-Oriented Programming (OOPS) Concepts in Java
+## Object-Oriented Programming (OOPS) Concepts
 
   
 Java supports four primary OOPS concepts:  
