@@ -15,6 +15,25 @@ The SOLID principles are a set of design principles aimed at promoting cleaner, 
 - **D** - Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules, but both should depend on abstractions.
 
 
-```py
 
-```
+
+# Bad practice: Multiple responsibilities in one class
+class Employee:
+    def save_employee(self):
+        # save to database
+        pass
+
+    def calculate_salary(self):
+        # calculate salary
+        pass
+
+# Good practice: Separate responsibilities into different classes
+class EmployeeRepository:
+    def save_employee(self):
+        # save to database
+        pass
+
+class SalaryCalculator:
+    def calculate_salary(self):
+        # calculate salary
+        pass
