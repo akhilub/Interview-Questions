@@ -354,7 +354,7 @@ class PaymentProcessor:
         self.repository.save_payment()
 ```
 
-
+@tab Java
 ```java
 // Bad practice: High-level module depends on low-level module
 public class PaymentProcessor {
