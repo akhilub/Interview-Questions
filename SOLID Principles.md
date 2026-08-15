@@ -303,7 +303,7 @@ public class AdvancedPrinter implements Printer, Fax, Scanner {
     public void scan() { /* scan */ }
 }
 ```
-### Dependency Inversion Principle (DIP)
+## Dependency Inversion Principle (DIP)
 
 ```python
 # Bad practice: High-level module depends on low-level module
