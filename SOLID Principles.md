@@ -318,6 +318,7 @@ public class AdvancedPrinter implements Printer, Fax, Scanner {
 
 :::tabs
 
+@tab Python
 ```python
 # Bad practice: High-level module depends on low-level module
 class Database:
