@@ -123,6 +123,8 @@ public class Rectangle extends Shape {
     public double area() { /* calculate rectangle area */ }
 }
 ```
+
+:::
 ### Liskov Substitution Principle (LSP)
 
 ```python
