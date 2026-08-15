@@ -125,7 +125,10 @@ public class Rectangle extends Shape {
 ```
 
 :::
-### Liskov Substitution Principle (LSP)
+## Liskov Substitution Principle (LSP)
+
+
+
 
 ```python
 # Bad practice: Subtype not substitutable for base type
