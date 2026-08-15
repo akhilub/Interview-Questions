@@ -239,6 +239,8 @@ class PaymentProcessor:
 ::: tabs
 
 
+:::tabs
+
 @tab Python
 ```python
 def hello():
