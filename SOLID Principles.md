@@ -113,3 +113,65 @@ class Penguin(Bird):
 
 ### Interface Segregation Principle (ISP)
 
+```
+# Bad practice: Client forced to depend on unused interface methods
+from abc import ABC, abstractmethod
+
+class Printer(ABC):
+    @abstractmethod
+    def print(self):
+        pass
+
+    @abstractmethod
+    def fax(self):
+        pass
+
+    @abstractmethod
+    def scan(self):
+        pass
+
+class BasicPrinter(Printer):
+    def print(self):
+        # print
+        pass
+
+    def fax(self):
+        raise NotImplementedError("BasicPrinter cannot fax")
+
+    def scan(self):
+        raise NotImplementedError("BasicPrinter cannot scan")
+
+# Good practice: Client not forced to depend on unused interface methods
+class Printer(ABC):
+    @abstractmethod
+    def print(self):
+        pass
+
+class Fax(ABC):
+    @abstractmethod
+    def fax(self):
+        pass
+
+class Scanner(ABC):
+    @abstractmethod
+    def scan(self):
+        pass
+
+class BasicPrinter(Printer):
+    def print(self):
+        # print
+        pass
+
+class AdvancedPrinter(Printer, Fax, Scanner):
+    def print(self):
+        # print
+        pass
+
+    def fax(self):
+        # fax
+        pass
+
+    def scan(self):
+        # scan
+        pass
+```
