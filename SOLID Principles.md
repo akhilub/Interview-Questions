@@ -3,6 +3,7 @@
 
   
 The SOLID principles are a set of design principles aimed at promoting cleaner, more robust, and maintainable code. They consist of:  
+
 - **S** - Single Responsibility Principle (SRP): A class should have only one reason to change.
   
 - **O** - Open/Closed Principle (OCP): A class should be open for extension but closed for modification.
