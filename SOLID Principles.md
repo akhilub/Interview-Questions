@@ -305,6 +305,8 @@ public class AdvancedPrinter implements Printer, Fax, Scanner {
 ```
 ## Dependency Inversion Principle (DIP)
 
+
+
 ```python
 # Bad practice: High-level module depends on low-level module
 class Database:
