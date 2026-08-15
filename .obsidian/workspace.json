@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID Principles.md",
+                "file": "System Design Popular Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID Principles"
+              "title": "System Design Popular Questions"
             }
           }
         ],
@@ -238,8 +238,8 @@
   },
   "active": "746dd45ef5e5dbf0",
   "lastOpenFiles": [
-    "System Design Popular Questions.md",
     "SOLID Principles.md",
+    "System Design Popular Questions.md",
     "100 Must Know Python interview questions.md",
     "bs.svg",
     "Company.md",

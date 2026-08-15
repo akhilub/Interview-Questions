@@ -123,3 +123,11 @@ app.post('/token', (req, res) => {
   res.json({ accesstoken: token, token_type: 'Bearer' });
 });
 ```
+
+
+
+
+## Micro Frontends (MFE) Architecture
+
+  
+Micro Frontends is an architectural style that extends the microservices concept to the frontend. It involves breaking down a monolithic frontend application into smaller, independent, and reusable components or modules, each responsible for a specific feature or functionality. These micro frontends can be developed, tested, and deployed independently, allowing for greater flexibility, scalability, and maintainability.
