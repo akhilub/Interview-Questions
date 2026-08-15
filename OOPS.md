@@ -3,6 +3,7 @@
 
   
 Java supports four primary OOPS concepts:  
+
 - **Encapsulation**: Bundling data and methods that operate on that data within a single unit, called a class or object.
   
 - **Abstraction**: Hiding implementation details and showing only the necessary information to the outside world.
