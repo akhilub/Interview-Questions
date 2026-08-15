@@ -164,7 +164,7 @@ class Penguin(Bird):
 
 ```
 
-
+@tab Java
 ```java
 // Bad practice: Subtype not substitutable for base type
 public abstract class Bird {
@@ -200,6 +200,7 @@ public class Penguin extends Bird {
 }
 ```
 
+:::
 ### Interface Segregation Principle (ISP)
 
 ```python
