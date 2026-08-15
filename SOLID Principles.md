@@ -14,10 +14,10 @@ The SOLID principles are a set of design principles aimed at promoting cleaner, 
   
 - **D** - Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules, but both should depend on abstractions.
 
-::: tabs
+
 ## Single Responsibility Principle (SRP)
 
-
+::: tabs
 
 @tab Python
 ```python
