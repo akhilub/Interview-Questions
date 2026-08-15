@@ -65,6 +65,7 @@ public class SalaryCalculator {
 
 ::: tabs
 
+@tab Python
 ```python
 # Bad practice: Not open for extension, closed for modification
 class Shape:
