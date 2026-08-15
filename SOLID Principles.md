@@ -388,7 +388,7 @@ public class PaymentProcessor {
 :::
 
 
-Exampl
+Example
 
 :::tabs
 
