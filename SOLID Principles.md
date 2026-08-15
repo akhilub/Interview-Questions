@@ -96,6 +96,9 @@ class Rectangle(Shape):
         pass
 ```
 
+
+```java
+```
 ### Liskov Substitution Principle (LSP)
 
 ```python
