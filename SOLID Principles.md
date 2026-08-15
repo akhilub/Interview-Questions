@@ -39,3 +39,8 @@ class SalaryCalculator:
         # calculate salary
         pass
 ```
+
+
+### Open/Closed Principle (OCP)
+
+
