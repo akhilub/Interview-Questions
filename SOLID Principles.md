@@ -388,7 +388,7 @@ public class PaymentProcessor {
 :::
 
 
-## Example : How 
+## Example : How to write in tabs
 
 :::tabs
 
