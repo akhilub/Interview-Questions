@@ -216,13 +216,11 @@ class PaymentProcessor:
 
 
 ::: tabs
-
 @tab Python
 ```python
 def hello():
     print("Hello World")
 ```
-
 @tab JavaScript
 ```javascript
 function hello() {
