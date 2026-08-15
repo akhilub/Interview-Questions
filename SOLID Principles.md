@@ -98,7 +98,7 @@ class Rectangle(Shape):
         pass
 ```
 
-
+@tab Java
 ```java
 // Bad practice: Not open for extension, closed for modification
 public class Shape {
