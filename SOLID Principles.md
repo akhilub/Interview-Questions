@@ -98,6 +98,28 @@ class Rectangle(Shape):
 
 
 ```java
+// Bad practice: Not open for extension, closed for modification
+public class Shape {
+    public double area(String shapeType) {
+        if (shapeType.equals("circle")) { /* calculate circle area */ }
+        else if (shapeType.equals("rectangle")) { /* calculate rectangle area */ }
+    }
+}
+
+// Good practice: Open for extension, closed for modification
+public abstract class Shape {
+    public abstract double area();
+}
+
+public class Circle extends Shape {
+    @Override
+    public double area() { /* calculate circle area */ }
+}
+
+public class Rectangle extends Shape {
+    @Override
+    public double area() { /* calculate rectangle area */ }
+}
 ```
 ### Liskov Substitution Principle (LSP)
 
