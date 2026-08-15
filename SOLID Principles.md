@@ -373,8 +373,6 @@ public class PaymentProcessor {
 
 
 
-::: tabs
-
 
 :::tabs
 @tab Python
