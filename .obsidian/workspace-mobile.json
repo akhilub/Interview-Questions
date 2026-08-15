@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js Popular Interview Questions.md",
-                "mode": "source",
+                "file": "SOLID Principles.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node.js Popular Interview Questions"
+              "title": "SOLID Principles"
             }
           },
           {
@@ -287,6 +287,8 @@
   "active": "6151d51b00814c14",
   "lastOpenFiles": [
     "Node.js Popular Interview Questions.md",
+    "SOLID Principles.md",
+    "/SOLID Principles.md",
     "MSW.md",
     "/React Interview Questions.md",
     "/Company.md",
