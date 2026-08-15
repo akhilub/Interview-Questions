@@ -61,7 +61,7 @@ public class SalaryCalculator {
 }
 ```
 
-### Open/Closed Principle (OCP)
+## Open/Closed Principle (OCP)
 
 ::: tabs
 
