@@ -255,10 +255,54 @@ class AdvancedPrinter(Printer, Fax, Scanner):
 
     def scan(self):
         # scan
-        pass
+        
+
 ```
 
+```java
+// Bad practice: Client forced to depend on unused interface methods
+public interface Printer {
+    void print();
+    void fax();
+    void scan();
+}
 
+public class BasicPrinter implements Printer {
+    @Override
+    public void print() { /* print */ }
+    @Override
+    public void fax() { throw new UnsupportedOperationException(); }
+    @Override
+    public void scan() { throw new UnsupportedOperationException(); }
+}
+
+// Good practice: Client not forced to depend on unused interface methods
+public interface Printer {
+    void print();
+}
+
+public interface Fax {
+    void fax();
+}
+
+public interface Scanner {
+    void scan();
+}
+
+public class BasicPrinter implements Printer {
+    @Override
+    public void print() { /* print */ }
+}
+
+public class AdvancedPrinter implements Printer, Fax, Scanner {
+    @Override
+    public void print() { /* print */ }
+    @Override
+    public void fax() { /* fax */ }
+    @Override
+    public void scan() { /* scan */ }
+}
+```
 ### Dependency Inversion Principle (DIP)
 
 ```python
