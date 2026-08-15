@@ -17,6 +17,7 @@ The SOLID principles are a set of design principles aimed at promoting cleaner, 
 
 
 
+```
 # Bad practice: Multiple responsibilities in one class
 class Employee:
     def save_employee(self):
@@ -37,3 +38,4 @@ class SalaryCalculator:
     def calculate_salary(self):
         # calculate salary
         pass
+```
