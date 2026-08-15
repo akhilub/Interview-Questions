@@ -63,6 +63,7 @@ public class SalaryCalculator {
 
 ### Open/Closed Principle (OCP)
 
+::: tabs
 
 ```python
 # Bad practice: Not open for extension, closed for modification
