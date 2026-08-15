@@ -213,3 +213,19 @@ class PaymentProcessor:
     def process_payment(self):
         self.repository.save_payment()
 ```
+
+
+
+
+@tab Python
+```python
+def hello():
+    print("Hello World")
+```
+
+@tab JavaScript
+```javascript
+function hello() {
+    console.log("Hello World");
+}
+```
