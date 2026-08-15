@@ -1,5 +1,5 @@
 
-## SOLID Principles in Java
+## SOLID Principles 
 
   
 The SOLID principles are a set of design principles aimed at promoting cleaner, more robust, and maintainable code. They consist of:  
@@ -13,3 +13,5 @@ The SOLID principles are a set of design principles aimed at promoting cleaner, 
 - **I** - Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use.
   
 - **D** - Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules, but both should depend on abstractions.
+
+
