@@ -129,7 +129,7 @@ public class Rectangle extends Shape {
 
 :::tabs
 
-@tab Pytho
+@tab Python
 ```python
 # Bad practice: Subtype not substitutable for base type
 class Bird:
