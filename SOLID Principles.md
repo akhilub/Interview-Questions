@@ -111,3 +111,5 @@ class Penguin(Bird):
 ```
 
 
+### Interface Segregation Principle (ISP)
+
