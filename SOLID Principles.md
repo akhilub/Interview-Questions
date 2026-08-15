@@ -175,3 +175,7 @@ class AdvancedPrinter(Printer, Fax, Scanner):
         # scan
         pass
 ```
+
+
+### Dependency Inversion Principle (DIP)
+
