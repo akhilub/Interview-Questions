@@ -77,6 +77,37 @@ class Rectangle(Shape):
 ### Liskov Substitution Principle (LSP)
 
 ```python
+# Bad practice: Subtype not substitutable for base type
+class Bird:
+    def fly(self):
+        pass
 
+class Eagle(Bird):
+    def fly(self):
+        # eagle flies
+        pass
+
+class Penguin(Bird):
+    def fly(self):
+        raise NotImplementedError("Penguin cannot fly")
+
+# Good practice: Subtype substitutable for base type
+class Bird:
+    pass
+
+class FlyingBird(Bird):
+    def fly(self):
+        pass
+
+class Eagle(FlyingBird):
+    def fly(self):
+        # eagle flies
+        pass
+
+class Penguin(Bird):
+    # Penguin-specific behavior
+    pass
 
 ```
+
+
