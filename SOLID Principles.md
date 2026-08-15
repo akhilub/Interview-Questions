@@ -267,6 +267,7 @@ class AdvancedPrinter(Printer, Fax, Scanner):
 
 ```
 
+@tab Java
 ```java
 // Bad practice: Client forced to depend on unused interface methods
 public interface Printer {
