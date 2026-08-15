@@ -73,3 +73,10 @@ class Rectangle(Shape):
         # calculate rectangle area
         pass
 ```
+
+### Liskov Substitution Principle (LSP)
+
+```python
+
+
+```
