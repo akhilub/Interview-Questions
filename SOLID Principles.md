@@ -44,3 +44,32 @@ class SalaryCalculator:
 ### Open/Closed Principle (OCP)
 
 
+```python
+# Bad practice: Not open for extension, closed for modification
+class Shape:
+    def area(self, shape_type):
+        if shape_type == "circle":
+            # calculate circle area
+            pass
+        elif shape_type == "rectangle":
+            # calculate rectangle area
+            pass
+
+# Good practice: Open for extension, closed for modification
+from abc import ABC, abstractmethod
+
+class Shape(ABC):
+    @abstractmethod
+    def area(self):
+        pass
+
+class Circle(Shape):
+    def area(self):
+        # calculate circle area
+        pass
+
+class Rectangle(Shape):
+    def area(self):
+        # calculate rectangle area
+        pass
+```
