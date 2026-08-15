@@ -45,6 +45,20 @@ class SalaryCalculator:
 
 @tab Java
 ```java
+// Bad practice: Multiple responsibilities in one class
+public class Employee {
+    public void saveEmployee() { /* save to database */ }
+    public void calculateSalary() { /* calculate salary */ }
+}
+
+// Good practice: Separate responsibilities into different classes
+public class EmployeeRepository {
+    public void saveEmployee() { /* save to database */ }
+}
+
+public class SalaryCalculator {
+    public void calculateSalary() { /* calculate salary */ }
+}
 ```
 
 ### Open/Closed Principle (OCP)
