@@ -312,6 +312,8 @@ public class AdvancedPrinter implements Printer, Fax, Scanner {
     public void scan() { /* scan */ }
 }
 ```
+
+:::
 ## Dependency Inversion Principle (DIP)
 
 
