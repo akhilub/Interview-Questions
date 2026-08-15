@@ -1,7 +1,4 @@
 
-## SOLID Principles 
-
-  
 The SOLID principles are a set of design principles aimed at promoting cleaner, more robust, and maintainable code. They consist of:  
 
 - **S** - Single Responsibility Principle (SRP): A class should have only one reason to change.
