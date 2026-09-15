@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Architecture.md",
+                "file": "NGNIX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend Architecture"
+              "title": "NGNIX"
             }
           },
           {
@@ -286,9 +286,9 @@
   },
   "active": "c7819257d95280f4",
   "lastOpenFiles": [
+    "Backend Architecture.md",
     "OOPS.md",
     "NGNIX.md",
-    "Backend Architecture.md",
     "Work Ideas.md",
     "System Design Popular Questions.md",
     "SOLID Principles.md",
