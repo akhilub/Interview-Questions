@@ -159,6 +159,7 @@
       }
     }
   },
+  "markdownImageDeletionPreference": "ask",
   "scriptEngineSettings": {},
   "autostartScripts": {},
   "autostartScriptFailures": {},
@@ -1113,7 +1114,6 @@
     "margin": "normal"
   },
   "disableContextMenu": false,
-  "markdownImageDeletionPreference": "ask",
   "onceOffGPTVersionReset": true,
   "autosave": true,
   "isDebugMode": false
