@@ -1,4 +1,4 @@
-It is a high performance server.
+It is a high performance server
 
 **6 Different Roles**
 
