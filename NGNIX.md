@@ -7,4 +7,4 @@ It is a high performance server
 - HTTPS Server
 - MailGun Server
 - TCP/UDP Server
-- Mail
+- Mail Pro
