@@ -4,4 +4,5 @@
 
 - Reverse Proxy Server
 - Load Balancer 
-- Https
+- HTTPS Server
+- 
