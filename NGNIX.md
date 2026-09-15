@@ -1,4 +1,5 @@
-It is a high performer s
+It is a high performer server
+
 6 Roles
 
 - Reverse Proxy Server
