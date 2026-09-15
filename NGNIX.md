@@ -5,4 +5,6 @@ It is a high performer server
 - Reverse Proxy Server
 - Load Balancer 
 - HTTPS Server
-- MailGun Server
+- Mail Proxy Server
+- TCP/UDP Server
+- Content Cache
