@@ -6,4 +6,5 @@ It is a high performance server
 - Load Balancer 
 - HTTPS Server
 - MailGun Server
-- TCP/UDP 
+- TCP/UDP Server
+- Mail
