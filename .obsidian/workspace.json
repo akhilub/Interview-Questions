@@ -254,8 +254,9 @@
   },
   "active": "c0d22c11fac9fba1",
   "lastOpenFiles": [
-    "Backend Architecture.md",
+    "Node.js Popular Interview Questions.md",
     "NGNIX.md",
+    "Backend Architecture.md",
     "OOPS.md",
     "System Design Popular Questions.md",
     "SOLID Principles.md",
@@ -267,7 +268,6 @@
     "MemeCached vs Redis.md",
     "MemeCached vs Redis.svg",
     "MSW.md",
-    "Node.js Popular Interview Questions.md",
     "React Interview Questions.md",
     "Slack.md",
     "Work Ideas.md",
