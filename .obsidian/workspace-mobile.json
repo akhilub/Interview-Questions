@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Popular Questions.md",
+                "file": "NGNIX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design Popular Questions"
+              "title": "NGNIX"
             }
           },
           {
@@ -270,14 +270,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e59d6b7c039ec718",
+  "active": "10d431a579fe50b8",
   "lastOpenFiles": [
+    "System Design Popular Questions.md",
     "Work Ideas.md",
     "MemeCached vs Redis.md",
     "MemeCached vs Redis.svg",
     "MSW.md",
     "NGNIX.md",
-    "System Design Popular Questions.md",
     "SOLID Principles.md",
     "100 Must Know Python interview questions.md",
     "React Interview Questions.md",
