@@ -11,14 +11,12 @@
             "id": "e59d6b7c039ec718",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NGNIX.md",
-                "mode": "source",
-                "source": false
+                "file": "dom.svg"
               },
-              "icon": "lucide-file",
-              "title": "NGNIX"
+              "icon": "lucide-image",
+              "title": "dom"
             }
           },
           {
@@ -272,12 +270,12 @@
   },
   "active": "e59d6b7c039ec718",
   "lastOpenFiles": [
+    "NGNIX.md",
     "System Design Popular Questions.md",
     "Work Ideas.md",
     "MemeCached vs Redis.md",
     "MemeCached vs Redis.svg",
     "MSW.md",
-    "NGNIX.md",
     "SOLID Principles.md",
     "100 Must Know Python interview questions.md",
     "React Interview Questions.md",
