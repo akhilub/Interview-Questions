@@ -11,12 +11,14 @@
             "id": "e59d6b7c039ec718",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "dom.svg"
+                "file": "React Interview Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "dom"
+              "icon": "lucide-file",
+              "title": "React Interview Questions"
             }
           },
           {
@@ -270,6 +272,7 @@
   },
   "active": "e59d6b7c039ec718",
   "lastOpenFiles": [
+    "dom.svg",
     "NGNIX.md",
     "System Design Popular Questions.md",
     "Work Ideas.md",
@@ -283,7 +286,6 @@
     "Node.js Popular Interview Questions.md",
     "Backend Architecture.md",
     "/NGNIX.md",
-    "dom.svg",
     "Gate ScoreCard (1).pdf",
     "Preeti_Resume_21Jul.pdf",
     "LandlordHRADeclaration_A.pdf",
