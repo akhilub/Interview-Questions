@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment Strategies.md",
+                "file": "Pasted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployment Strategies"
+              "title": "Pasted"
             }
           }
         ],
@@ -254,9 +254,10 @@
   },
   "active": "c0d22c11fac9fba1",
   "lastOpenFiles": [
+    "Deployment Strategies.md",
+    "Pasted.md",
     "Pasted image 20260926102545.png",
     "NGNIX.md",
-    "Deployment Strategies.md",
     "System Design Popular Questions.md",
     "Work Ideas.md",
     "GIT.md",
