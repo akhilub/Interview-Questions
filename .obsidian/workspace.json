@@ -51,12 +51,14 @@
             "id": "c0d22c11fac9fba1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260926102545.png"
+                "file": "Deployment Strategies.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260926102545"
+              "icon": "lucide-file",
+              "title": "Deployment Strategies"
             }
           }
         ],
@@ -250,12 +252,12 @@
       "jotbird:Publish note": false
     }
   },
-  "active": "62cca65b1fc8362e",
+  "active": "c0d22c11fac9fba1",
   "lastOpenFiles": [
+    "Pasted image 20260926102545.png",
     "Deployment Strategies.md",
     "deploy.gif",
     "Pasted.md",
-    "Pasted image 20260926102545.png",
     "NGNIX.md",
     "System Design Popular Questions.md",
     "Work Ideas.md",
