@@ -46,3 +46,5 @@ Perfect for testing performance under real load with zero user risk.
 Interview tip: when asked "how would you deploy this safely?", don't just name one. Talk about the trade-off between speed, cost and risk.
 
 That's what interviewers want to hear.
+
+
