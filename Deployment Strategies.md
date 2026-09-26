@@ -47,5 +47,5 @@ Interview tip: when asked "how would you deploy this safely?", don't just name o
 
 That's what interviewers want to hear.
 
-![[deploy.gif]]
+![[deployment-strategies.gif]]
 
