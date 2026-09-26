@@ -30,3 +30,19 @@ Catch: old and new versions run side by side for a while, so they must work toge
 Stop the old version fully, then start the new one.
 
 Simplest option, but users face downtime. Fine for internal tools, risky for anything customer-facing.
+
+5. A/B testing
+
+Split users between two versions and compare results like clicks or sign-ups.
+
+This one is less about safe releases and more about product decisions.
+
+6. Shadow
+
+Copy real traffic to the new version but throw away its responses. Users never see it.
+
+Perfect for testing performance under real load with zero user risk.
+
+Interview tip: when asked "how would you deploy this safely?", don't just name one. Talk about the trade-off between speed, cost and risk.
+
+That's what interviewers want to hear.
