@@ -47,7 +47,6 @@ Interview tip: when asked "how would you deploy this safely?", don't just name o
 
 That's what interviewers want to hear.
 
-![]()
 
 
 ![[Pasted image 20260926102545.png]]
