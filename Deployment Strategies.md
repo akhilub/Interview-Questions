@@ -51,4 +51,3 @@ That's what interviewers want to hear.
 
 ![[deploy.gif]]
 
-![[Pasted image 20260926102545.png]]
