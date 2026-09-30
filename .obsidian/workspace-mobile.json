@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment Strategies.md",
+                "file": "NGNIX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployment Strategies"
+              "title": "NGNIX"
             }
           },
           {
@@ -287,9 +287,9 @@
   },
   "active": "dfba50ab257ec75e",
   "lastOpenFiles": [
+    "Deployment Strategies.md",
     "deployment-strategies.gif",
     "React Interview Questions.md",
-    "Deployment Strategies.md",
     "dom.svg",
     "NGNIX.md",
     "System Design Popular Questions.md",
