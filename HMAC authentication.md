@@ -45,7 +45,7 @@ Instead of sending this secret key over the network (like a standard password or
 
 ## 🔄 The HMAC Authentication Workflow
 
-```unset
+```bash
 [ Client ]                                                       [ Server ]
     │                                                                │
     ├── 1. Prepares Request Data (Method, URL, Body, Timestamp)      │
