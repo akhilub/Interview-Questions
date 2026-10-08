@@ -72,7 +72,7 @@ Before sending a request, the client bundles specific parts of the request toget
 - Step A: Create the string to sign.
 
 ```text
-    StringToSign = HTTP_Method + "\n" + Request_URI + "\n" + Timestamp + "\n" + Request_Body
+StringToSign = HTTP_Method + "\n" + Request_URI + "\n" + Timestamp + "\n" + Request_Body
 ```
     
     _(Adding a Timestamp is crucial. It prevents "replay attacks" where a hacker steals a valid signature and tries to reuse it hours later. The server will reject requests if the timestamp is older than, say, 5 minutes)._
