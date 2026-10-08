@@ -86,7 +86,6 @@ Signature = HMAC_SHA256(StringToSign, Shared_Secret_Key)
 ```
 
 - Step C: Send the request.  
-- 
 The client sends the actual data, the timestamp, and the generated signature in the HTTP headers.
     
     ```http
