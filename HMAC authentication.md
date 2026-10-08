@@ -70,7 +70,7 @@ Instead of sending this secret key over the network (like a standard password or
 Before sending a request, the client bundles specific parts of the request together into a single string. This is called the Canonical String.
 
 - Step A: Create the string to sign.
-    
+
 ```text
     StringToSign = HTTP_Method + "\n" + Request_URI + "\n" + Timestamp + "\n" + Request_Body
 ```
