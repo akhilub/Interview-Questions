@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment Strategies.md",
+                "file": "HMAC authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployment Strategies"
+              "title": "HMAC authentication"
             }
           }
         ],
@@ -254,10 +254,10 @@
   },
   "active": "c0d22c11fac9fba1",
   "lastOpenFiles": [
+    "Deployment Strategies.md",
     "HMAC authentication.md",
     "2015.292174.Phaldipika.pdf",
     "deployment-strategies.gif",
-    "Deployment Strategies.md",
     "Pasted image 20260926102545.png",
     "Pasted.md",
     "NGNIX.md",
