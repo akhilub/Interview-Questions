@@ -80,11 +80,11 @@ _(Adding a Timestamp is crucial. It prevents "replay attacks" where a hacker s
 - Step B: Generate the HMAC.  
 
 The client hashes the `StringToSign` using a hashing algorithm (like SHA-256) and the shared secret key.
-	
+
 ```text
 Signature = HMAC_SHA256(StringToSign, Shared_Secret_Key)
 ```
-    
+
 - Step C: Send the request.  
     The client sends the actual data, the timestamp, and the generated signature in the HTTP headers.
     
