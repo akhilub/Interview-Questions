@@ -1,5 +1,38 @@
 
+HMAC (Hash-based Message Authentication Code) authentication is used ==to verify both the integrity and authenticityof a message using a shared secret key and a cryptographic hash function==. [1, 2] 
 
+## What HMAC Does
+
+- Data Integrity: It proves that the message has not been altered or tampered with in transit. Even a tiny change to the message results in a completely different code.
+- Authenticity (Sender Verification): It proves that the message came from a trusted sender who possesses the correct secret key. [3, 4] 
+
+## Common Use Cases
+
+- [Webhook Verification](https://blog.gitguardian.com/hmac-secrets-explained-authentication/): Platforms like Stripe, GitHub, and Slack use HMAC signatures to let your server verify that incoming webhook events are legitimate.
+- API Authentication: Securing requests in service-to-service communication where both endpoints share a private API secret.
+- Session Tokens: Signing cookies or JSON Web Tokens (JWTs like HS256) to prevent malicious tampering on the client side.
+- Secure File Transfers: Validating data packets and files in transfer protocols (like SFTP or FTPS). [1, 5, 6] 
+
+If you're working on a project, let me know:
+
+- What language or framework you are using
+- Which specific service (like Stripe or a custom API) you are trying to connect
+
+I can share a code snippet to help you implement it safely.
+
+  
+
+[1] [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org/computer-networks/what-is-hmachash-based-message-authentication-code/)
+
+[2] [https://www.okta.com](https://www.okta.com/en-in/identity-101/hmac/)
+
+[3] [https://www.youtube.com](https://www.youtube.com/watch?v=gmdb6ElJQTo)
+
+[4] [https://www.youtube.com](https://www.youtube.com/watch?v=pL7W9uzMSz0&t=1)
+
+[5] [https://blog.gitguardian.com](https://blog.gitguardian.com/hmac-secrets-explained-authentication/)
+
+[6] [https://kinde.com](https://kinde.com/learn/authentication/passwords/hash-based-message-authentication-codes-hmac/)
 
 
 
