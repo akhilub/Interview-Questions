@@ -35,7 +35,7 @@ I can share a code snippet to help you implement it safely.
 [6] [https://kinde.com](https://kinde.com/learn/authentication/passwords/hash-based-message-authentication-codes-hmac/)
 
 
-## How do we do API authentication via it?
+## How do we do API authentication via HMAC?
 
 To perform API authentication using HMAC, ==the client and the server must first securely share a private secret key==.
 
