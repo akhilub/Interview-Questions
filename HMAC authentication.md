@@ -89,15 +89,15 @@ Signature = HMAC_SHA256(StringToSign, Shared_Secret_Key)
 
 The client sends the actual data, the timestamp, and the generated signature in the HTTP headers.
     
-    ```http
-    POST /api/v1/payments
-    X-API-Key: client_public_identifier
-    X-Signature: 9b741g8... (The generated HMAC)
-    X-Timestamp: 1791497940
-    Content-Type: application/json
-    
-    {"amount": 100, "currency": "INR"}
-    ```
+```http
+POST /api/v1/payments
+X-API-Key: client_public_identifier
+X-Signature: 9b741g8... (The generated HMAC)
+X-Timestamp: 1791497940
+Content-Type: application/json
+
+{"amount": 100, "currency": "INR"}
+```
     
 
 ## 2. The Server Verifies the Request
