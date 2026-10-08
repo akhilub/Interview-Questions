@@ -1,4 +1,9 @@
 
+
+
+
+
+
 To perform API authentication using HMAC, ==the client and the server must first securely share a private secret key==.
 
 Instead of sending this secret key over the network (like a standard password or API key), the client uses it to generate a unique digital signature for each request. The server then recalculates the signature to verify it.
