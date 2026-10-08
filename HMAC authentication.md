@@ -78,8 +78,9 @@ StringToSign = HTTP_Method + "\n" + Request_URI + "\n" + Timestamp + "\n" + Requ
 _(Adding a Timestamp is crucial. It prevents "replay attacks" where a hacker steals a valid signature and tries to reuse it hours later. The server will reject requests if the timestamp is older than, say, 5 minutes)._
 
 - Step B: Generate the HMAC.  
-The client hashes the `StringToSign` using a hashing algorithm (like SHA-256) and the shared secret key.
-    
+-
+	The client hashes the `StringToSign` using a hashing algorithm (like SHA-256) and the shared secret key.
+	    
     ```text
     Signature = HMAC_SHA256(StringToSign, Shared_Secret_Key)
     ```
