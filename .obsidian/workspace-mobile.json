@@ -109,8 +109,7 @@
               "title": "MemeCached vs Redis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,7 +284,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfba50ab257ec75e",
+  "active": "e59d6b7c039ec718",
   "lastOpenFiles": [
     "NGNIX.md",
     "Deployment Strategies.md",
