@@ -49,7 +49,7 @@ Instead of sending this secret key over the network (like a standard password or
 [ Client ]                                                       [ Server ]
     │                                                                │
     ├── 1. Prepares Request Data (Method, URL, Body, Timestamp)      │
-    ├── 2. Signs data with Shared Secret -> Generates Signature     │
+    ├── 2. Signs data with Shared Secret -> Generates Signature      │
     │                                                                │
     ├── 3. Sends Request + Signature + Timestamp ───────────────────>│
     │                                                                │
