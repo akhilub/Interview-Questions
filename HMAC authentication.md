@@ -125,3 +125,9 @@ To provide a ready-to-use code example for this authentication flow, let me know
 - What backend language or framework you are building the server with? (e.g., Node.js/Express, Python/FastAPI, Java, C#)
 
 - Do you need both the client-side generation and server-side verification code?
+
+
+
+what is x-api-key:client_public_identifier that is being sent in header?
+
+
