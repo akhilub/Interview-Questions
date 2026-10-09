@@ -131,3 +131,34 @@ To provide a ready-to-use code example for this authentication flow, let me know
 what is x-api-key:client_public_identifier that is being sent in header?
 
 
+The `X-API-Key: client_public_identifier` is ==a public string that tells the server who is sending the request, without giving away the secret key==.
+
+Think of it like a Username, while the HMAC signature acts as a one-time Password.
+
+## 🔑 Why is it needed?
+
+When a request arrives, the server needs to recalculate the HMAC signature to verify it. To do that, the server must use the exact same `Shared_Secret_Key` that the client used.
+
+However, a server usually manages hundreds or thousands of clients, and each client has their own unique secret key. The server uses the `client_public_identifier` (often called an API Key ID, Client ID, or Public Key) to look up the correct secret key in its database.
+
+---
+
+## 🏢 How it looks in practice (Database View)
+
+Inside your server's database, you will have a table that pairs these public identifiers with their private secrets:
+
+|Client Public Identifier (`X-API-Key`)|Shared Secret Key (Stored Securely)|Client Name|
+|---|---|---|
+|`pub_ident_9832`|`sec_key_xyz789...`|Acme Corp|
+|`pub_ident_4410`|`sec_key_abc123...`|Wayne Enterprises|
+
+---
+
+## 🛡️ Is it safe to send out in the open?
+
+Yes. It is completely safe to send in the HTTP header because:
+
+1. It is just an ID: Knowing the public identifier does not allow an attacker to forge a signature, because they still do not have the `Shared_Secret_Key`.
+2. It saves server time: Without this identifier, the server would have to guess who sent the request and blindly test _every single secret key_ in its database until it found a matching signature. For a platform with thousands of users, this would crash the server.
+
+Would you like to see a practical code example (like in Node.js or Python) showing exactly how the server receives this public ID, pulls the secret from a database, and validates the request?
