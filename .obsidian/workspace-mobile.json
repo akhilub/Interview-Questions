@@ -123,8 +123,7 @@
               "title": "MemeCached vs Redis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,7 +298,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10d431a579fe50b8",
+  "active": "e59d6b7c039ec718",
   "lastOpenFiles": [
     "HMAC authentication.md",
     "Untitled.md",
