@@ -123,8 +123,7 @@
               "title": "MemeCached vs Redis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,6 +285,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "k-plex:Open K-Plex": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian42-brat:BRAT": false,
       "jotbird:Publish note": false,
@@ -299,10 +299,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7d72309fe738846",
+  "active": "e59d6b7c039ec718",
   "lastOpenFiles": [
-    "React Interview Questions.md",
     "HMAC authentication.md",
+    "Untitled.md",
+    "React Interview Questions.md",
     "NGNIX.md",
     "Deployment Strategies.md",
     "deployment-strategies.gif",
@@ -336,7 +337,6 @@
     "Untitled.base",
     "Untitled 1.base",
     "/GIT.md",
-    "/Work Ideas.md",
     "AmitKumarGupta_jumpcloud 2.pdf",
     "Excalidraw",
     "AcctStatement_XXX7892_16042026.pdf",
