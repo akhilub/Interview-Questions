@@ -285,6 +285,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "k-plex:Open K-Plex": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian42-brat:BRAT": false,
       "jotbird:Publish note": false,
