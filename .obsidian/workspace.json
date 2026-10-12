@@ -239,6 +239,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "k-plex:Open K-Plex": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
